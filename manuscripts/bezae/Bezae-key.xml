@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE TEI [
+<!ENTITY ur "ur"><!-- ur digraph-->
+<!ENTITY nt "nt"><!-- nt digraph-->
+<!ENTITY om "⸆"><!-- omission (blank first hand reading)-->
+<!ENTITY et "&amp;"><!-- et digraph as ampersand-->
+]>
+<?xml-stylesheet type="text/xsl" href="bezae.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="Bezae-key" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 TEI-NTMSS.xsd"><teiHeader>
+    <fileDesc>      
+      <titleStmt>
+ <title type="document" >Key for Transcription of Codex Bezae</title>
+         <title type="short">Key</title>
+<respStmt><resp>Created by</resp><name>the International Greek New Testament Project</name>
+</respStmt>
+<funder>Cambridge University Library</funder> 
+<sponsor><name type="org">The Institute for Textual Scholarship and Electronic Editing</name></sponsor> 
+</titleStmt>
+<publicationStmt>
+<publisher>
+ <name type="org">The International Greek New Testament Project (IGNTP)</name></publisher> 
+ <date>20.6.2012</date>
+<availability><p>Available for noncommercial re-use provided attribution is made to the original creators and the subsequent derivative is licensed as ShareAlike (Creative Commons by-nc-sa)</p></availability></publicationStmt>
+</fileDesc>
+
+<encodingDesc>
+<projectDesc n="key">This is the key for the transcription of Codex Bezae.</projectDesc>
+</encodingDesc>
+
+<revisionDesc> 
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb rend="line-key-heading"/><hi rend="bolditalic">Please note that most of the key features in the transcription have mouse-over boxes associated with them: if you place your cursor over the text, a box will appear describing the feature.</hi>
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/><hi rend="bold">CODICOLOGICAL INFORMATION</hi>
+<lb rend="line-key-heading"/><hi rend="bolditalic">At the top of the transcription of each page is given</hi>
+<lb rend="line-key"/>The folio number (corresponding to Folio number (pencil): see below)
+<lb rend="line-key"/>A link to the image of the page
+<lb rend="line-key"/>The quire number (corresponding to Quire signature (pencil): see below; but translated into arabic numerals)
+<lb rend="line-key"/>Surface: hair or flesh.
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/><hi rend="bold">COLOURS</hi>
+<lb rend="line-key"/><note type="editorial">Blue text</note> indicates a note. Mouse-over displays a box giving information about the correction
+<lb rend="line-key"/><rdg type="orig">Green text</rdg> indicates a correction. Mouse-over displays a box giving information about the correction
+<lb rend="line-key"/><unclear>Grey text</unclear> indicates text that is hard to read and whose reconstruction is uncertain, or partially preserved letters
+<lb rend="line-key"/><supplied>Red text</supplied> indicates lost text that we have supplied to suggest what may have been present
+<lb rend="line-key"/><fw type="lectTitle">Purple text</fw> indicates a marginal lectionary note. Mouse-over displays a box giving information about the note
+<lb rend="line-key"/><hi rend="rubric">Dark red text</hi> reproduces red ink in the manuscript (used in the first three lines of each book and alternating parts of the Explicit and Incipits)
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/><hi rend="bold">PARATEXTUAL INFORMATION</hi>
+<lb rend="line-key-heading"/><hi rend="bolditalic">Ammonian Sections</hi><lb rend="line-key"/>Added in the left margin in the sixth century, these paragraph numbers are one part of the Eusebian Apparatus for locating parallel passages in the Gospels
+<lb rend="line-key-heading"/><hi rend="bolditalic">Chapter Reference</hi><lb rend="line-key"/>Added in the right margin of the Latin text by a sixteenth/seventeenth century hand, with a matching content indication in the top outer margin (sometimes includes verse number)
+<lb rend="line-key-heading"/><hi rend="bolditalic">Explicit</hi><lb rend="line-key"/>A line stating the name of the book which has just ended, written below the last line
+<lb rend="line-key"/>Supplied in this transcription to the right of the text (in grey)
+<lb rend="line-key-heading"/><hi rend="bolditalic">Folio number (ink)</hi><lb rend="line-key"/>A set in ink subsequently crossed out, numbering the extant leaves, written in the top outer margin of the recto; displayed in black
+<lb rend="line-key-heading"/><hi rend="bolditalic">Folio number (pencil)</hi><lb rend="line-key"/>A set in pencil, taking account of the missing leaves, beginning at 3r, written in the top outer margin of the recto. These are the numbers used in Scrivener’s transcription, the facsimile, and this edition; displayed in grey
+<lb rend="line-key-heading"/><hi rend="bolditalic">Hermeneiai</hi><lb rend="line-key"/>Sentences for fortune telling added in the lower margin of many pages of Mark
+<lb rend="line-key-heading"/><hi rend="bolditalic">Incipit</hi><lb rend="line-key"/>The heading for a book (written below the explicit of the book ending on the previous page)
+<lb rend="line-key-heading"/><hi rend="bolditalic">Lect.</hi><lb rend="line-key"/>Indicates a lection heading or indicator; displayed in purple
+<lb rend="line-key-heading"/><hi rend="bolditalic">Library note</hi><lb rend="line-key"/>Annotations referring to content and foliation, of various dates
+<lb rend="line-key-heading"/><hi rend="bolditalic">Line numbers</hi><lb rend="line-key"/>Supplied in this transcription to the left of the text (in grey)
+<lb rend="line-key-heading"/><hi rend="bolditalic">Modern chapter number</hi><lb rend="line-key"/>Supplied in this transcription to the right of the text (in grey)
+<lb rend="line-key-heading"/><hi rend="bolditalic">Modern verse number</hi><lb rend="line-key"/>Supplied in this transcription to the right of the text (in grey)
+<lb rend="line-key-heading"/><hi rend="bolditalic">Quire signature (ink)</hi><lb rend="line-key"/>An ancient set in ink in Greek numerals is written in the inner lower corner of the last leaf of each quire
+<lb rend="line-key-heading"/><hi rend="bolditalic">Quire signature (pencil)</hi><lb rend="line-key"/>A nineteenth century set in pencil using two sequences: (1) of Greek numerals (e.g. IH) is written in the outer lower corner of the first recto of each quire; (2) of roman characters, first lower case and then upper case and then upper followed by lower (e.g. h, H, Hh), followed by a leaf numeration, is written in the outer lower corner of the first four rectos of each quire (e.g. s1). This sequence follows the numeration of the ancient set, allowing for the lost sections
+<lb rend="line-key"/>A cross is written in ink in the outer lower corner of the central  recto of each quire. It is probably later than the ancient set of quire signatures, but is pre-modern
+<lb rend="line-key-heading"/><hi rend="bolditalic">Running Title</hi><lb rend="line-key"/>Running titles in the centre of the upper margin supplied by the original scribe
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/><hi rend="bold">ABBREVIATIONS</hi> 
+<lb rend="line-key-heading"/>Abbreviations are expanded with the use of brackets ( e.g. eu̅  is shown as eu(m) )
+<lb rend="line-key-heading"/>All nomina sacra are reproduced as they appear in the manuscript with an overline.
+<lb rend="line-key-heading"/>No capital letters are recorded in the biblical text.
+<lb rend="line-key-heading"/>
+<lb/>
+<lb rend="line-key-heading"/><hi rend="bold">LAY OUT AND PUNCTUATION</hi>
+<lb rend="line-key-heading"/>The transcription sets out the text as it appears by page and by line in the manuscript
+<lb rend="line-key-heading"/>Hanging lines are replicated
+<lb rend="line-key-heading"/>Short lines appearing beneath the end of the line above are ‘right-justified’
+<lb rend="line-key-heading"/>The following punctuation is included in the transcription:
+<lb rend="lineleft"/>Symbol<space unit="char" extent="4"/>Represents
+<lb rend="lineleft"/>. <space unit="char" extent="6"/>low point (rare)
+<lb rend="lineleft"/>·<space unit="char" extent="7"/>middle point (the default option when there is doubt about the placing)
+<lb rend="lineleft"/>˙<space unit="char" extent="7"/>high point
+<lb rend="lineleft"/>?<space unit="char" extent="6"/>question mark (Latin supplement only)
+<lb rend="lineleft"/>’<space unit="char" extent="7"/>apostrophe
+<lb rend="lineleft"/>¶<space unit="char" extent="6"/>paragraph mark (diagonal line added by later hand)
+<lb rend="lineleft"/>:<space unit="char" extent="7"/>double point not added to correlate to an Ammonian Section number
+<lb rend="lineleft"/><space unit="char" extent="7"/>space
+<lb rend="lineleft"/>ϋ<space unit="char" extent="6"/>diaeresis
+<lb rend="lineleft"/>υ̇<space unit="char" extent="6"/>single-dot diaeresis
+<lb rend="line-key-heading"/>Occasional accents or breathing marks are reproduced
+<lb rend="line-key-heading"/>No enlarged initial letters are recorded
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/><hi rend="bold">DISPLAY OF CORRECTIONS</hi>
+<lb rend="line-key-heading"/>A corrected word is shown in <rdg type="orig">green</rdg>. Mouse-over displays a box giving information about the correction.
+<lb rend="line-key-heading"/>Where a word supplied by a corrector was originally absent,  <rdg type="orig">⸆</rdg> marks the correction.
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/><hi rend="bold">CORRECTION SYMBOLS</hi>
+<lb rend="line-key"/><hi rend="bold">Original (first hand)</hi><space unit="char" extent="4"/>The scribe of the manuscript. 
+<lb rend="line-key"/><hi rend="bold">A</hi><space unit="char" extent="4"/>A corrector responsible for approximately 175 corrections, almost all to the Greek text
+<lb rend="line-key"/><hi rend="bold">B</hi><space unit="char" extent="4"/>A corrector responsible for approximately 330 corrections, almost all to the Greek text
+<lb rend="line-key"/><hi rend="bold">C</hi><space unit="char" extent="4"/>A corrector responsible for over 130 corrections, almost all to the Greek text
+<lb rend="line-key"/><hi rend="bold">D</hi><space unit="char" extent="4"/>A corrector responsible for nearly 170 corrections, almost all to the Greek text
+<lb rend="line-key"/><hi rend="bold">E</hi><space unit="char" extent="4"/>A corrector responsible for approximately 65 corrections to the Greek text
+<lb rend="line-key"/><hi rend="bold">F</hi><space unit="char" extent="4"/>A corrector responsible for approximately 30 corrections to the Greek text
+<lb rend="line-key"/><hi rend="bold">G</hi><space unit="char" extent="4"/>A corrector responsible for nearly 300 corrections to the Greek and 3 to the Latin text
+<lb rend="line-key"/><hi rend="bold">H</hi><space unit="char" extent="4"/>A corrector responsible for nearly 90 corrections, almost all to the Greek text
+<lb rend="line-key"/><hi rend="bold">I</hi><space unit="char" extent="4"/>Responsible for lectionary notes on Folios 129v and 318v
+<lb rend="line-key"/><hi rend="bold">J</hi><space unit="char" extent="4"/>Responsible for a lectionary note on Folio 150v
+<lb rend="line-key"/><hi rend="bold">J1</hi><space unit="char" extent="4"/>A corrector responsible for the corrections to John 15.2 (Folios 160v-1)
+<lb rend="line-key"/>(<hi rend="bold">K</hi><space unit="char" extent="4"/>A symbol used by Scrivener to indicate various later corrections and notes, displayed in this transcription as <hi rend="bold">s.m.</hi>)
+<lb rend="line-key"/><hi rend="bold">L</hi><space unit="char" extent="4"/>A hand responsible for adding the Ammonian Section numbers to the Greek text throughout the Gospels and for 2 corrections to the Greek text of Luke
+<lb rend="line-key"/><hi rend="bold">M</hi><space unit="char" extent="4"/>Responsible for lectionary notes in Matthew and Luke and for a few corrections to the Greek text
+<lb rend="line-key"/><hi rend="bold">M1</hi><space unit="char" extent="4"/>A hand responsible for τιτλοί (chapter titles) in the Greek text of Matthew (possibly the same hand as M2)
+<lb rend="line-key"/><hi rend="bold">M2</hi><space unit="char" extent="4"/>A hand responsible for τιτλοί (chapter titles) in the Greek text of John and Luke (possibly the same hand as M1)
+<lb rend="line-key"/><hi rend="bold">M4</hi><space unit="char" extent="4"/>Responsible for lectionary notes in the Greek text of Mark and Acts
+<lb rend="line-key"/><hi rend="bold">manu recentissima</hi><space unit="char" extent="4"/>Corrections on Folio 184r and one on Folio 272r (22.10)
+<lb rend="line-key"/><hi rend="bold">N</hi><space unit="char" extent="4"/>Responsible for lectionary notes in the Greek text of Acts
+<lb rend="line-key"/><hi rend="bold">O</hi><space unit="char" extent="4"/>Responsible for lectionary notes in the Greek text of Acts
+<lb rend="line-key"/><hi rend="bold">O2</hi><space unit="char" extent="4"/>Responsible for lectionary notes in the Greek text of Acts
+<lb rend="line-key"/><hi rend="bold">p.m.</hi><space unit="char" extent="4"/>Indicates the reading of the first hand, the scribe of the manuscript. (p.m. = prima manus)
+<lb rend="line-key"/><hi rend="bold">s.m.</hi><space unit="char" extent="4"/>Used for corrections which cannot be attributed to a particular hand, such as erasures or single strokes of the pen (s.m. = secunda manus)
+<lb rend="line-key"/><hi rend="bold">supplement</hi><space unit="char" extent="4"/>Indicates the scribe who wrote the supplementary leaves (Folios 7*, 169*-175* and 348*).
+<lb/>
+<lb rend="line-key-heading"/><hi rend="bold">CHRONOLOGY OF THE CORRECTORS</hi>
+<lb rend="line-key"/><hi rend="bold">c. 400</hi><space unit="char" extent="6"/>G
+<lb rend="line-key"/><hi rend="bold">400-440</hi><space unit="char" extent="4"/>A
+<lb rend="line-key"/><hi rend="bold">400-450</hi><space unit="char" extent="4"/>B<space unit="char" extent="4"/>C
+<lb rend="line-key"/><hi rend="bold">450</hi><space unit="char" extent="4"/><space unit="char" extent="4"/>D
+<lb rend="line-key"/><hi rend="bold">450-500</hi><space unit="char" extent="4"/>E<space unit="char" extent="4"/>F<space unit="char" extent="4"/>H<space unit="char" extent="4"/>J1
+<lb rend="line-key"/><hi rend="bold">550-600</hi><space unit="char" extent="4"/>J<space unit="char" extent="4"/>M1<space unit="char" extent="4"/>M2<space unit="char" extent="4"/>L
+<lb rend="line-key"/><hi rend="bold">550-650</hi><space unit="char" extent="4"/>I<space unit="char" extent="4"/>M<space unit="char" extent="4"/>M4<space unit="char" extent="4"/>N<space unit="char" extent="4"/>O<space unit="char" extent="4"/>O2
+<lb rend="line-key"/><hi rend="bold">830-50</hi><space unit="char" extent="4"/>supplement
+<lb rend="line-key-heading"/>
+<lb rend="line-key-heading"/>For further information about the correctors and other features included in the transcription, see D.C. Parker, <hi rend="bolditalic">Codex Bezae.  An Early Christian Manuscript and Its Text</hi>, Cambridge: Cambridge University Press, 1992 (<hi rend="hyperlink">www.cambridge.org/9780521072366</hi>).
+<lb/><lb/>
+<lb rend="line-key-heading"/><hi rend="bold">ENCODING AND FEEDBACK</hi>
+<lb rend="line-key-heading"/>The transcriptions are encoded as XML following version 1.3 of the IGNTP guidelines for XML encoding of New Testament manuscripts (available from <hi rend="hyperlink">epapers.bham.ac.uk/1656/</hi>). 
+<lb rend="line-key"/>They are licensed as Creative Commons by-nc-sa, and are also available for download from the University of Birmingham Institutional Repository (<hi rend="hyperlink">epapers.bham.ac.uk/1663/</hi> for the Greek transcription and <hi rend="hyperlink">epapers.bham.ac.uk/1664/</hi> for the Latin transcription). <lb rend="line-key"/>For comments or questions about the transcriptions, please email <hi rend="hypermail">webmaster@iohannes.com</hi>. 
+</body></text></TEI>

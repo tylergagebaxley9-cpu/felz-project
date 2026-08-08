@@ -1,0 +1,327 @@
+import { useState, useCallback, memo } from 'react'
+import type { Verse, ReaderSettings, TranslationEntry } from '../types/bible'
+import { WordCard } from './WordCard'
+import { ShareVerse } from './ShareVerse'
+import { AnnotationEditor } from './AnnotationEditor'
+import { VariantIndicator } from './VariantIndicator'
+import { ConfidenceBadge, ConfidencePill } from './ConfidenceBadge'
+
+interface VerseViewProps {
+  verse: Verse
+  settings: ReaderSettings
+  bookAbbrev: string
+  bookName?: string
+  chapter: number
+  isBookmarked: boolean
+  onToggleBookmark: (verseNum: number) => void
+}
+
+export const VerseView = memo(function VerseView({
+  verse,
+  settings,
+  bookAbbrev,
+  bookName,
+  chapter,
+  isBookmarked,
+  onToggleBookmark,
+}: VerseViewProps) {
+  const { readingMode, showTransliteration, showLxx, showKjv, showAiTranslation, fontSize } = settings
+  const hasLxx = verse.translations?.lxx
+  const hasKjv = verse.translations?.kjv
+  const hasDual = hasLxx || hasKjv
+  const [, setAnnotationKey] = useState(0)
+  const handleAnnotationChange = useCallback(() => setAnnotationKey(k => k + 1), [])
+
+  return (
+    <div
+      id={`verse-${verse.num}`}
+      className="group py-4 scroll-mt-20"
+      style={{ fontSize }}
+    >
+      {/* Verse number + bookmark + variant + actions */}
+      <div className="flex items-start gap-2">
+        <div className="flex-shrink-0 flex items-center gap-1 mt-1 w-8 justify-end">
+          <button
+            onClick={() => onToggleBookmark(verse.num)}
+            className="flex items-center gap-0.5 cursor-pointer select-none"
+            aria-label={isBookmarked ? `Remove bookmark from verse ${verse.num}` : `Bookmark verse ${verse.num}`}
+          >
+            <span className="text-accent/50 text-xs tabular-nums font-body italic">
+              {verse.num}
+            </span>
+            {isBookmarked && (
+              <svg
+                className="w-3 h-3 text-accent fill-current"
+                viewBox="0 0 24 24"
+                aria-hidden="true"
+              >
+                <path d="M5 2h14a1 1 0 011 1v19.143a.5.5 0 01-.766.424L12 18.03l-7.234 4.536A.5.5 0 014 22.143V3a1 1 0 011-1z" />
+              </svg>
+            )}
+          </button>
+          <VariantIndicator book={bookAbbrev} chapter={chapter} verse={verse.num} />
+        </div>
+
+        <div className="flex-1 space-y-3">
+          {/* Study mode: word cards */}
+          {readingMode === 'study' && verse.words.length > 0 && (
+            <div className="flex flex-wrap gap-1 items-baseline">
+              {verse.words.map((word, i) => (
+                <WordCard
+                  key={i}
+                  word={word}
+                  showTransliteration={showTransliteration}
+                  fontSize={fontSize}
+                />
+              ))}
+            </div>
+          )}
+
+          {/* Translation lines */}
+          {readingMode === 'study' && (
+            <TranslationBlock
+              verse={verse}
+              hasDual={!!hasDual}
+              showLxx={showLxx}
+              showKjv={showKjv}
+              showAiTranslation={showAiTranslation}
+              fontSize={fontSize}
+            />
+          )}
+
+          {readingMode === 'read' && (
+            <ReadModeBlock verse={verse} showAiTranslation={showAiTranslation} fontSize={fontSize} />
+          )}
+
+          {readingMode === 'compare' && (
+            <CompareModeBlock
+              verse={verse}
+              hasDual={!!hasDual}
+              showAiTranslation={showAiTranslation}
+              fontSize={fontSize}
+            />
+          )}
+
+          {/* Hover actions: share + annotate */}
+          <div className="flex items-center gap-1 opacity-0 group-hover:opacity-100 focus-within:opacity-100 transition-opacity duration-200">
+            <ShareVerse
+              verse={verse}
+              bookAbbrev={bookAbbrev}
+              bookName={bookName}
+              chapter={chapter}
+            />
+            <AnnotationEditor
+              book={bookAbbrev}
+              chapter={chapter}
+              verse={verse.num}
+              onAnnotationChange={handleAnnotationChange}
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+})
+
+/* ---- Sub-blocks ---- */
+
+function TranslationBlock({
+  verse,
+  hasDual,
+  showLxx,
+  showKjv,
+  showAiTranslation,
+  fontSize,
+}: {
+  verse: Verse
+  hasDual: boolean
+  showLxx: boolean
+  showKjv: boolean
+  showAiTranslation: boolean
+  fontSize: number
+}) {
+  const aiEntry = verse.translations?.ai
+
+  if (!hasDual) {
+    // Single-source book (e.g., 1 Enoch)
+    return (
+      <div className="space-y-2">
+        <p className="verse-text text-text" style={{ fontSize: fontSize * 0.85 }}>
+          {verse.translation}
+        </p>
+        {showAiTranslation && aiEntry && (
+          <AiTranslationBlock aiEntry={aiEntry} fontSize={fontSize} />
+        )}
+      </div>
+    )
+  }
+
+  return (
+    <div className="space-y-2 mt-1">
+      {showLxx && verse.translations?.lxx && (
+        <div className="border-l border-lxx-border/60 pl-3">
+          <span className="text-lxx/60 text-[0.65rem] font-body italic tracking-wide">
+            Septuagint
+          </span>
+          <p
+            className="verse-text text-text mt-0.5"
+            style={{ fontSize: fontSize * 0.85 }}
+          >
+            {verse.translations.lxx}
+          </p>
+        </div>
+      )}
+      {showKjv && verse.translations?.kjv && (
+        <div className="border-l border-mt-border/60 pl-3">
+          <span className="text-mt/60 text-[0.65rem] font-body italic tracking-wide">
+            King James
+          </span>
+          <p
+            className="verse-text text-text mt-0.5"
+            style={{ fontSize: fontSize * 0.85 }}
+          >
+            {verse.translations.kjv}
+          </p>
+        </div>
+      )}
+      {showAiTranslation && aiEntry && (
+        <AiTranslationBlock aiEntry={aiEntry} fontSize={fontSize} />
+      )}
+      {/* Fallback if neither source toggled on but we have the generic translation */}
+      {!showLxx && !showKjv && !showAiTranslation && verse.translation && (
+        <p className="verse-text text-text" style={{ fontSize: fontSize * 0.85 }}>
+          {verse.translation}
+        </p>
+      )}
+    </div>
+  )
+}
+
+function ReadModeBlock({ verse, showAiTranslation, fontSize }: { verse: Verse; showAiTranslation: boolean; fontSize: number }) {
+  // Clean reading: just the primary English text
+  const scholarlyText = verse.translations?.lxx || verse.translations?.kjv || verse.translation
+  const aiEntry = verse.translations?.ai
+
+  // Use AI as fallback when no scholarly translation exists
+  if (!scholarlyText && showAiTranslation && aiEntry) {
+    return (
+      <div className="flex items-start gap-2">
+        <p className="verse-text text-text" style={{ fontSize: fontSize * 0.9 }}>
+          {aiEntry.text}
+        </p>
+        <ConfidencePill confidence={aiEntry.confidence ?? 0} />
+      </div>
+    )
+  }
+
+  return (
+    <p className="verse-text text-text" style={{ fontSize: fontSize * 0.9 }}>
+      {scholarlyText}
+    </p>
+  )
+}
+
+function CompareModeBlock({
+  verse,
+  hasDual,
+  showAiTranslation,
+  fontSize,
+}: {
+  verse: Verse
+  hasDual: boolean
+  showAiTranslation: boolean
+  fontSize: number
+}) {
+  const aiEntry = verse.translations?.ai
+
+  if (!hasDual) {
+    // No scholarly dual sources — show generic + AI fallback
+    return (
+      <div className="space-y-2">
+        <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
+          {verse.translation}
+        </p>
+        {showAiTranslation && aiEntry && !verse.translation && (
+          <div className="flex items-start gap-2">
+            <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
+              {aiEntry.text}
+            </p>
+            <ConfidencePill confidence={aiEntry.confidence ?? 0} />
+          </div>
+        )}
+      </div>
+    )
+  }
+
+  return (
+    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+      {verse.translations?.lxx && (
+        <div className="border-l border-lxx-border/60 pl-3">
+          <span className="text-lxx/60 text-[0.65rem] font-body italic tracking-wide">
+            Septuagint
+          </span>
+          <p
+            className="verse-text text-text mt-0.5"
+            style={{ fontSize: fontSize * 0.85 }}
+          >
+            {verse.translations.lxx}
+          </p>
+        </div>
+      )}
+      {verse.translations?.kjv && (
+        <div className="border-l border-mt-border/60 pl-3">
+          <span className="text-mt/60 text-[0.65rem] font-body italic tracking-wide">
+            King James
+          </span>
+          <p
+            className="verse-text text-text mt-0.5"
+            style={{ fontSize: fontSize * 0.85 }}
+          >
+            {verse.translations.kjv}
+          </p>
+        </div>
+      )}
+      {showAiTranslation && aiEntry && (
+        <div className="border-l border-ai-border/60 pl-3">
+          <span className="text-ai/60 text-[0.65rem] font-body italic tracking-wide">
+            AI Draft
+          </span>
+          <p
+            className="verse-text text-text mt-0.5"
+            style={{ fontSize: fontSize * 0.85 }}
+          >
+            {aiEntry.text}
+          </p>
+          <div className="mt-1">
+            <ConfidencePill confidence={aiEntry.confidence ?? 0} />
+          </div>
+        </div>
+      )}
+    </div>
+  )
+}
+
+/** Shared AI translation block for Study mode */
+function AiTranslationBlock({ aiEntry, fontSize }: { aiEntry: TranslationEntry; fontSize: number }) {
+  return (
+    <div className="border-l border-ai-border/60 pl-3">
+      <span className="text-ai/60 text-[0.65rem] font-body italic tracking-wide">
+        AI Draft
+      </span>
+      <p
+        className="verse-text text-text mt-0.5"
+        style={{ fontSize: fontSize * 0.85 }}
+      >
+        {aiEntry.text}
+      </p>
+      <div className="mt-1.5">
+        <ConfidenceBadge
+          confidence={aiEntry.confidence ?? 0}
+          verifiedWords={aiEntry.verifiedWords}
+          totalWords={aiEntry.totalWords}
+          source={aiEntry.source}
+        />
+      </div>
+    </div>
+  )
+}
