@@ -1,0 +1,18 @@
+<h4>Variant readings</h4>
+<div class="readings-wrapper">
+{{if isinstance(rlist, list):}}
+	<table class='table'>
+	{{for reading in rlist:}}
+		{{=TR(TD(reading.mss, _class='mss'),
+              TD(SPAN(reading.text, _class=version), _class='reading-text'))
+          }}
+	{{pass}}
+	</table>
+{{else:}}
+	{{=rlist}}
+{{pass}}
+</div>
+
+<script>
+setDimensions();
+</script>

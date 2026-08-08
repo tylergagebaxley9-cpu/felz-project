@@ -1,0 +1,24 @@
+apiVersion: 3
+dataDisplay:
+  textFormats:
+    layout-orig-full:
+      method: layoutRich
+      style: orig
+docs:
+  docBase: '{docRoot}/bhsa'
+  docExt: ''
+  docPage: ''
+  docRoot: https://etcbc.github.io
+  featurePage: 0_home
+interfaceDefaults: {}
+provenanceSpec:
+  corpus: The Samaritan Pentateuch
+  version: 7.1.3
+writing: hbo
+typeDisplay:
+  verse:
+    label: '{verse}'
+    template: '{verse}'
+    verselike: true
+  word:
+    features: lex

@@ -1,0 +1,67 @@
+<form class='version_selector form-inline'>
+    <div class='form-group'>
+        <select class='vselect form-control'>
+            {{for v in versions:
+                =OPTION(v, _value=v)
+            pass}}
+        </select>
+        <select class='mselect form-control'>
+            {{for m in mslist:
+                =OPTION(m, _value=m)
+            pass}}
+        </select>
+    </div>
+    <a class='version-closer pull-right' href='#'>
+        <span class='glyphicon glyphicon-remove-circle'></span>
+    </a>
+</form>
+
+<div id='textframe0' class='textframe {{=version_language}}'>
+{{for s in sel_text:
+	=s
+pass}}
+</div>
+
+<div class='apparatusframe'>
+    {{=LOAD('docs', 'apparatus.load', args=[filename], vars={'called': 'no'})}}
+</div>
+
+<script>
+
+
+//reset 'from' and 'to' fields if reference was changed by "next" button
+function setrefs(){
+    start_sel = "{{=start_sel_str}}".split('|');
+    end_sel = "{{=end_sel_str}}".split('|');
+    console.log('start_sel:' + start_sel);
+    console.log('end_sel:' + end_sel);
+
+    $frominputs = $('input.from')
+    $frominputs.each(function(){
+        myindex = $frominputs.index($(this));
+		from_ref = $(this).val();
+        {{if structure == 'fragmentary':}}
+            var fragment = {{=fragment}}
+            if (fragment != from_ref){
+                $(this).val(fragment);
+            };
+        {{else:}}
+            if (start_sel[myindex] != from_ref){
+                $(this).val(start_sel[myindex]);
+            };
+        {{pass}}
+	});
+
+    $toinputs = $('input.to')
+    $toinputs.each(function(){
+        myindex = $toinputs.index($(this));
+		to_ref = $(this).val();
+        if (end_sel[myindex] != to_ref){
+            $(this).val(end_sel[myindex]);
+        };
+	});
+};
+setrefs();
+
+setDimensions();
+</script>

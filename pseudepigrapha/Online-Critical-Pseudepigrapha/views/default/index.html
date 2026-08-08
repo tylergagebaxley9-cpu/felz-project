@@ -1,0 +1,196 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False, True}}
+{{extend 'layout.html'}}
+
+{{if 'message' in globals():}}
+<h3>{{#=message}}</h3>
+{{pass}}
+
+<h3>News and Updates</h3>
+
+<div class='docs_list'>
+
+    <h2>Documents</h2>
+
+    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingOne">
+            <h4 class="panel-title">
+                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Alphabetical by Genre
+                </a>
+            </h4>
+        </div>
+        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div class="panel-body">
+
+                <!-- inner accordion for genres =========================== -->
+                <div class="panel-group" id="accordion-genres" role="tablist" aria-multiselectable="true">
+                {{for g in genrerows.keys():}}
+                {{g_word = g.split()[0]}}
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="genresHeading_{{=g_word}}">
+                        <h5 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion-genres" href="#genresCollapse_{{=g_word}}" aria-expanded="true" aria-controls="genresCollapse_{{=g_word}}">
+                            {{=g.capitalize()}}
+                            </a>
+                        </h5>
+                    </div>
+                    <div id="genresCollapse_{{=g_word}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="genresHeading_{{=g_word}}">
+                        <div class="panel-body">
+                        <ul class="">
+                            {{for doc in genrerows[g]:}}
+                                {{myitem = LI(A(doc["name"], _href=URL('docs', 'text', args=[doc["filename"]])),
+                                            SPAN(' ( ',
+                                                A('text', _href=URL('docs', 'text', args=[doc["filename"]])),
+                                                ' | ',
+                                                A('introduction', _href=URL('docs', 'intro', args=[doc["filename"]])),
+                                                _class="doc-link-span"
+                                                )
+                                            )
+                                  if auth.has_membership('administrators'):
+                                      myitem[1].append(' | ')
+                                      myitem[1].append(A('draft intro', _href=URL('docs', 'draft_intro', args=[doc["filename"]])))
+                                  pass
+                                  myitem[1].append(')')
+                                }}
+                                {{=myitem}}
+                            {{pass}}
+                        </ul>
+                        </div>
+                    </div>
+                </div>
+                {{pass}}
+                </div>
+                <!-- inner accordion for genres ends =========================== -->
+
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingTwo">
+            <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                Alphabetical by Biblical Figure
+                </a>
+            </h4>
+        </div>
+        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div class="panel-body">
+
+                <!-- inner accordion for figures =========================== -->
+                <div class="panel-group" id="accordion-figures" role="tablist" aria-multiselectable="true">
+                {{for f in figurerows.keys():}}
+                {{f_word = f.split()[0]}}
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="genresHeading_{{=f_word}}">
+                        <h5 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion-figures" href="#figuresCollapse_{{=f_word}}" aria-expanded="true" aria-controls="figuresCollapse_{{=f_word}}">
+                            {{=f}}
+                            </a>
+                        </h5>
+                    </div>
+                    <div id="figuresCollapse_{{=f_word}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="genresHeading_{{=f_word}}">
+                        <div class="panel-body">
+                        <ul class="">
+                            {{for doc in figurerows[f]:}}
+
+                                {{myitem = LI(A(doc["name"], _href=URL('docs', 'text', args=[doc["filename"]])),
+                                            SPAN(' ( ',
+                                                A('text', _href=URL('docs', 'text', args=[doc["filename"]])),
+                                                ' | ',
+                                                A('introduction', _href=URL('docs', 'intro', args=[doc["filename"]])),
+                                                _class="doc-link-span"
+                                                )
+                                            )
+                                  if auth.has_membership('administrators'):
+                                      myitem[1].append(' | ')
+                                      myitem[1].append(A('draft intro', _href=URL('docs', 'draft_intro', args=[doc["filename"]])))
+                                  pass
+                                  myitem[1].append(')')
+                                }}
+                                {{=myitem}}
+
+                            {{pass}}
+                        </ul>
+                        </div>
+                    </div>
+                </div>
+                {{pass}}
+                </div>
+                <!-- inner accordion for figures ends =========================== -->
+
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingTwo">
+            <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Alphabetical by Full Title
+                </a>
+            </h4>
+        </div>
+        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+        <div class="panel-body">
+            <ul class="">
+            {{for doc in docrows:}}
+                {{myitem = LI(A(doc["name"], _href=URL('docs', 'text', args=[doc["filename"]])),
+                            SPAN(' ( ',
+                                A('text', _href=URL('docs', 'text', args=[doc["filename"]])),
+                                ' | ',
+                                A('introduction', _href=URL('docs', 'intro', args=[doc["filename"]])),
+                                _class="doc-link-span"
+                                )
+                            )
+                    if auth.has_membership('administrators'):
+                        myitem[1].append(' | ')
+                        myitem[1].append(A('draft intro', _href=URL('docs', 'draft_intro', args=[doc["filename"]])))
+                    pass
+                    myitem[1].append(')')
+                }}
+                {{=myitem}}
+            {{pass}}
+            </ul>
+            </div>
+        </div>
+    </div>
+    </div> <!--close div panel group-->
+</div>
+
+{{block right_sidebar}}
+
+<div class="sidebar-wrapper">
+
+<h4>General Editors</h4>
+    <ul>
+        <li>Ian W. Scott (2006-)</li>
+        <li>Ken M. Penner (2006-2009, 2013-)</li>
+        <li>David M. Miller (2006-2007)</li>
+    </ul>
+
+<h4>Review Board</h4>
+
+    <ul>
+        <li>Judith H. Newman (2009-)</li>
+        <li>James H. Charlesworth (2006-2014)</li>
+        <li>Robert A. Kraft (2006-2008)</li>
+        <li>Craig A. Evans (2006-2007)</li>
+    </ul>
+
+<h4>About the Project</h4>
+
+<p>The mandate of the Online Critical Pseudepigrapha is to develop and publish
+electronic editions of the best critical texts of the "Old Testament" Pseudepigrapha
+and related literature.</p>
+
+<p>Note that in a few cases it has not yet been feasible
+to publish the best eclectic text of a given document. In other cases the OCP
+edition of a document does not yet include all of the textual evidence. Readers
+should consult the "text status" information on the introductory page for each
+document to determine whether a better or more complete text exists elsewhere.</p>
+
+</div>
+
+{{end}}
+

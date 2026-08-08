@@ -1,0 +1,281 @@
+{{extend 'layout.html'}}
+
+<div id='textwrapper' class='textwrapper'>
+<h2>{{=title}}</h2>
+<a class="introlink" href="/docs/intro/{{=filename}}">About this work</a>
+
+
+<form class='ref_nav form-inline'>
+    <a id='versionadder' href='#' class='btn btn-success pull-right'>
+        <span class='glyphicon glyphicon-plus-sign'></span>
+    </a>
+    <div class='form-group pull-right'>
+        <div class='btn-group' role='group'>
+            <button type='button' class='larger-button btn' ><span class='glyphicon glyphicon-font'></span></button>
+            <button type='button' class='smaller-button btn' ><span class='glyphicon glyphicon-font'></span></button>
+            <!--<button type='button' class='smaller-button btn' ><span class='glyphicon glyphicon-print'></span></button>-->
+        </div>
+    </div>
+    <div class='form-group'>
+        <div class='input-group'>
+            {{if structure == 'fragmentary':}}
+                <div class="input-group-addon">Fragment</div>
+                <input type='text' id='start_ref_0' value='{{=start_sel}}' class='0 from form-control' />
+            {{else:}}
+                <div class="input-group-addon">from</div>
+                {{for l in range(levels):}}
+                <input type='text' id='start_ref{{=l}}' value='{{=start_sel[l]}}' class='{{=l}} from form-control' />
+                {{pass}}
+                <div class="input-group-addon">to</div>
+                {{for l in range(levels):}}
+                <input type='text' id='end_ref{{=l}}' value='{{=end_sel[l]}}' class='{{=l}} to form-control' />
+                {{pass}}
+            {{pass}}
+            <div class="input-group-btn">
+                <input id='textnavsubmit' class='btn btn-success' type='submit' value='Go' />
+            </div>
+        </div>
+    </div>
+    <div class='form-group'>
+        <div class='btn-group' role='group'>
+            <button type='button' class='nextbutton btn-primary' ><span class='glyphicon glyphicon-triangle-left'></span>back</button>
+            <button type='button' class='prevbutton btn-primary' >next<span class='glyphicon glyphicon-triangle-right'></span></button>
+        </div>
+
+    </div>
+</form>
+
+<div id='versionwindow_0' class='versionwindow'>
+{{=LOAD('docs', 'section.load', args=[filename], ajax=True,
+        target='versionwindow_0', content=XML('<i class="fa fa-circle-o-notch fa-spin"></i>'))}}
+</div>
+
+
+</div>
+
+<script>
+//size page elements to fit in viewport
+function setDimensions(){
+    console.log('setting dimensions');
+    var hHeight = $('header').outerHeight();
+    var fHeight = $('footer').outerHeight();
+    var pHeight = $(window).height() - (hHeight + fHeight);
+    var nHeight = $('h2').outerHeight();
+    var navHeight = $('.ref_nav').outerHeight();
+
+    var tHeight = (pHeight - (nHeight + navHeight))*0.6;
+    var aHeight = (pHeight - (nHeight + navHeight))*0.4;
+    $('.apparatusframe').each(function(){
+        $(this).css({'height':aHeight,'min-height':aHeight,'max-height':aHeight});
+    });
+    $('.textframe').each(function(){
+        $(this).css({'height':tHeight,'min-height':tHeight});
+    });
+    $('.versionwindow').each(function(){
+        $(this).css({'height':pHeight,'min-height':pHeight,'max-height':pHeight});
+    });
+    $('#page').css({'height':pHeight,'min-height':pHeight});
+
+    var wWidth = $(window).width();
+    var vaWidth = $('#versionadder').outerWidth();
+    var totalWidth = wWidth - (vaWidth + 12);
+    var $frames = $('.versionwindow');
+    var fCount = $frames.size();
+    console.log(fCount + 'versions');
+    $frames.each(function(){
+        var w = totalWidth/fCount - 20;
+        console.log('setting width to ' + w + 'px');
+        $(this).css({'width':w,
+                     'max-width':w});
+    });
+}
+// resize elements when viewport changes size
+$(window).resize(function(){
+    setDimensions();
+});
+
+// add a new versionwindow and populate with selected text range
+$('#versionadder').on('click', function(event){
+    console.log('adding new div');
+
+    // get reference
+	var from_ref = '';
+	$('input.from').each(function(){
+		from_ref += $(this).val();
+		from_ref += '-';
+	});
+	var to_ref = '';
+	$('input.to').each(function(){
+		to_ref += $(this).val();
+		to_ref += '-';
+	});
+
+    // get initial version and text type
+    var $frames = $('.versionwindow')
+    var $prevframe = $frames.last();
+    var the_v = $prevframe.find('.vselect').val();
+	var the_m = $prevframe.find('.mselect').val();
+
+    // get index for new versionwindow
+    var prevname = $prevframe.attr('id');
+    var prevnum = prevname.split('_')[1];
+    var prevnum = parseInt(prevnum);
+    var newnum = prevnum + 1;
+    var newdivid = 'versionwindow_' + newnum;
+
+    // add new versionwindow
+	var newDiv = '<div id="' + newdivid + '" class="versionwindow">';
+	newDiv += '</div>';
+	$('#textwrapper').append(newDiv);
+
+    // populate via ajax
+    var the_url = '/docs/section.load/{{=filename}}?version=';
+    the_url += the_v + '&type=' + the_m;
+    the_url += '&from=' + from_ref + '&to=' + to_ref;
+    $('#' + newdivid).html('<i class="fa fa-circle-o-notch fa-spin"></i>');
+    web2py_component(the_url, newdivid);
+
+    // set dimensions here so the new pane is sized vertically
+    setDimensions();
+	event.preventDefault();
+});
+
+
+// change ref and refresh text windows when next or prev buttons clicked
+$(document).on('click', '.nextbutton, .prevbutton', function(event){
+    direction = $.trim($(this).text());
+    var from_ref = '';
+    $('input.from').each(function(){
+        from_ref += $(this).val();
+        from_ref += '-';
+    });
+    $('.versionwindow').each(function(){
+        var $the_form = $(this).children('form.version_selector');
+        var loader_id = $(this).attr('id');
+        var the_v = $the_form.find('.vselect').val();
+        {{if structure == 'fragmentary':}}
+            var the_m = 'newval';
+        {{else:}}
+            var the_m = $the_form.find('.mselect').val();
+        {{pass}}
+        console.log('type: ' + the_m);
+        var baseurl = '/docs/section.load/{{=filename}}?version=';
+        var urlvars = the_v + '&type=' + the_m  + '&from=' + from_ref + '&to=' + direction + '0';
+        $(this).children('.textframe').html('<i class="fa fa-circle-o-notch fa-spin"></i>');
+        web2py_component(baseurl + urlvars, loader_id);
+    });
+	event.preventDefault();
+});
+
+
+//refresh this text pane when version selector or manuscript
+//selector is refreshed
+$(document).on('change', '.vselect, .mselect', function(event){
+    var $loader = $(this).parents('.versionwindow')
+    var the_loader = $loader.attr('id');
+    var from_ref = '';
+    $('input.from').each(function(){
+        from_ref += $(this).val();
+        from_ref += '-';
+    });
+	var to_ref = '';
+    $('input.to').each(function(){
+        to_ref += $(this).val();
+        to_ref += '-';
+    });
+
+    if ($(this).hasClass('vselect')){
+        var the_v = $(this).val();
+        var the_m = 'newval';
+    }
+    else {
+        var the_m = $(this).val();
+        var the_v = $loader.find('.vselect').val();
+    }
+    $loader.children('.textframe').html('<i class="fa fa-circle-o-notch fa-spin"></i>');
+    var baseurl = '/docs/section.load/{{=filename}}?';
+    var urlvars = 'version=' + the_v + '&type=' + the_m  + '&from=' + from_ref + '&to=' + to_ref;
+    web2py_component(baseurl + urlvars, the_loader);
+});
+
+//refresh this text pane when "go" nav button clicked
+$('#textnavsubmit').on('click', function(event){
+	var from_ref = '';
+	$('input.from').each(function(){
+		from_ref += $(this).val();
+		from_ref += '-';
+	});
+	var to_ref = '';
+	$('input.to').each(function(){
+		to_ref += $(this).val();
+		to_ref += '-';
+	});
+	$('.versionwindow').each(function(){
+		var $the_form = $(this).children('form.version_selector');
+		var loader_id = $(this).attr('id');
+        console.log(loader_id);
+		var the_v = $the_form.find('.vselect').val();
+        console.log(the_v);
+		var the_m = $the_form.find('.mselect').val();
+        console.log(the_m);
+        var baseurl = '/docs/section.load/{{=filename}}?version=';
+        var urlvars = the_v + '&type=' + the_m  + '&from=' + from_ref + '&to=' + to_ref;
+        console.log(baseurl + urlvars);
+        $(this).children('.textframe').html('<i class="fa fa-circle-o-notch fa-spin"></i>');
+		web2py_component(baseurl + urlvars, loader_id);
+	});
+	event.preventDefault();
+});
+
+//display readings in apparatus when text link clicked
+$(document).on('click', '.textframe a', function(event){
+	var the_unit = $(this).attr('href');
+	var $p = $(this).parents('.versionwindow');
+	var the_v = $p.find('.vselect').val();
+    var $aframe = $p.find('.apparatusframe');
+	the_target = $aframe.children().attr('id');
+    $aframe.find('.readings-wrapper').html('<i class="fa fa-circle-o-notch fa-spin"></i>');
+    var baseurl = '/docs/apparatus.load/{{=filename}}?';
+    var urlvars = 'version=' + the_v + '&unit=' + the_unit;
+    console.log(baseurl);
+    console.log(urlvars);
+	web2py_component(baseurl + urlvars, the_target);
+	event.preventDefault();
+});
+
+//close this version window
+$(document).on('click', '.version-closer span', function(event){
+    console.log('clicked version-closer');
+    $myversion = $(this).parents('.versionwindow');
+    console.log('$myversion to close: ', $myversion);
+    $myversion.remove();
+    setDimensions();
+    event.preventDefault();
+});
+
+// make font larger
+$(document).on('click', '.larger-button', function(event){
+    var fontsize = parseInt($('.textframe').css('font-size'));
+    var newsize = fontsize + 1;
+    $('.textframe').each(function(){
+        $(this).css('font-size', newsize);
+    });
+    /*ajax('/docs/set_font_size/' + newsize, [], ':eval');*/
+    event.preventDefault();
+});
+
+// make font smaller
+$(document).on('click', '.smaller-button', function(event){
+    var fontsize = parseInt($('.textframe').css('font-size'));
+    var newsize = fontsize - 1;
+    $('.textframe').each(function(){
+        $(this).css('font-size', newsize);
+    });
+    /*ajax('/docs/set_font_size/' + newsize, [], ':eval');*/
+    event.preventDefault();
+});
+
+//set initial dimensions to fit starting viewport size
+setDimensions();
+
+</script>

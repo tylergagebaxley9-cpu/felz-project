@@ -1,0 +1,11 @@
+cache/
+errors/
+sessions/
+uploads/
+private/
+databases/*
+*.pyc
+*.un~
+*.swp
+*.swo
+*~
