@@ -1,5 +1,20 @@
 # Eusebius, *Historia Ecclesiastica* III.25 — word-for-word
 
+> ## Verification status (checked 2026-08-08)
+>
+> Checked against **Kirsopp Lake's Loeb translation (1926)**, archive.org
+> `eusebiustheeccle0001unse`. **One correction made** as a result; details in
+> "Verification against Lake (1926)" at the foot of this file.
+>
+> **McGiffert (NPNF, 1890) could not be checked** — the volume retrieved
+> (`cu31924096463462`) turned out to be Gregory of Nyssa, not Eusebius, and the
+> correct NPNF Series 2 Volume 1 was not located. Recorded as unchecked rather
+> than claimed.
+>
+> A second Lake scan (`ecclesiasticalhi01euseuoft`) is **unusable**: its English
+> facing page was OCR'd through a *Greek* model and reads as 90% Greek characters
+> — the same pathology measured on the Erasmus 1516 scan.
+
 **Composed** c. 313–325 CE · **Source on disk**: `apostolic-fathers/First1KGreek/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc1.xml` · **License** CC BY-SA
 
 The earliest surviving systematic sorting of the New Testament writings into
@@ -210,9 +225,17 @@ here so nothing is hidden: `ἐπιστοΛήν` (capital lambda) → ἐπισ�
 | ὅθεν | whence |
 | οὐδ’ ἐν νόθοις | **not even among the spurious** |
 | αὐτὰ κατατακτέον | must they be classed |
-| ἀλλ’ ὡς ἄτοπα πάντῃ | but as **out-of-place** in every way *(ἄ-τοπος, literally "no-place")* |
+| ἀλλ’ ὡς ἄτοπα πάντῃ | but as **absurd** in every way *(ἄτοπος — from ἄ- + τόπος "no-place", but in this period: absurd, outrageous)* |
 | καὶ δυσσεβῆ | and impious |
 | παραιτητέον | must they be begged off / declined |
+
+> **⚠️ Corrected after checking Lake (1926).** ἄτοπος does derive from ἄ- + τόπος,
+> "no-place", but by this period the live sense is **absurd / monstrous / outrageous** —
+> a moral and intellectual judgement, not a spatial one. Lake renders the phrase with
+> "wicked". The bare gloss "out-of-place" is etymologically defensible and
+> **rhetorically misleading**: it makes Eusebius sound mild where he is condemning.
+> Read it as **"absurd"** or **"outrageous"**. The continuous rendering below is
+> corrected accordingly.
 
 ---
 
@@ -228,7 +251,7 @@ here so nothing is hidden: `ἐπιστοΛήν` (capital lambda) → ἐπισ�
 >
 > And all these would be among the disputed. But of necessity we have nevertheless made the list of these also, distinguishing the writings that are, according to the ecclesiastical tradition, true and unfabricated and fully agreed upon, from those otherwise beside these — not within the covenant-collection, but disputed, yet nevertheless known among most of the churchmen —
 >
-> so that we may be able to know both these very ones and those put forward in the name of the apostles by the heretics: whether as containing gospels of Peter and Thomas and Matthias, or of certain others besides these; or as acts of Andrew and John and the other apostles. Not one of which has any churchman in the successions ever thought worthy to bring to mention in a written work. And the stamp of the phrasing differs far off somehow from the apostolic manner, and the thought and the deliberate intent of the things carried in them, being as out-of-tune as possible with the true right-opinion, plainly presents that they are indeed mouldings of heretical men. Whence they must not be classed even among the spurious, but must be declined as out-of-place in every way, and impious.
+> so that we may be able to know both these very ones and those put forward in the name of the apostles by the heretics: whether as containing gospels of Peter and Thomas and Matthias, or of certain others besides these; or as acts of Andrew and John and the other apostles. Not one of which has any churchman in the successions ever thought worthy to bring to mention in a written work. And the stamp of the phrasing differs far off somehow from the apostolic manner, and the thought and the deliberate intent of the things carried in them, being as out-of-tune as possible with the true right-opinion, plainly presents that they are indeed mouldings of heretical men. Whence they must not be classed even among the spurious, but must be rejected as altogether absurd and impious.
 
 ---
 
@@ -245,3 +268,55 @@ here so nothing is hidden: `ἐπιστοΛήν` (capital lambda) → ἐπισ�
 5. **His stated criteria are three**: continuity of citation by earlier churchmen, style compared to the apostolic manner, and doctrinal content. He gives no council, no vote, and no authority beyond ἐκκλησιαστικὴ παράδοσις.
 
 6. **Four of the books he names are on this disk** — the Shepherd of Hermas, the Epistle of Barnabas, and the Didache in `apostolic-fathers/First1KGreek/`, the Apocalypse of Peter in `nt-apocrypha/`. Two of them (Barnabas, Hermas) are physically bound into Codex Sinaiticus, in `manuscripts/sinaiticus/`, copied within a few decades of this passage.
+
+---
+
+## Verification against Lake (1926)
+
+Checked 2026-08-08 against **Kirsopp Lake's Loeb translation**, archive.org
+`eusebiustheeccle0001unse` (unrestricted, OCR usable — 64% Latin script).
+Comparison was on individual term choices, not by reading his translation across.
+
+### Confirmed
+
+| My rendering | Lake's | Verdict |
+|---|---|---|
+| ἀληθεῖς καὶ ἀπλάστους καὶ ἀνωμολογημένας → "true and unfabricated and fully agreed-upon" | "true, genuine, and recognized" | agree |
+| the fourth category — writings "put forward in the name of the apostles by the heretics", gospels of Peter, Thomas, Matthias, acts of Andrew and John | same content, same names | agree |
+| "must not be classed **even among the spurious**" | "reckoned **not even among spurious books**" | agree — the structure of a fourth class below νόθα is confirmed |
+
+### Corrected
+
+**ἄτοπα** — I glossed it "out-of-place" from ἄ- + τόπος. Lake renders the phrase with
+**"wicked"**. By the 4th century the live sense is *absurd / monstrous / outrageous* —
+a moral judgement, not a spatial one. My literal gloss was etymologically defensible
+and **rhetorically misleading**: it made Eusebius sound mild where he is condemning.
+Corrected throughout to **"absurd"**, with the etymology kept as a note.
+
+### Noted, not changed
+
+**οὐκ ἐνδιαθήκους** — Lake renders it **"not canonical"**. My literal
+"not en-covenanted" stands, and so does the observation that *canonical* is not the
+word Eusebius wrote (ἐνδιάθηκος = "within the covenant-collection"). But readers
+should know the standard English translations render it "canonical", and Lake's
+choice confirms that is the sense.
+
+### Not verified
+
+- **McGiffert (NPNF, 1890)** — not checked. The volume retrieved
+  (`cu31924096463462`) proved to be **Gregory of Nyssa**, not Eusebius, and NPNF
+  Series 2 Volume 1 was not located. Recorded as unchecked, not as agreement.
+- **Revelation's dual placement** — my headline reading of this passage. The Greek on
+  disk supports it plainly (Ἀποκάλυψις appears in the §2 list *and* the §4 list, with
+  ἀθετοῦσιν/ἐγκρίνουσιν following). It was **not** confirmed word-for-word against
+  Lake, because the Loeb OCR interleaves Greek and English unpredictably and that
+  portion could not be isolated. Lake's nearby "many advocates of either opinion" is
+  consistent with it, but consistency is not confirmation.
+
+### A finding about the sources themselves
+
+The other Lake scan, `ecclesiasticalhi01euseuoft`, is **useless**: its English facing
+page was OCR'd through a **Greek** model, giving 90% Greek characters and text like
+`Πα τηδάς 140]5`. This is the identical pathology measured on the Erasmus 1516 scan,
+where the Latin column was processed as Greek. **On facing-page editions, always
+check the script mix of an OCR layer before trusting it.**
