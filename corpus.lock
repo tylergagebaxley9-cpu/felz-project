@@ -1,10 +1,14 @@
-# corpus.lock — pinned upstream sources
-# Generated 2026-08-08. Reconstructs the corpus exactly via fetch.sh.
+# corpus.lock — pinned upstream git sources
+# Regenerated 2026-08-08T12:04Z. Reconstruct with ./fetch.sh
 # path<TAB>remote<TAB>commit
 apostolic-fathers/First1KGreek	https://github.com/OpenGreekAndLatin/First1KGreek.git	bfea9acd07ee1b7cea70cdd927c8f092d5637695
 aramaic-syriac/peshitta	https://github.com/ETCBC/peshitta.git	9850f5addade26f681334aa475570bef9b0b440a
 aramaic-syriac/syrnt	https://github.com/ETCBC/syrnt.git	dae3eb6ff62b9b272fb503646796c25d248175ce
+dead-sea-scrolls/etcbc-dss	https://github.com/ETCBC/dss.git	2403d16654984fc5567a5bd263086d9ad2a7a1dd
 deuterocanon/OpenHebrewBible	https://github.com/eliranwong/OpenHebrewBible.git	28ae9b2bd340eed4c483482852f2ed3b2bd07919
+early-editions/elzevir	https://github.com/byztxt/greektext-elzevir.git	94f31e2d2e8bd451d4d2f9739d13c419f7ce86c2
+early-editions/scrivener	https://github.com/byztxt/greektext-scrivener.git	6049a43b135ed870f843b83eb6a04764fc796678
+early-editions/textus-receptus	https://github.com/byztxt/greektext-textus-receptus.git	7fd4d02c3e5adebd379ebfbc824040820dde10fc
 ethiopic/ethiopian-bible	https://github.com/LPettay/ethiopian-bible.git	e0e38e3632ddc4f5e2741e7ae0f09a5388f48b33
 greek-nt/byzantine-majority-text	https://github.com/byztxt/byzantine-majority-text.git	27a45ff1b7be6c17ccbfeac414f3f55732ae8e28
 greek-nt/el-x-koine_ugnt	https://git.door43.org/unfoldingWord/el-x-koine_ugnt.git	a5cd340785e0315930af555a56e40adfff376592
@@ -13,6 +17,9 @@ greek-nt/SBLGNT	https://github.com/LogosBible/SBLGNT.git	c4d241a9c1c479a55b989ba
 hebrew-ot/hbo_uhb	https://git.door43.org/unfoldingWord/hbo_uhb.git	42e223dc796947b186965742ac496f12b4a7ae41
 hebrew-ot/morphhb	https://github.com/openscriptures/morphhb.git	3d15126fb1ef74867fc1434be1942e837932691f
 hebrew-ot/STEPBible-Data	https://github.com/STEPBible/STEPBible-Data.git	b86d26cdb1f51729e73b5b4eb7f7ccadc5dfba39
+manuscripts/bezae	https://github.com/itsee-birmingham/codex-bezae.git	e8178f122418ec215ab402b74ddf14b8f763f083
+manuscripts/sinaiticus	https://github.com/itsee-birmingham/codex-sinaiticus.git	af1633b5102cbe6200e79053cc618ac447e1bb16
+manuscripts/zacynthius	https://github.com/itsee-birmingham/codex-zacynthius-xml.git	1dceaa3f798abda1b2df74ffbc0ed47abce40a7f
 nag-hammadi/corpora	https://github.com/CopticScriptorium/corpora.git	3ac067f1709a0012daf39ea8da2fac79980176a5
 papyri/cntr-transcriptions	https://github.com/Center-for-New-Testament-Restoration/transcriptions.git	4c0e9f94117ec3dc4ae40094aec044bb7a416a53
 pseudepigrapha/Online-Critical-Pseudepigrapha	https://github.com/OnlineCriticalPseudepigrapha/Online-Critical-Pseudepigrapha.git	456ef828834aeaedda8204a6107729f277063b9f
