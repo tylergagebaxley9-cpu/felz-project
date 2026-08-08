@@ -1,0 +1,34 @@
+# ── Corpus data is NOT stored here ────────────────────────────────────────
+# 9.5 GB, and every source is already on GitHub upstream. corpus.lock pins the
+# exact commits; fetch.sh reconstructs it. Mirroring would duplicate the data
+# and fork us away from upstream corrections.
+dead-sea-scrolls/
+papyri/
+manuscripts/
+hebrew-ot/
+greek-nt/
+septuagint/
+aramaic-syriac/
+pseudepigrapha/
+nag-hammadi/
+apostolic-fathers/
+samaritan/
+ethiopic/
+deuterocanon/
+nt-apocrypha/
+targums/
+early-editions/
+gnostic-codices/
+ben-sira/
+early-versions/
+
+# ── Must never be published ───────────────────────────────────────────────
+# NON-COMMERCIAL licences (CC BY-NC): the ETCBC Dead Sea Scrolls data and the
+# Codex Sinaiticus transcription. Copyrighted: the Deutsche Bibelgesellschaft
+# NA28 / LXX files pulled for personal study only.
+**/GRCNA28_DBS_HS*
+**/LATSEPT_DBS_HS*
+
+__pycache__/
+*.pyc
+docs/walled-fetch/
