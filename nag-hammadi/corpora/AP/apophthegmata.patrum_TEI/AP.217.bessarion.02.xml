@@ -1,0 +1,553 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.217.monbeg">Apophthegmata Patrum Sahidic 217: Besarion</title>
+<author>unknown</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Lauren McDermott, Caroline T. Schroeder, Amir Zeldes, David Sriboonreuang</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Amir Zeldes</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Biblioteca Nazionale di Napoli</repository>
+				<collection>Borgia Collection</collection>
+				<idno>IB17 484 f. 48</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="267" to="268">267-268</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 217: Besarion</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960), § 217 (Fragments de Naples), p. 63</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.0.0" when="2020-08-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div1 n="1">
+<div2 type="textpart">
+<p n="1">
+<pb xml:id="EG267"/>
+<cb n="2"/>
+<s style="And on another occasion, another need compelled him,">
+<phr>
+<lb n="38"/>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ̇
+</w>
+<lb n="39"/>
+<w type="ART" lemma="ⲕⲉ">
+<hi rend="red, tall">
+Ⲕ
+</hi>
+ⲉ
+</w>
+<w type="N" lemma="ⲥⲟⲡ">
+ⲥⲟⲡ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲕⲉ">
+ⲕⲉ
+</w>
+<w type="N" lemma="ⲣⲭⲣⲉⲓⲁ">
+<m>
+ⲣ̇
+</m>
+<m xml:lang="Greek">
+ⲭⲣⲓⲁ
+</m>
+</w>
+</phr>
+<lb n="40"/>
+<phr>
+<w type="V" lemma="ⲧⲁϩⲟ">
+ⲧⲁϩⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+</s>
+<s style="he prayed and he crossed the river which is called “that of the golden one, the pomegranate”">
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϣⲗⲏⲗ">
+ϣⲗⲏⲗ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲧⲃ">
+ⲟⲩⲱⲧⲃ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̇
+</w>
+<pb xml:id="EG268"/>
+<cb n="1"/>
+<lb n="1"/>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲓⲉⲣⲟ">
+ⲓ̇ⲉ
+<hi rend="tall">
+Ⲣ
+</hi>
+ⲟ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉ
+<hi rend="tall">
+Ⲧ
+</hi>
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="V" lemma="ⲙⲟⲩⲧⲉ">
+ⲙⲟ
+<hi rend="tall">
+Ⲩ
+</hi>
+ⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+<lb n="2"/>
+ⲣⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲡⲁ
+</w>
+<w type="N" lemma="ⲟⲩⲟⲛ">
+ⲟⲩⲟ̇ⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲛⲟⲩⲃ">
+ⲛⲟⲩⲃ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<lb n="3"/>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="N" lemma="ϩⲉⲣⲙⲁⲛ">
+ϩⲉⲣⲙⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="walking on his foot until he went up to its bank.">
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲙⲟⲟϣⲉ">
+ⲙⲟⲟ
+<lb n="4"/>
+ϣⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲣⲁⲧ">
+ⲣⲁⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ̇
+</w>
+</phr>
+<phr>
+<w type="ALIM" lemma="ϣⲁⲛⲧⲉ">
+ϣⲁⲛⲧⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<lb n="5"/>
+<w type="V" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+</w>
+<w type="PPOS" lemma="ⲡⲉⲕ">
+ⲡⲉⲕ
+</w>
+<w type="N" lemma="ⲣⲟ">
+ⲣⲟ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+:ⲻ
+</w>
+</phr>
+</s>
+<s style="And I, I was amazed (and) I prostrated myself before him:">
+<lb n="6"/>
+<phr>
+<w type="PPERI" lemma="ⲁⲛⲟⲕ">
+<hi rend="red, tall">
+Ⲁ
+</hi>
+ⲛⲟⲕ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ̇
+</w>
+<w type="V" lemma="ⲣϣⲡⲏⲣⲉ">
+<m>
+ⲣ̇
+</m>
+<m>
+ϣ̇ⲡⲏⲣⲉ
+</m>
+</w>
+</phr>
+<lb n="7"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V_PPERO" lemma="ⲡⲱϩⲧ_ⲁⲛⲟⲕ">
+ⲡⲁϩⲧ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="“How is it that you feel your feet while you walk upon the water?”">
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+<lb n="8"/>
+<w type="V" lemma="ⲁⲓⲥⲑⲁⲛⲉ" xml:lang="Greek">
+ⲁⲓ̇ⲥ̇ⲑⲁⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="PPOS" lemma="ⲡⲉⲕ">
+ⲛⲉⲕ
+</w>
+<w type="N" lemma="ⲟⲩⲉⲣⲏⲧⲉ">
+ⲟⲩⲉⲣⲏ
+<lb n="9"/>
+ⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="PINT" lemma="ⲁϣ">
+ⲁϣ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ϩⲉ">
+ϩⲉ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+<w type="V" lemma="ⲙⲟⲟϣⲉ">
+ⲙⲟⲟ
+<lb n="10"/>
+ϣⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲓϫⲛ">
+ϩⲓϫⲛ̇
+</w>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="N" lemma="ⲙⲟⲟⲩ">
+ⲙⲟⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+<lb n="11"/>
+<s style="He said, that is the old man:">
+<phr>
+<w type="VBD" lemma="ⲡⲉϫⲉ">
+<hi rend="red, tall">
+Ⲡ
+</hi>
+ⲉϫⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛ̇ϭⲓ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϩⲗⲗⲟ">
+ϩⲗ̇ⲗⲟ
+</w>
+</phr>
+</s>
+<s style="“I feel that the water comes up to the ankles of my foot, but the bottom is firm.”">
+<lb n="12"/>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ϯ
+</w>
+<w type="V" lemma="ⲁⲓⲥⲑⲁⲛⲉ" xml:lang="Greek">
+ⲉⲥⲑⲁⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="N" lemma="ⲙⲟⲟⲩ">
+ⲙⲟ
+<lb n="13"/>
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="VSTAT" lemma="ⲉⲓ">
+ⲛⲏⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϣⲁ">
+ϣⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲕⲗⲗⲉ">
+ⲕⲗ̇ⲗⲉ
+</w>
+</phr>
+<lb n="14"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N_PPERO" lemma="ⲣⲁⲧ_ⲁⲛⲟⲕ">
+ⲣⲁⲧ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲉⲥⲏⲧ">
+ⲉⲥⲏⲧ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ">
+ⲇⲉ
+</w>
+</phr>
+<lb n="15"/>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="VSTAT" lemma="ⲧⲁϫⲣⲟ">
+ⲧⲁϫⲣⲏⲩ
+</w>
+</phr>
+<phr>
+<w type="COP" lemma="ⲡⲉ">
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

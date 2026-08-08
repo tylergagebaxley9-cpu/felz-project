@@ -1,0 +1,1622 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:nt.1cor.sahidica_ed:13">1 Corinthians 13</title>
+<author>none</author>
+<respStmt>
+<resp>source</resp>
+<name>David Brakke, Hany Takla, J Warren Wells</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Elizabeth Platte, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>World English Bible (WEB)</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>none</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>none</objectType>
+				<country>none</country>
+				<placeName>none</placeName>
+				<origPlace>none</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>none</repository>
+				<collection>none</collection>
+				<idno>none</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="none" from="none" to="none">none-none</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>1 Corinthians 13</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>none</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="3.0.0" when="2019-09-30"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<p n="1 Corinthians 13:1">
+<s style="If I speak with the languages of men and of angels, but don&apos;t have love, I have become sounding brass, or a clanging cymbal.">
+<phr>
+<w type="ACOND_PPERS" lemma="ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ">
+ⲉⲓϣⲁⲛ
+</w>
+<w type="V" lemma="ϣⲁϫⲉ">
+ϣⲁϫⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲥⲡⲉ">
+ⲁⲥⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ⲣⲱⲙⲉ">
+ⲣⲱⲙⲉ
+</w>
+<w type="CONJ" lemma="ⲙⲛ">
+ⲙⲛ
+</w>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲧⲁ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲅⲅⲉⲗⲟⲥ" xml:lang="Greek">
+ⲁⲅⲅⲉⲗⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="EXIST" lemma="ⲙⲛⲧⲁ">
+ⲙⲛⲧⲁ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="N" lemma="ⲁⲅⲁⲡⲏ" xml:lang="Greek">
+ⲁⲅⲁⲡⲏ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲙⲙⲁⲩ">
+ⲙⲙⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V" lemma="ⲉⲓⲣⲉ">
+ⲣ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲑ
+</w>
+<w type="N" lemma="ϩⲉ">
+ⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ϩⲟⲙⲛⲧ">
+ϩⲟⲙⲛⲧ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϯϩⲣⲟⲟⲩ">
+<m>
+ϯ
+</m>
+<m>
+ϩⲣⲟⲟⲩ
+</m>
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲏ" xml:lang="Greek">
+ⲏ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲕⲩⲙⲃⲁⲗⲟⲛ" xml:lang="Greek">
+ⲕⲩⲙⲃⲁⲗⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲱϣ">
+ⲱϣ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:2">
+<s style="If I have the gift of prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but don&apos;t have love, I am nothing.">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲉϣⲱⲡⲉ">
+ⲉϣⲱⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="EXIST" lemma="ⲟⲩⲛⲧⲉ">
+ⲟⲩⲛⲧⲁ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲡⲣⲟⲫⲏⲧⲓⲁ" xml:lang="Greek">
+ⲡⲣⲟⲫⲏⲧⲓⲁ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+<w type="ACONJ_PPERS" lemma="ⲛⲧⲉ_ⲁⲛⲟⲕ">
+ⲧⲁ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ⲉⲓⲙⲉ">
+ⲉⲓⲙⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲙ
+</w>
+<w type="N" lemma="ⲙⲩⲥⲧⲏⲣⲓⲟⲛ" xml:lang="Greek">
+ⲙⲩⲥⲧⲏⲣⲓⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲥⲟⲟⲩⲛ">
+ⲥⲟⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲕⲁⲛ" xml:lang="Greek">
+ⲕⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="EXIST" lemma="ⲟⲩⲛⲧⲉ">
+ⲩⲛⲧⲁ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲡⲓⲥⲧⲓⲥ" xml:lang="Greek">
+ⲡⲓⲥⲧⲓⲥ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϩⲱⲥⲧⲉ" xml:lang="Greek">
+ϩⲱⲥⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="V" lemma="ⲡⲱⲱⲛⲉ">
+ⲡⲉⲛⲉ
+</w>
+<w type="N" lemma="ⲧⲟⲟⲩ">
+ⲧⲟⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="EXIST" lemma="ⲙⲛ">
+ⲙⲛ
+</w>
+<w type="N" lemma="ⲁⲅⲁⲡⲏ" xml:lang="Greek">
+ⲁⲅⲁⲡⲏ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP_PPERO" lemma="ⲛϩⲏⲧ">
+ⲛϩⲏⲧ
+</w>
+</phr>
+<phr>
+<w type="PPERI" lemma="ⲁⲛⲟⲕ">
+ⲁⲛⲅ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲗⲁⲁⲩ">
+ⲗⲁⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:3">
+<s style="If I dole out all my goods to feed the poor, and if I give my body to be burned, but don&apos;t have love, it profits me nothing.">
+<phr>
+<w type="CONJ" lemma="ⲕⲁⲛ" xml:lang="Greek">
+ⲕⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="ACOND_PPERS" lemma="ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ">
+ⲉⲓϣⲁⲛ
+</w>
+<w type="V" lemma="ⲧⲙⲙⲟ">
+ⲧⲙⲙⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲛⲁ
+</w>
+<w type="N" lemma="ϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ" xml:lang="Greek">
+ϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="ACONJ_PPERS" lemma="ⲛⲧⲉ_ⲁⲛⲟⲕ">
+ⲧⲁ
+</w>
+<w type="V" lemma="ϯ">
+ϯ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲡⲁ
+</w>
+<w type="N" lemma="ⲥⲱⲙⲁ" xml:lang="Greek">
+ⲥⲱⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="AOPT_PPERS" lemma="ⲉⲣⲉ_ⲁⲛⲟⲕ">
+ⲉⲓⲉ
+</w>
+<w type="V" lemma="ϣⲟⲩϣⲟⲩ">
+ϣⲟⲩϣⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙⲙⲟ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="EXIST" lemma="ⲙⲛⲧⲁ">
+ⲙⲛⲧⲁ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="N" lemma="ⲁⲅⲁⲡⲏ" xml:lang="Greek">
+ⲁⲅⲁⲡⲏ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲙⲙⲁⲩ">
+ⲙⲙⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="NEG" lemma="ⲛ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ϯ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ϯϩⲏⲩ">
+<m>
+ϯ
+</m>
+<m>
+ϩⲏⲩ
+</m>
+</w>
+</phr>
+<phr>
+<w type="NEG" lemma="ⲁⲛ">
+ⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲗⲁⲁⲩ">
+ⲗⲁⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:4">
+<s style="Love is patient and is kind; love doesn&apos;t envy. Love doesn&apos;t brag, is not proud,">
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲁⲅⲁⲡⲏ" xml:lang="Greek">
+ⲁⲅⲁⲡⲏ
+</w>
+</phr>
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ϩⲣⲟϣ">
+ϩⲣⲟϣ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ⲛϩⲏⲧ
+</w>
+</phr>
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲣⲭⲣⲏⲥⲧⲟⲥ">
+<m>
+ⲣ
+</m>
+<m xml:lang="Greek">
+ⲭⲣⲏⲥⲧⲟⲥ
+</m>
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲁⲅⲁⲡⲏ" xml:lang="Greek">
+ⲁⲅⲁⲡⲏ
+</w>
+</phr>
+<phr>
+<w type="ANEGAOR" lemma="ⲙⲉⲣⲉ">
+ⲙⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲕⲱϩ">
+ⲕⲱϩ
+</w>
+</phr>
+<phr>
+<w type="ANEGAOR" lemma="ⲙⲉⲣⲉ">
+ⲙⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲣⲡⲉⲣⲡⲉⲣⲟⲥ">
+<m>
+ⲣ
+</m>
+<m xml:lang="Greek">
+ⲡⲉⲣⲡⲉⲣⲟⲥ
+</m>
+</w>
+</phr>
+<phr>
+<w type="ANEGAOR" lemma="ⲙⲉⲣⲉ">
+ⲙⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ϫⲓⲥⲉ">
+ϫⲓⲥⲉ
+</w>
+</phr>
+<phr>
+<w type="N" lemma="ϩⲏⲧ">
+ⲛϩⲏⲧ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:5">
+<s style="doesn&apos;t behave itself inappropriately, doesn&apos;t seek its own way, is not provoked, takes no account of evil;">
+<phr>
+<w type="ANEGAOR" lemma="ⲙⲉⲣⲉ">
+ⲙⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲁⲥⲭⲏⲙⲟⲛⲉⲓ" xml:lang="Greek">
+ⲁⲥⲭⲩⲙⲟⲛⲓ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="ANEGAOR" lemma="ⲙⲉⲣⲉ">
+ⲙⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ϣⲓⲛⲉ">
+ϣⲓⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲥⲁ">
+ⲛⲥⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧⲉ
+</w>
+<w type="PPOS" lemma="ⲛⲟⲩⲥ">
+ⲛⲟⲩⲥ
+</w>
+</phr>
+<phr>
+<w type="COP" lemma="ⲡⲉ">
+ⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="ANEGAOR" lemma="ⲙⲉⲣⲉ">
+ⲙⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="N" lemma="ⲛⲟⲩϭⲥ">
+ⲛⲟⲩϭⲥ
+</w>
+</phr>
+<phr>
+<w type="ANEGAOR" lemma="ⲙⲉⲣⲉ">
+ⲙⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲙⲉⲉⲩⲉ">
+ⲙⲉⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲡⲉⲑⲟⲟⲩ">
+<m>
+ⲡ
+</m>
+<m>
+ⲉ
+</m>
+<m>
+ⲑⲟⲟⲩ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:6">
+<s style="doesn&apos;t rejoice in unrighteousness, but rejoices with the truth;">
+<phr>
+<w type="ANEGAOR" lemma="ⲙⲉⲣⲉ">
+ⲙⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲣⲁϣⲉ">
+ⲣⲁϣⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉϫⲛ">
+ⲉϫⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="V" lemma="ϫⲓ">
+ϫⲓ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ϭⲟⲛⲥ">
+ϭⲟⲛⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲣⲁϣⲉ">
+ⲣⲁϣⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲛⲧⲟϥ">
+ⲛⲧⲟϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲙⲉ">
+ⲙⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:7">
+<s style="bears all things, believes all things, hopes all things, endures all things.">
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ϥⲓ">
+ϥⲓ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲁ">
+ϩⲁ
+</w>
+<w type="N" lemma="ϩⲱⲃ">
+ϩⲱⲃ
+</w>
+</phr>
+<phr>
+<w type="PINT" lemma="ⲛⲓⲙ">
+ⲛⲓⲙ
+</w>
+</phr>
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲡⲓⲥⲧⲉⲩⲉ" xml:lang="Greek">
+ⲡⲓⲥⲧⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ϩⲉⲗⲡⲓⲍⲉ" xml:lang="Greek">
+ϩⲉⲗⲡⲓⲍⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ϩⲩⲡⲟⲙⲓⲛⲉ" xml:lang="Greek">
+ϩⲩⲡⲟⲙⲓⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:8">
+<s style="Love never fails. But where there are prophecies, they will be done away with. Where there are various languages, they will cease. Where there is knowledge, it will be done away with.">
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲁⲅⲁⲡⲏ" xml:lang="Greek">
+ⲁⲅⲁⲡⲏ
+</w>
+</phr>
+<phr>
+<w type="ANEGAOR" lemma="ⲙⲉⲣⲉ">
+ⲙⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ϩⲉ">
+ϩⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲛⲉϩ">
+ⲉⲛⲉϩ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲉⲓⲧⲉ" xml:lang="Greek">
+ⲉⲓⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛⲉ
+</w>
+<w type="N" lemma="ⲡⲣⲟⲫⲏⲧⲓⲁ" xml:lang="Greek">
+ⲡⲣⲟⲫⲏⲧⲓⲁ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲥϥ">
+ⲟⲩⲱⲥϥ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲉⲓⲧⲉ" xml:lang="Greek">
+ⲉⲓⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲥⲡⲉ">
+ⲁⲥⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲗⲟ">
+ⲗⲟ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲉⲓⲧⲉ" xml:lang="Greek">
+ⲉⲓⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ⲥⲟⲟⲩⲛ">
+ⲥⲟⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲥϥ">
+ⲟⲩⲱⲥϥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:9">
+<s style="For we know in part, and we prophesy in part;">
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="V" lemma="ⲥⲟⲟⲩⲛ">
+ⲥⲟⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲅⲁⲣ" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲙⲉⲣⲟⲥ" xml:lang="Greek">
+ⲙⲉⲣⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="V" lemma="ⲡⲣⲟⲫⲏⲧⲉⲩⲉ" xml:lang="Greek">
+ⲡⲣⲟⲫⲏⲧⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲙⲉⲣⲟⲥ" xml:lang="Greek">
+ⲙⲉⲣⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:10">
+<s style="but when that which is complete has come, then that which is partial will be done away with.">
+<phr>
+<w type="CONJ" lemma="ϩⲟⲧⲁⲛ" xml:lang="Greek">
+ϩⲟⲧⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ACOND_PPERS" lemma="ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ">
+ⲉϥϣⲁⲛ
+</w>
+<w type="V" lemma="ⲉⲓ">
+ⲉⲓ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛϭⲓ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϫⲱⲕ">
+ϫⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲙⲉⲣⲟⲥ" xml:lang="Greek">
+ⲙⲉⲣⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲥϥ">
+ⲟⲩⲱⲥϥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:11">
+<s style="When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a man, I have put away childish things.">
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡⲉ
+</w>
+<w type="N" lemma="ⲟⲩⲟⲉⲓϣ">
+ⲩⲟⲉⲓϣ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="VSTAT" lemma="ⲉⲓⲣⲉ">
+ⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲕⲟⲩⲓ">
+ⲕⲟⲩⲓ
+</w>
+</phr>
+<phr>
+<w type="CPRET" lemma="ⲛⲉⲣⲉ">
+ⲛⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲉⲓ
+</w>
+<w type="V" lemma="ϣⲁϫⲉ">
+ϣⲁϫⲉ
+</w>
+</phr>
+<phr>
+<w type="COP" lemma="ⲡⲉ">
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϩⲱⲥ" xml:lang="Greek">
+ϩⲱⲥ
+</w>
+</phr>
+<phr>
+<w type="N" lemma="ⲕⲟⲩⲓ">
+ⲕⲟⲩⲓ
+</w>
+</phr>
+<phr>
+<w type="CPRET" lemma="ⲛⲉⲣⲉ">
+ⲛⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V" lemma="ⲙⲉⲉⲩⲉ">
+ⲙⲉⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϩⲱⲥ" xml:lang="Greek">
+ϩⲱⲥ
+</w>
+</phr>
+<phr>
+<w type="N" lemma="ⲕⲟⲩⲓ">
+ⲕⲟⲩⲓ
+</w>
+</phr>
+<phr>
+<w type="CPRET" lemma="ⲛⲉⲣⲉ">
+ⲛⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V" lemma="ϣⲟϫⲛⲉ">
+ϣⲟϫⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϩⲱⲥ" xml:lang="Greek">
+ϩⲱⲥ
+</w>
+</phr>
+<phr>
+<w type="N" lemma="ⲕⲟⲩⲓ">
+ⲕⲟⲩⲓ
+</w>
+</phr>
+<phr>
+<w type="APREC" lemma="ⲛⲧⲉⲣⲉ">
+ⲛⲧⲉⲣ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V" lemma="ⲣⲛⲟϭ">
+<m>
+ⲣ
+</m>
+<m>
+ⲛⲟϭ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲥϥ">
+ⲟⲩⲱⲥϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲛⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲕⲟⲩⲓ">
+ⲕⲟⲩⲓ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:12">
+<s style="For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, even as I was also fully known.">
+<phr>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲧⲛ
+</w>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲅⲁⲣ" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲧⲉⲛⲟⲩ">
+ⲧⲉⲛⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲓⲧⲛ">
+ϩⲓⲧⲛ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲉⲓⲁⲗ">
+ⲉⲓⲁⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ϩⲣⲃ">
+ϩⲣⲃ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛⲛⲥⲁ">
+ⲙⲛⲛⲥⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ϩⲟ">
+ϩⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲓ">
+ϩⲓ
+</w>
+<w type="N" lemma="ϩⲟ">
+ϩⲟ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲧⲉⲛⲟⲩ">
+ⲧⲉⲛⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲅⲁⲣ" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V" lemma="ⲉⲓⲙⲉ">
+ⲉⲓⲙⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲙⲉⲣⲟⲥ" xml:lang="Greek">
+ⲙⲉⲣⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛⲛⲥⲁ">
+ⲙⲛⲛⲥⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ϯ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲥⲟⲟⲩⲛ">
+ⲥⲟⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲕⲁⲧⲁ" xml:lang="Greek">
+ⲕⲁⲧⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ϩⲉ">
+ϩⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲟⲛ">
+ⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲥⲟⲟⲩⲛ">
+ⲥⲟⲩⲱⲛ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲧ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="1 Corinthians 13:13">
+<s style="But now faith, hope, and love remain--these three. The greatest of these is love.">
+<phr>
+<w type="ADV" lemma="ⲧⲉⲛⲟⲩ">
+ⲧⲉⲛⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ϭⲉ">
+ϭⲉ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="VSTAT" lemma="ϣⲱⲡⲉ">
+ϣⲟⲟⲡ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛϭⲓ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲡⲓⲥⲧⲓⲥ" xml:lang="Greek">
+ⲡⲓⲥⲧⲓⲥ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ϩⲉⲗⲡⲓⲥ" xml:lang="Greek">
+ϩⲉⲗⲡⲓⲥ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲁⲅⲁⲡⲏ" xml:lang="Greek">
+ⲁⲅⲁⲡⲏ
+</w>
+</phr>
+<phr>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲡⲉⲉⲓ
+</w>
+<w type="NUM" lemma="ϣⲟⲙⲛⲧ">
+ϣⲟⲙⲛⲧ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲛⲟϭ">
+ⲛⲟϭ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="PDEM" lemma="ⲡⲁⲓ">
+ⲛⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="COP" lemma="ⲡⲉ">
+ⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲁⲅⲁⲡⲏ" xml:lang="Greek">
+ⲁⲅⲁⲡⲏ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+</body>
+</text>
+</TEI>

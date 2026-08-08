@@ -1,0 +1,2583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:nt.mark.sahidica_ed:16">Mark Chapter 16</title>
+<author>none</author>
+<respStmt>
+<resp>source</resp>
+<name>David Brakke, Hany Takla, J Warren Wells</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Rebecca Krawiec, David Sriboonreuang, Caroline T. Schroeder, Amir Zeldes</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>World English Bible (WEB)</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>none</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>digital edition</objectType>
+				<country>Egypt</country>
+				<placeName>none</placeName>
+				<origPlace>none</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>none</repository>
+				<collection>none</collection>
+				<idno>none</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="none" from="none" to="none">none-none</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Mark Chapter 16</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>none</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.4.0" when="2022-09-26"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<p n="1">
+<s style="When the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, bought spices, that they might come and anoint him.">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="APREC" lemma="ⲛⲧⲉⲣⲉ">
+ⲛⲧⲉⲣⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲥⲁⲃⲃⲁⲧⲟⲛ" xml:lang="Hebrew">
+ⲥⲁⲃⲃⲁⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ⲟⲩⲉⲓⲛⲉ">
+ⲟⲩⲉⲓⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲙⲁⲣⲓⲁ" xml:lang="Hebrew">
+ⲙⲁⲣⲓⲁ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="NPROP" lemma="ⲙⲁⲅⲇⲁⲗⲏⲛⲏ" xml:lang="Aramaic">
+ⲙⲁⲅⲇⲁⲗⲏⲛⲏ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲙⲁⲣⲓⲁ" xml:lang="Hebrew">
+ⲙⲁⲣⲓⲁ
+</w>
+</phr>
+<phr>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲧⲁ
+</w>
+<w type="NPROP" lemma="ⲓⲁⲕⲱⲃⲟⲥ" xml:lang="Hebrew">
+ⲓⲁⲕⲱⲃⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ
+</w>
+<w type="NPROP" lemma="ⲥⲁⲗⲱⲙⲏ" xml:lang="Hebrew">
+ⲥⲁⲗⲱⲙⲏ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ϣⲱⲡ">
+ϣⲉⲡ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ϩⲉⲛ
+</w>
+<w type="N" lemma="ϩⲏⲛⲉ">
+ϩⲏⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉⲕⲁⲁⲥ">
+ϫⲉⲕⲁⲁⲥ
+</w>
+</phr>
+<phr>
+<w type="AOPT_PPERS" lemma="ⲉⲣⲉ_ⲛⲧⲟⲟⲩ">
+ⲉⲩⲉ
+</w>
+<w type="V" lemma="ⲉⲓ">
+ⲉⲓ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="V" lemma="ⲧⲱϩⲥ">
+ⲧⲁϩⲥ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+</s>
+</p>
+<p n="2">
+<s style="Very early on the first day of the week, they came to the tomb when the sun had risen.">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ϩⲧⲟⲟⲩ">
+ϩⲧⲟⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲙⲁⲧⲉ">
+ⲉⲙⲁⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="NUM" lemma="ⲟⲩⲁ">
+ⲟⲩⲁ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ⲥⲁⲃⲃⲁⲧⲟⲛ" xml:lang="Hebrew">
+ⲥⲁⲃⲃⲁⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲉⲓ">
+ⲉⲓ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡⲉ
+</w>
+<w type="N" lemma="ⲙϩⲁⲟⲩ">
+ⲙϩⲁⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲣⲏ">
+ⲣⲏ
+</w>
+<w type="V" lemma="ϣⲁ">
+ϣⲁ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="3">
+<s style="They were saying among themselves, &apos;Who will roll away the stone from the door of the tomb for us?&apos;">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲛⲉⲩ
+</w>
+<w type="V" lemma="ϫⲱ">
+ϫⲱ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙⲙⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="CPRET" lemma="ⲛⲉⲣⲉ">
+ⲛⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="N" lemma="ⲉⲣⲏⲩ">
+ⲉⲣⲏⲩ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PINT" lemma="ⲛⲓⲙ">
+ⲛⲓⲙ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ϥⲓ">
+ϥⲓ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲱⲛⲉ">
+ⲱⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲓ">
+ϩⲓ
+</w>
+<w type="N" lemma="ⲣⲟ">
+ⲣⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡⲉ
+</w>
+<w type="N" lemma="ⲙϩⲁⲟⲩ">
+ⲙϩⲁⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="4">
+<s style="for it was very big. Looking up, they saw that the stone was rolled back.">
+<phr>
+<w type="APREC" lemma="ⲛⲧⲉⲣⲉ">
+ⲛⲧⲉⲣ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="V" lemma="ϥⲓ">
+ϥⲓⲁⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲱⲛⲉ">
+ⲱⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ϥⲓ">
+ϥⲓⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲙⲙⲁⲩ">
+ⲙⲙⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="CPRET" lemma="ⲛⲉⲣⲉ">
+ⲛⲉ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲩ
+</w>
+<w type="N" lemma="ⲛⲟϭ">
+ⲛⲟϭ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲅⲁⲣ" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w type="COP" lemma="ⲡⲉ">
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲙⲁⲧⲉ">
+ⲉⲙⲁⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="5">
+<s style="Entering into the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were amazed.">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="APREC" lemma="ⲛⲧⲉⲣⲉ">
+ⲛⲧⲉⲣ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="V" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉϩⲟⲩⲛ">
+ⲉϩⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡⲉ
+</w>
+<w type="N" lemma="ⲙϩⲁⲟⲩ">
+ⲙϩⲁⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲩ
+</w>
+<w type="N" lemma="ϩⲣϣⲓⲣⲉ">
+ϩⲣϣⲓⲣⲉ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϩⲙⲟⲟⲥ">
+ϩⲙⲟⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲥⲁ">
+ⲛⲥⲁ
+</w>
+<w type="N" lemma="ⲟⲩⲛⲁⲙ">
+ⲟⲩⲛⲁⲙ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙⲙⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="VSTAT" lemma="ϭⲱⲱⲗⲉ">
+ϭⲟⲟⲗⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲥⲧⲟⲗⲏ" xml:lang="Greek">
+ⲥⲧⲟⲗⲏ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲟⲩⲟⲃϣ">
+ⲟⲩⲱⲃϣ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲑ
+</w>
+<w type="N" lemma="ϩⲟⲧⲉ">
+ⲟⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ϫⲓ">
+ϫⲓⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="6">
+<s style="He said to them, &apos;Don&apos;t be amazed. You seek Jesus, the Nazarene, who has been crucified. He has risen. He is not here. Behold, the place where they laid him!">
+<phr>
+<w type="PPERI" lemma="ⲛⲧⲟϥ">
+ⲛⲧⲟϥ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϣⲁϫⲉ">
+ϣⲁϫⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲛⲙⲙⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+</phr>
+<phr>
+<w type="NEG" lemma="ⲙⲡⲣ">
+ⲙⲡⲣ
+</w>
+<w type="V" lemma="ⲣϩⲟⲧⲉ">
+<m>
+ⲣ
+</m>
+<m>
+ϩⲟⲧⲉ
+</m>
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲱⲧⲛ">
+ⲧⲉⲧⲛ
+</w>
+<w type="V" lemma="ⲕⲱⲧⲉ">
+ⲕⲱⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲥⲁ">
+ⲛⲥⲁ
+</w>
+<w type="NPROP" lemma="ⲓⲏⲥⲟⲩⲥ" xml:lang="Hebrew">
+ⲓⲏⲥⲟⲩⲥ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="NPROP" lemma="ⲛⲁⲍⲁⲣⲏⲛⲟⲥ" xml:lang="Hebrew">
+ⲛⲁⲍⲁⲣⲏⲛⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲥⲧⲁⲩⲣⲟⲩ" xml:lang="Greek">
+ⲥⲧⲁⲩⲣⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙⲙⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲧⲱⲟⲩⲛ">
+ⲧⲱⲟⲩⲛ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="NEG" lemma="ⲛ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ
+</w>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲡⲉⲓ
+</w>
+<w type="N" lemma="ⲙⲁ">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="NEG" lemma="ⲁⲛ">
+ⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="VIMP" lemma="ⲛⲁⲩ">
+ⲁⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲙⲁ">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲕⲱ">
+ⲕⲁⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ⲛϩⲏⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+</s>
+</p>
+<p n="7">
+<s style="But go, tell his disciples and Peter, &apos;He goes before you into Galilee. There you will see him, as he said to you.&apos;&apos;">
+<phr>
+<w type="CONJ" lemma="ⲁⲗⲗⲁ" xml:lang="Greek">
+ⲁⲗⲗⲁ
+</w>
+</phr>
+<phr>
+<w type="VIMP" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲱⲧⲛ">
+ⲧⲉⲧⲛ
+</w>
+<w type="V" lemma="ϫⲱ">
+ϫⲟⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="PPOS" lemma="ⲡⲉϥ">
+ⲛⲉϥ
+</w>
+<w type="N" lemma="ⲙⲁⲑⲏⲧⲏⲥ" xml:lang="Greek">
+ⲙⲁⲑⲏⲧⲏⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="ART" lemma="ⲕⲉ">
+ⲕⲉ
+</w>
+<w type="NPROP" lemma="ⲡⲉⲧⲣⲟⲥ" xml:lang="Greek">
+ⲡⲉⲧⲣⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲣϣⲟⲣⲡ">
+<m>
+ⲣ
+</m>
+<m>
+ϣⲟⲣⲡ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉⲣⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲱⲧⲛ">
+ⲧⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="NPROP" lemma="ⲅⲁⲗⲓⲗⲁⲓⲁ" xml:lang="Hebrew">
+ⲅⲁⲗⲓⲗⲁⲓⲁ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲱⲧⲛ">
+ⲧⲉⲧⲛ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉⲣⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲙⲁ">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="ADV" lemma="ⲙⲙⲁⲩ">
+ⲙⲙⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲕⲁⲧⲁ" xml:lang="Greek">
+ⲕⲁⲧⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ϩⲉ">
+ϩⲉ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϫⲱ">
+ϫⲟⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲏ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲱⲧⲛ">
+ⲧⲛ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="8">
+<s style="They went out, and fled from the tomb, for trembling and astonishment had come on them. They said nothing to anyone; for they were afraid.">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="APREC" lemma="ⲛⲧⲉⲣⲉ">
+ⲛⲧⲉⲣ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="V" lemma="ⲉⲓ">
+ⲉⲓ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡⲉ
+</w>
+<w type="N" lemma="ⲙϩⲁⲟⲩ">
+ⲙϩⲁⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲡⲱⲧ">
+ⲡⲱⲧ
+</w>
+</phr>
+<phr>
+<w type="CPRET" lemma="ⲛⲉⲣⲉ">
+ⲛⲉⲣⲉ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ϩⲟⲧⲉ">
+ϩⲟⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲅⲁⲣ" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲛⲙⲙⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="CPRET" lemma="ⲛⲉⲣⲉ">
+ⲛⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲣϣⲡⲏⲣⲉ">
+<m>
+ⲣ
+</m>
+<m>
+ϣⲡⲏⲣⲉ
+</m>
+</w>
+</phr>
+<phr>
+<w type="ANEGPST" lemma="ⲙⲡⲉ">
+ⲙⲡ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="V" lemma="ϫⲱ">
+ϫⲉ
+</w>
+<w type="N" lemma="ⲗⲁⲁⲩ">
+ⲗⲁⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ϣⲁϫⲉ">
+ϣⲁϫⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="N" lemma="ⲗⲁⲁⲩ">
+ⲗⲁⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="CPRET" lemma="ⲛⲉⲣⲉ">
+ⲛⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲣϩⲟⲧⲉ">
+<m>
+ⲣ
+</m>
+<m>
+ϩⲟⲧⲉ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲅⲁⲣ" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="9">
+<s style="Now when he had risen early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons.">
+<phr>
+<w type="APREC" lemma="ⲛⲧⲉⲣⲉ">
+ⲛⲧⲉⲣⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲧⲱⲟⲩⲛ">
+ⲧⲱⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ϩⲧⲟⲟⲩⲉ">
+ϩⲧⲟⲟⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲥⲟⲩⲁ">
+ⲥⲟⲩⲁ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲥⲁⲃⲃⲁⲧⲟⲛ" xml:lang="Hebrew">
+ⲥⲁⲃⲃⲁⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲛϩ">
+ⲟⲩⲱⲛϩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ϣⲟⲣⲡ">
+ϣⲟⲣⲡ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="NPROP" lemma="ⲙⲁⲣⲓⲁ" xml:lang="Hebrew">
+ⲙⲁⲣⲓⲁ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="NPROP" lemma="ⲙⲁⲅⲇⲁⲗⲏⲛⲏ" xml:lang="Aramaic">
+ⲙⲁⲅⲇⲁⲗⲏⲛⲏ
+</w>
+</phr>
+<phr>
+<w type="PDEM" lemma="ⲡⲁⲓ">
+ⲧⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲛⲟⲩϫⲉ">
+ⲛⲟⲩϫⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ⲛϩⲏⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="NUM" lemma="ⲥⲁϣϥ">
+ⲥⲁϣϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲇⲁⲓⲙⲱⲛⲓⲟⲛ" xml:lang="Greek">
+ⲇⲁⲓⲙⲱⲛⲓⲟⲛ
+</w>
+</phr>
+</s>
+</p>
+<p n="10">
+<s style="She went and told those who had been with him, as they mourned and wept.">
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="ADV" lemma="ⲙⲙⲁⲩ">
+ⲙⲙⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲧⲁⲙⲙⲉ">
+ⲧⲁⲙⲙⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ϣⲱⲡⲉ">
+ϣⲱⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲛⲙⲙⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲣϩⲃⲃⲉ">
+<m>
+ⲣ
+</m>
+<m>
+ϩⲃⲃⲉ
+</m>
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲣⲓⲙⲉ">
+ⲣⲓⲙⲉ
+</w>
+</phr>
+</s>
+</p>
+<p n="11">
+<s style="When they heard that he was alive, and had been seen by her, they disbelieved.">
+<phr>
+<w type="PPERI" lemma="ⲛⲧⲟⲟⲩ">
+ⲛⲧⲟⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ϩⲱⲱ">
+ϩⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲟⲛ">
+ⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="APREC" lemma="ⲛⲧⲉⲣⲉ">
+ⲛⲧⲉⲣ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="V" lemma="ⲥⲱⲧⲙ">
+ⲥⲱⲧⲙ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="VSTAT" lemma="ⲱⲛϩ">
+ⲟⲛϩ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉⲣⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲣⲁⲧⲛⲁϩⲧⲉ">
+<m>
+ⲣ
+</m>
+<m>
+ⲁⲧ
+</m>
+<m>
+ⲛⲁϩⲧⲉ
+</m>
+</w>
+</phr>
+</s>
+</p>
+<p n="12">
+<s style="After these things he was revealed in another form to two of them, as they walked, on their way into the country.">
+<phr>
+<w type="PREP" lemma="ⲙⲛⲛⲥⲁ">
+ⲙⲛⲛⲥⲁ
+</w>
+<w type="PDEM" lemma="ⲡⲁⲓ">
+ⲛⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="NUM" lemma="ⲥⲛⲁⲩ">
+ⲥⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ⲛϩⲏⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲙⲟⲟϣⲉ">
+ⲙⲟⲟϣⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲛϩ">
+ⲟⲩⲱⲛϩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ
+</w>
+<w type="ART" lemma="ⲕⲉ">
+ⲕⲉ
+</w>
+<w type="N" lemma="ⲙⲟⲣⲫⲏ" xml:lang="Greek">
+ⲙⲟⲣⲫⲏ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="VSTAT" lemma="ⲃⲱⲕ">
+ⲃⲏⲕ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲥⲱϣⲉ">
+ⲥⲱϣⲉ
+</w>
+</phr>
+</s>
+</p>
+<p n="13">
+<s style="They went away and told it to the rest. They didn&apos;t believe them, either.">
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="ADV" lemma="ⲙⲙⲁⲩ">
+ⲙⲙⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ϩⲱⲱ">
+ϩⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲟⲛ">
+ⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲧⲁⲙⲟ">
+ⲧⲁⲙⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="ART" lemma="ⲕⲉ">
+ⲕⲉ
+</w>
+<w type="N" lemma="ⲥⲉⲉⲡⲉ">
+ⲥⲉⲉⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲟⲩⲧⲉ" xml:lang="Greek">
+ⲟⲩⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲟⲛ">
+ⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="ANEGPST" lemma="ⲙⲡⲉ">
+ⲙⲡ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="V" lemma="ⲡⲓⲥⲧⲉⲩⲉ" xml:lang="Greek">
+ⲡⲓⲥⲧⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="ADV" lemma="ⲙⲙⲁⲩ">
+ⲙⲙⲁⲩ
+</w>
+</phr>
+</s>
+</p>
+<p n="14">
+<s style="Afterward he was revealed to the eleven themselves as they sat at the table, and he rebuked them for their unbelief and hardness of heart, because they didn&apos;t believe those who had seen him after he had risen.">
+<phr>
+<w type="PREP" lemma="ⲙⲛⲛⲥⲁ">
+ⲙⲛⲛⲥⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="VSTAT" lemma="ⲛⲟⲩϫⲉ">
+ⲛⲏϫ
+</w>
+</phr>
+<phr>
+<w type="PPERI" lemma="ⲛⲧⲟⲟⲩ">
+ⲛⲧⲟⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="NUM" lemma="ⲙⲛⲧ">
+ⲙⲛⲧ
+</w>
+<w type="NUM" lemma="ⲟⲩⲉ">
+ⲟⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲛϩ">
+ⲟⲩⲱⲛϩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲛⲟϭⲛⲉϭ">
+ⲛⲟϭⲛⲉϭ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲧⲉⲩ
+</w>
+<w type="N" lemma="ⲙⲛⲧⲁⲧⲛⲁϩⲧⲉ">
+<m>
+ⲙⲛⲧ
+</m>
+<m>
+ⲁⲧ
+</m>
+<m>
+ⲛⲁϩⲧⲉ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ
+</w>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲧⲉⲩ
+</w>
+<w type="N" lemma="ⲙⲛⲧⲛⲁϣⲧϩⲏⲧ">
+<m>
+ⲙⲛⲧ
+</m>
+<m>
+ⲛⲁϣⲧ
+</m>
+<m>
+ϩⲏⲧ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="ANEGPST" lemma="ⲙⲡⲉ">
+ⲙⲡ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="V" lemma="ⲡⲓⲥⲧⲉⲩⲉ" xml:lang="Greek">
+ⲡⲓⲥⲧⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛⲉ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉⲣⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲧⲱⲟⲩⲛ">
+ⲧⲱⲟⲩⲛ
+</w>
+</phr>
+</s>
+</p>
+<p n="15">
+<s style="He said to them, &apos;Go into all the world, and preach the Good News to the whole creation.">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="VBD" lemma="ⲡⲉϫⲉ">
+ⲡⲉϫⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="VIMP" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲕⲟⲥⲙⲟⲥ" xml:lang="Greek">
+ⲕⲟⲥⲙⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲱⲧⲛ">
+ⲧⲉⲧⲛ
+</w>
+<w type="V" lemma="ⲧⲁϣⲉⲟⲉⲓϣ">
+<m>
+ⲧⲁϣⲉ
+</m>
+<m>
+ⲟⲉⲓϣ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ" xml:lang="Greek">
+ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲥⲱⲛⲧ">
+ⲥⲱⲛⲧ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="16">
+<s style="He who believes and is baptized will be saved; but he who disbelieves will be condemned.">
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲡⲓⲥⲧⲉⲩⲉ" xml:lang="Greek">
+ⲡⲓⲥⲧⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϫⲓ">
+ϫⲓ
+</w>
+<w type="N" lemma="ⲃⲁⲡⲧⲓⲥⲙⲁ" xml:lang="Greek">
+ⲃⲁⲡⲧⲓⲥⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲟⲩϫⲁⲓ">
+ⲟⲩϫⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧⲉ
+</w>
+<w type="NEG" lemma="ⲛ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲡⲓⲥⲧⲉⲩⲉ" xml:lang="Greek">
+ⲡⲓⲥⲧⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="NEG" lemma="ⲁⲛ">
+ⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲧϭⲁⲉⲓⲟ">
+ⲧϭⲁⲓⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="17">
+<s style="These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages;">
+<phr>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲛⲉⲓ
+</w>
+<w type="N" lemma="ⲙⲁⲉⲓⲛ">
+ⲙⲁⲉⲓⲛ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲟⲩⲱϩ">
+ⲟⲩⲱϩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲡⲓⲥⲧⲉⲩⲉ" xml:lang="Greek">
+ⲡⲓⲥⲧⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲛⲟⲩϫⲉ">
+ⲛⲉϫ
+</w>
+</phr>
+<phr>
+<w type="N" lemma="ⲇⲁⲓⲙⲱⲛⲓⲟⲛ" xml:lang="Greek">
+ⲇⲁⲓⲙⲱⲛⲓⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ
+</w>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲡⲁ
+</w>
+<w type="N" lemma="ⲣⲁⲛ">
+ⲣⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ϣⲁϫⲉ">
+ϣⲁϫⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲥⲡⲉ">
+ⲁⲥⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="18">
+<s style="they will take up serpents; and if they drink any deadly thing, it will in no way hurt them; they will lay hands on the sick, and they will recover.&apos;">
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ϥⲓ">
+ϥⲓ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ϩⲟϥ">
+ϩⲟϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ
+</w>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲛⲉⲩ
+</w>
+<w type="N" lemma="ϭⲓϫ">
+ϭⲓϫ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲕⲁⲛ" xml:lang="Greek">
+ⲕⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="ACOND_PPERS" lemma="ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ">
+ⲉⲩϣⲁⲛ
+</w>
+<w type="V" lemma="ⲥⲱ">
+ⲥⲱ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲡⲁϩⲣⲉ">
+ⲡⲁϩⲣⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙⲙⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲣⲃⲟⲟⲛⲉ">
+<m>
+ⲣ
+</m>
+<m>
+ⲃⲟⲟⲛⲉ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="NEG" lemma="ⲁⲛ">
+ⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲧⲁⲗⲉ">
+ⲧⲁⲗⲉ
+</w>
+</phr>
+<phr>
+<w type="N" lemma="ⲧⲱⲣⲉ">
+ⲧⲟⲟⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉϫⲛ">
+ⲉϫⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="V" lemma="ϣⲱⲛⲉ">
+ϣⲱⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="V" lemma="ⲙⲧⲟⲛ">
+ⲙⲧⲟⲛ
+</w>
+</phr>
+</s>
+</p>
+<p n="19">
+<s style="So then the Lord Jesus, after he had spoken to them, was received up into heaven, and sat down at the right hand of God.">
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϫⲟⲉⲓⲥ">
+ϫⲟⲉⲓⲥ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲓⲏⲥⲟⲩⲥ" xml:lang="Hebrew">
+ⲓⲏⲥⲟⲩⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛⲛⲥⲁ">
+ⲙⲛⲛⲥⲁ
+</w>
+<w type="ACAUS" lemma="ⲧⲣⲉ">
+ⲧⲣⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϣⲁϫⲉ">
+ϣⲁϫⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲛⲙⲙⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ϥⲓ">
+ϥⲓⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲡⲉ">
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϩⲙⲟⲟⲥ">
+ϩⲙⲟⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲥⲁ">
+ⲛⲥⲁ
+</w>
+<w type="N" lemma="ⲟⲩⲛⲁⲙ">
+ⲟⲩⲛⲁⲙ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲛⲟⲩⲧⲉ">
+ⲛⲟⲩⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+<p n="20">
+<s style="They went out, and preached everywhere, the Lord working with them, and confirming the word by the signs that followed. Amen.">
+<phr>
+<w type="PPERI" lemma="ⲛⲧⲟⲟⲩ">
+ⲛⲧⲟⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ϩⲱⲱ">
+ϩⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="APREC" lemma="ⲛⲧⲉⲣⲉ">
+ⲛⲧⲉⲣ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="V" lemma="ⲉⲓ">
+ⲉⲓ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲧⲁϣⲉⲟⲉⲓϣ">
+<m>
+ⲧⲁϣⲉ
+</m>
+<m>
+ⲟⲉⲓϣ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ
+</w>
+<w type="N" lemma="ⲙⲁ">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="PINT" lemma="ⲛⲓⲙ">
+ⲛⲓⲙ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉⲣⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϫⲟⲉⲓⲥ">
+ϫⲟⲉⲓⲥ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ϯ">
+ϯ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲧⲛ">
+ⲛⲧⲟⲟⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲧⲁϫⲣⲟ">
+ⲧⲁϫⲣⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϣⲁϫⲉ">
+ϣⲁϫⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲓⲧⲛ">
+ϩⲓⲧⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲙ
+</w>
+<w type="N" lemma="ⲙⲁⲉⲓⲛ">
+ⲙⲁⲉⲓⲛ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="VSTAT" lemma="ⲟⲩⲱϩ">
+ⲟⲩⲏϩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲥⲁ">
+ⲛⲥⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1 @@
+Content for Bible corpora has been moved into individual directories above (e.g. ../sahidica.mark/ etc.)

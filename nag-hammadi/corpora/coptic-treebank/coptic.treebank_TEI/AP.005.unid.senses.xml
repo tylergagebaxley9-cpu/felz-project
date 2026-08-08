@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.5.monbeg">Apophthegmata Patrum Sahidic 005</title>
+<author>unknown</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Tobias Paul, Amir Zeldes, Caroline T. Schroeder, David Sriboonreuang, Elizabeth Platte, Christine Luckritz Marquis</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Tobias Paul, Amir Zeldes</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Biblioteca Nazionale di Napoli</repository>
+				<collection>Borgia Collection</collection>
+				<idno>IB 17 484 f. 19v</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="16" to="16">16-16</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 005</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960), § 5 p. 2</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="6.0.0" when="2024-10-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div1 n="1">
+<pb xml:id="EG16"/>
+<cb n="2"/>
+<div2 type="textpart">
+<p n="1">
+<lb n="4"/>
+<s style="Someone asked an old man: ">
+<phr>
+<w type="APST" lemma="ⲁ">
+<hi rend="large red ekthetic">
+Ⲁ
+</hi>
+</w>
+<w type="NUM" lemma="ⲟⲩⲁ">
+ⲟⲩⲁ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ϫⲛⲟⲩ">
+ϫⲛⲉ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ϩⲗⲗⲟ">
+ϩⲗ̇ⲗⲟ
+</w>
+</phr>
+</s>
+<s style="why is it that when I sit in my dwelling">
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<lb n="5"/>
+<w type="PREP" lemma="ⲉⲧⲃⲉ">
+ⲉⲧⲃⲉ
+</w>
+<w type="PINT" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ̇
+</w>
+<w type="VSTAT" lemma="ϩⲙⲟⲟⲥ">
+ϩ̇ⲙⲟⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ
+</w>
+<lb n="6"/>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲡⲁ
+</w>
+<w type="N" lemma="ⲙⲁ">
+ⲙⲁ
+</w>
+<w type="PREP" lemma="ⲛ">
+ⲛ̄
+</w>
+<w type="V" lemma="ϣⲱⲱⲡⲉ">
+ϣⲱⲱⲡⲉ
+</w>
+</phr>
+</s>
+<s style="my heart wanders about?">
+<phr>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲡⲁ
+</w>
+<lb n="7"/>
+<w type="N" lemma="ϩⲏⲧ">
+ϩⲏⲧ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ⲕⲱⲧⲉ">
+ⲕⲱⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲥⲁ">
+ⲥⲁ
+</w>
+<w type="N" lemma="ⲥⲁ">
+ⲥⲁ
+</w>
+</phr>
+<phr>
+<w type="PINT" lemma="ⲛⲓⲙ">
+ⲛⲓⲙ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+·
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="2">
+<s style="The old man answered him: that&apos;s because those of your senses are sick which are exterior, your sight, your hearing, your scent, your speech.">
+<lb n="8"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+<hi rend="large red ekthetic">
+Ⲁ
+</hi>
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲟⲩⲱϣⲃ">
+ⲟⲩⲱϣⲃ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛ̇ϭⲓ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<lb n="9"/>
+<w type="N" lemma="ϩⲗⲗⲟ">
+ϩⲗ̇ⲗⲟ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="V" lemma="ϣⲱⲛⲉ">
+ϣⲱ
+<lb n="10"/>
+ⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛ̇ϭⲓ̇
+</w>
+<w type="PPOS" lemma="ⲡⲉⲕ">
+ⲛⲉⲕ
+</w>
+<w type="N" lemma="ⲉⲥⲑⲏⲧⲏⲣⲓⲟⲛ" xml:lang="Greek">
+ⲉⲥⲑⲏⲧⲏⲣⲓ
+<lb n="11"/>
+ⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="ADV" lemma="ϩⲓⲃⲟⲗ">
+ϩⲓⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=",">
+·ⲻ
+</w>
+</phr>
+<lb n="12"/>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ϭⲓⲛⲛⲁⲩ">
+<m>
+ϭⲓⲛ
+</m>
+<m>
+ⲛⲁⲩ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=",">
+·
+</w>
+</phr>
+<lb n="13"/>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ϭⲓⲛⲥⲱⲧⲙ">
+<m>
+ϭⲓⲛ
+</m>
+<m>
+ⲥⲱⲧⲙ̇
+</m>
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=",">
+·
+</w>
+</phr>
+<lb n="14"/>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ϭⲓⲛϣⲱⲗⲙ">
+<m>
+ϭⲓⲛ
+</m>
+<m>
+ϣⲱⲗⲙ̄
+</m>
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=",">
+·
+</w>
+</phr>
+<lb n="15"/>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ϭⲓⲛϣⲁϫⲉ">
+<m>
+ϭⲓⲛ
+</m>
+<m>
+ϣⲁϫⲉ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+·
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="3">
+<s style="If now you develop their ability in purity the other senses which are interior will remain in serenity and well-being.">
+<lb n="16"/>
+<phr>
+<w type="PDEM" lemma="ⲡⲁⲓ">
+<hi rend="ekthetic red large">
+ⲛ
+</hi>
+ⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ϭⲉ">
+ϭⲉ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲉϣⲱⲡⲉ">
+ⲉϣⲱⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="ACOND_PPERS" lemma="ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ">
+ⲉⲕϣ̇ⲁⲛ
+</w>
+<lb n="17"/>
+<w type="V" lemma="ϫⲡⲟ">
+ϫⲡⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̄
+</w>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲧⲉⲩ
+</w>
+<w type="N" lemma="ⲉⲛⲉⲣⲅⲉⲓⲁ" xml:lang="Greek">
+ⲉ̇ⲛⲉⲣⲅⲓⲁ
+</w>
+</phr>
+<lb n="18"/>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ̇
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲙⲛⲧⲕⲁⲑⲁⲣⲟⲥ">
+<m>
+ⲙⲛ̇ⲧ
+</m>
+<m xml:lang="Greek">
+ⲕⲁⲑⲁⲣⲟ̣
+[ⲥ]
+</m>
+</w>
+</phr>
+<lb n="19"/>
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁⲣⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ̇
+</w>
+<w type="ART" lemma="ⲕⲉ">
+ⲕⲉ
+</w>
+<w type="N" lemma="ⲉⲥⲑⲏⲧⲏⲣⲓⲟⲛ" xml:lang="Greek">
+ⲉⲥ̇ⲑⲏⲧⲏ
+[ⲣⲓ]
+<lb n="20"/>
+ⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="ADV" lemma="ϩⲓϩⲟⲩⲛ">
+ϩⲓϩⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ϣⲱⲡⲉ">
+ϣⲱⲡⲉ̣
+</w>
+</phr>
+<lb n="21"/>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ̇
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲥϭⲣⲁϩⲧ">
+ⲥ̇ϭⲣⲁϩⲧ̇
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=",">
+.
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ̇
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<lb n="22"/>
+<w type="N" lemma="ⲟⲩϫⲁⲓ">
+ⲟⲩϫⲁⲓ̈
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.ⲻ
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

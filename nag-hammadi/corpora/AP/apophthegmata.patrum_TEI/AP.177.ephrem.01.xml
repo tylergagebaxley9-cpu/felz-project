@@ -1,0 +1,500 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.177.monbeg">Apophthegmata Patrum Sahidic 177: Ephraim</title>
+<author>unknown</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Lauren McDermott, Caroline T. Schroeder, Amir Zeldes</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Amir Zeldes</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Biblioteca Nazionale di Napoli</repository>
+				<collection>Borgia Collection</collection>
+				<idno>IB17 484 f. 33v</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="238" to="238">238-238</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 177: Ephraim</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960), § 177 (Fragments de Paris), p. 42</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.0.0" when="2020-08-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div1 n="1">
+<div2 type="textpart">
+<p n="1">
+<pb xml:id="EG238"/>
+<cb n="2"/>
+<s style="When the blessed Ephraim was a little boy he saw a dream or a revelation">
+<lb n="18"/>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+<hi rend="brown, ekthetic tall">
+Ⲉ
+</hi>
+ⲣⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲙⲁⲕⲁⲣⲓⲟⲥ" xml:lang="Greek">
+ⲙⲁⲕⲁⲣⲓ̇ⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲉⲫⲣⲉⲙ" xml:lang="Hebrew">
+ⲉ̇
+<hi rend="large">
+Ⲫ
+</hi>
+<lb n="19"/>
+ⲣⲉⲙ
+</w>
+</phr>
+<phr>
+<w type="VSTAT" lemma="ⲉⲓⲣⲉ">
+ⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+<hi rend="large">
+ⲛ̇
+</hi>
+</w>
+<w type="N" lemma="ϣⲏⲣⲉ">
+ϣⲏⲣⲉ
+</w>
+<w type="N" lemma="ϣⲏⲙ">
+ϣⲏⲙ
+</w>
+</phr>
+<lb n="20"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲩ
+</w>
+<w type="N" lemma="ⲣⲁⲥⲟⲩ">
+ⲣⲁⲥⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲏ" xml:lang="Greek">
+ⲏ̇
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲟⲩ">
+ⲟ
+ⲩ
+</w>
+<lb n="21"/>
+<w type="N" lemma="ϭⲱⲗⲡ">
+ϭⲱⲗⲡ̇
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉ̇ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="that a grapevine sprouted in his tongue">
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲩ
+</w>
+<lb n="22"/>
+<w type="N" lemma="ⲃⲱ">
+ⲃⲱ
+</w>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲉⲗⲟⲟⲗⲉ">
+ⲉⲗⲟⲟ̇ⲗⲉ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ⲣⲱⲧ">
+ⲣⲱⲧ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ̇
+</w>
+<lb n="23"/>
+<w type="PPOS" lemma="ⲡⲉϥ">
+ⲡⲉϥ
+</w>
+<w type="N" lemma="ⲗⲁⲥ">
+ⲗ̇ⲁⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="and it grew and it filled all the land under the sky whose fruit (sic) were very good,">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ̇
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<lb n="24"/>
+<w type="V" lemma="ⲁⲩⲝⲁⲛⲉ" xml:lang="Greek">
+ⲁ̇ⲩⲝⲁⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲙⲟⲩϩ">
+ⲙⲉϩ̣
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="N" lemma="ⲕⲁϩ">
+ⲕⲁϩ
+</w>
+</phr>
+<lb n="25"/>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲁ">
+ϩⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ̇
+</w>
+<w type="N" lemma="ⲡⲉ">
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="VBD" lemma="ⲛⲁⲛⲟⲩ">
+ⲛⲁⲛⲟⲩ
+</w>
+</phr>
+<lb n="26"/>
+<phr>
+<w type="PPOS" lemma="ⲡⲉⲥ">
+ⲡⲉⲥ
+</w>
+<w type="N" lemma="ⲕⲁⲣⲡⲟⲥ" xml:lang="Greek">
+ⲕⲁⲣⲡⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲙⲙⲁⲧⲉ">
+ⲙ̇ⲙⲁⲧⲉ
+</w>
+</phr>
+</s>
+<s style="and they came, that is all the birds of the sky">
+<lb n="27"/>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+<hi rend="ekthetic, brown, tall">
+Ⲁ
+</hi>
+ⲩⲱ̇
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲉⲓ">
+ⲉⲓ̇
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛ̇ϭⲓ̇
+</w>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ϩⲁⲗⲏⲧ">
+ϩⲁⲗⲁⲁ̇
+<lb n="28"/>
+ⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ̇
+</w>
+<w type="N" lemma="ⲡⲉ">
+ⲡⲉ
+</w>
+</phr>
+</s>
+<s style="(and) they ate its fruit,">
+<lb n="29"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲙ">
+ⲟⲩ̇ⲱ̇
+ϩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ̇
+</w>
+<w type="PPOS" lemma="ⲡⲉⲥ">
+ⲡⲉⲥ
+</w>
+<w type="N" lemma="ⲕⲁⲣⲡⲟⲥ" xml:lang="Greek">
+ⲕⲁⲣ
+<lb n="30"/>
+ⲡⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="and whatever will be eaten from the grapevine, it (the vine) will regrow more abundantly.">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ̇
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉ
+<lb n="31"/>
+<hi rend="ekthetic, brown, tall">
+Ⲧ
+</hi>
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲟⲩⲱⲙ">
+ⲟⲩⲟ̇ⲙ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<lb n="32"/>
+<w type="N" lemma="ⲃⲱ">
+ⲃⲱ
+</w>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲉⲗⲟⲟⲗⲉ">
+ⲉⲗⲟⲟ̇ⲗⲉ
+</w>
+</phr>
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ϯⲟⲩⲱ">
+<m>
+ϯ
+</m>
+<lb n="33"/>
+<m>
+ⲟⲩⲱ̇
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̇ⲙⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="ART" lemma="ⲕⲉ">
+ⲕⲉ
+</w>
+<w type="N" lemma="ⲥⲟⲡ">
+ⲥⲟⲡ
+</w>
+</phr>
+<lb n="34"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ϩⲟⲩⲟ">
+ϩⲟⲩⲟ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+<hi rend="blue">
+:ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

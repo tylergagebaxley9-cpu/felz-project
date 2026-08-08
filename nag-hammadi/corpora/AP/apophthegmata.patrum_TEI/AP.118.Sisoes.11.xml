@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.118.monbeg">Apophthegmata Patrum Sahidic 118: Sisoes 11</title>
+<author>unknown</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Elizabeth Platte, Caroline T. Schroeder, Elizabeth Davidson</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Elizabeth Platte</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Biblioteca Nazionale di Napoli</repository>
+				<collection>Borgia Collection</collection>
+				<idno>IB 17 484 f. 24r</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="203" to="203">203-203</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 118: Sisoes 11</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960), p. 27</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.0.0" when="2020-08-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div1 n="1">
+<pb xml:id="EG203"/>
+<cb n="2"/>
+<div2 type="textpart">
+<p n="1">
+<s style="The brother asked him again,">
+<lb n="30"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+<hi rend="red ekthetic">
+ⲁ
+</hi>
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϫⲛⲟⲩ">
+ϫ̇ⲛⲟⲩ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲟⲛ">
+ⲟ̇ⲛ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛ̇ϭⲓ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<lb n="31"/>
+<w type="N" lemma="ⲥⲟⲛ">
+ⲥⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="'Did Satan also trouble people long ago in this way?'">
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PTC" lemma="ⲁⲣⲁ" xml:lang="Greek">
+ⲁ̇ⲣⲁ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="NPROP" lemma="ⲥⲁⲧⲁⲛⲁⲥ" xml:lang="Hebrew">
+ⲥⲁⲧⲁ
+<lb n="32"/>
+ⲛⲁⲥ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ϯϩⲓⲥⲉ">
+<m>
+ϯ
+</m>
+<m>
+ϩⲓ̇ⲥⲉ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲣⲭⲉⲟⲥ" xml:lang="Greek">
+ⲁⲣⲭⲉ
+<lb n="33"/>
+ⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲟⲛ">
+ⲟ̇ⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲧⲉⲓ̇
+</w>
+<w type="N" lemma="ϩⲉ">
+ϩⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="-">
+<hi rend="3_space_right">
+-
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="2">
+<s style="Apa Sisoes said to him, ">
+<lb n="34"/>
+<phr>
+<w type="VBD" lemma="ⲡⲉϫⲉ">
+ⲡⲉϫⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛ̇ϭⲓ̇
+</w>
+<w type="N" lemma="ⲁⲡⲁ" xml:lang="Hebrew">
+ⲁ
+<lb n="35"/>
+ⲡⲁ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ϫⲓϫⲱⲓ">
+ϫⲓ̇ϫⲱⲓ̇
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="'He causes more trouble now, since his time has drawn near, and because of this he is upset.'">
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ̇
+</w>
+<w type="V" lemma="ϯϩⲓⲥⲉ">
+<m>
+ϯ̇
+</m>
+<lb n="36"/>
+<m>
+ϩⲓ̇ⲥⲉ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ϩⲟⲩⲟ">
+ϩⲟⲩⲟ̇
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲧⲉⲛⲟⲩ">
+ⲧⲉⲛⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉ̇
+<lb n="37"/>
+ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPOS" lemma="ⲡⲉϥ">
+ⲡⲉϥ
+</w>
+<w type="N" lemma="ⲟⲩⲟⲉⲓϣ">
+ⲟⲩⲟ̇ⲉⲓ̇ϣ
+</w>
+</phr>
+<lb n="38"/>
+<phr>
+<w type="V" lemma="ϩⲱⲛ">
+ϩⲱⲛ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉϩⲟⲩⲛ">
+ⲉ̇ϩⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉⲧⲃⲉ">
+ⲉ̇ⲧⲃⲉ
+</w>
+<w type="PDEM" lemma="ⲡⲁⲓ">
+ⲡⲁⲓ
+</w>
+</phr>
+<lb n="39"/>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ̇
+</w>
+<w type="VSTAT" lemma="ϣⲧⲟⲣⲧⲣ">
+<hi rend="4_space_right">
+ϣ̇ⲧⲣ̇ⲧⲱⲣ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

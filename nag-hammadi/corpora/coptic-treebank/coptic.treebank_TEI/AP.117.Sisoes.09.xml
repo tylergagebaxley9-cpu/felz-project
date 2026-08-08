@@ -1,0 +1,507 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.117.monbeg">Apophthegmata Patrum Sahidic 117: Sisoes 9</title>
+<author>unknown</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Elizabeth Davidson, Elizabeth Platte, Caroline T. Schroeder</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Elizabeth Platte</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Biblioteca Nazionale di Napoli</repository>
+				<collection>Borgia Collection</collection>
+				<idno>IB 17 484 f. 24r</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="203" to="203">203-203</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 117: Sisoes 9</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960), p. 27</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="4.0.0" when="2020-08-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div1 n="1">
+<pb xml:id="EG203"/>
+<cb n="2"/>
+<div2 type="textpart">
+<p n="1">
+<s style="A brother went to Apa Sisoes at the mountain of Apa Antonius and they said to Apa Sisoes, ">
+<lb n="12"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+<hi rend="red ekthetic">
+ⲁ
+</hi>
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛ̇ϭⲓ̇
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲥⲟⲛ">
+ⲥⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϣⲁ">
+ϣⲁ
+</w>
+<lb n="13"/>
+<w type="N" lemma="ⲁⲡⲁ" xml:lang="Hebrew">
+ⲁⲡⲁ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ϫⲓϫⲱⲓ">
+ϫⲓ̇ϫⲱⲓ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲧⲟⲟⲩ">
+ⲧⲟⲟⲩ
+</w>
+</phr>
+<lb n="14"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲡⲁ" xml:lang="Hebrew">
+ⲁⲡⲁ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲁⲛⲧⲱⲛⲓⲟⲥ" xml:lang="Greek">
+ⲁⲛⲧⲱⲛⲓ̇ⲟⲥ
+</w>
+</phr>
+<lb n="15"/>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁ̇ⲩⲱ̇
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ϣⲁϫⲉ">
+ϣⲁϫⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ϫⲱ">
+ϫⲟ
+<lb n="16"/>
+ⲟ̇
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲡⲁ" xml:lang="Hebrew">
+ⲁⲡⲁ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ϫⲓϫⲱⲓ">
+ϫⲓ̇ϫⲱⲓ̇
+</w>
+</phr>
+</s>
+<s style="You have not yet reached the measure of Apa Antonius, father.">
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<lb n="17"/>
+<w type="ADV" lemma="ⲧⲉⲛⲟⲩ">
+ⲧⲉⲛⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="ANY" lemma="ⲙⲡⲁⲧⲉ">
+ⲙⲡⲁⲧⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲕ
+</w>
+<w type="V" lemma="ⲡⲱϩ">
+ⲡⲱϩ
+</w>
+</phr>
+<lb n="18"/>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϣⲓ">
+ϣⲓ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲡⲁ" xml:lang="Hebrew">
+ⲁⲡⲁ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲁⲛⲧⲱⲛⲓⲟⲥ" xml:lang="Greek">
+ⲁ̇ⲛⲧⲱ
+<lb n="19"/>
+ⲛⲓ̇ⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="N" lemma="ⲁⲡⲁ" xml:lang="Hebrew">
+ⲁ̇ⲡ
+ⲁ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="2_space_right">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="2">
+<s style="He said to them, 'Where (would this come) from?">
+<phr>
+<w type="VBD" lemma="ⲡⲉϫⲉ">
+ⲡⲉϫⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ̣
+</w>
+</phr>
+<lb n="20"/>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉ̇ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PINT" lemma="ⲧⲱⲛ">
+ⲧⲱⲛ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="3">
+<s style="If I have a single thought of Apa Antonius, I would be completely on fire.">
+<lb n="21"/>
+<phr>
+<w type="CONJ" lemma="ⲉⲛⲉ">
+ⲉ̇ⲛⲉ
+</w>
+<w type="EXIST" lemma="ⲟⲩⲛⲧⲉ">
+ⲟⲩⲛ̇ⲧⲁ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲓ̇
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲙⲙⲁⲩ">
+ⲙ̇ⲙⲁⲩ
+</w>
+</phr>
+<lb n="22"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲙⲉⲉⲩⲉ">
+ⲙⲉⲉⲩⲉ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲟⲩⲱⲧ">
+ⲟⲩⲱ̇ⲧ̇
+</w>
+</phr>
+<lb n="23"/>
+<phr>
+<w type="PREP" lemma="ⲛⲧⲉ">
+ⲛ̇ⲧⲉ
+</w>
+<w type="N" lemma="ⲁⲡⲁ" xml:lang="Hebrew">
+ⲁ̇ⲡⲁ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲁⲛⲧⲱⲛⲓⲟⲥ" xml:lang="Greek">
+ⲁ̇ⲛⲧⲱⲛⲓ̇ⲟⲥ
+</w>
+</phr>
+<lb n="24"/>
+<phr>
+<w type="CPRET" lemma="ⲛⲉⲣⲉ">
+ⲛⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ̇
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ϣⲱⲡⲉ">
+ϣⲱⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲕⲱϩⲧ">
+ⲕⲱϩⲧ̇
+</w>
+</phr>
+<lb n="25"/>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲧ̇
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="2_space_right">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="4">
+<s style="However, I saw a man who had power to bear his own thought with difficulty.'">
+<phr>
+<w type="CONJ" lemma="ⲡⲗⲏⲛ" xml:lang="Greek">
+ⲡ̇ⲗⲏⲛ
+</w>
+</phr>
+<lb n="26"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ̇
+</w>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲩ
+</w>
+<w type="N" lemma="ⲣⲱⲙⲉ">
+ⲣⲱⲙⲉ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="EXIST" lemma="ⲟⲩⲛ">
+ⲩⲛ̇
+</w>
+<lb n="27"/>
+<w type="N" lemma="ϭⲟⲙ">
+ϭⲟⲙ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̇ⲙⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+</w>
+<w type="V" lemma="ⲧⲱⲟⲩⲛ">
+ⲧⲱⲟⲩⲛ̇
+</w>
+</phr>
+<lb n="28"/>
+<phr>
+<w type="PREP" lemma="ϩⲁ">
+ϩⲁ
+</w>
+<w type="PPOS" lemma="ⲡⲉϥ">
+ⲡⲉϥ
+</w>
+<w type="N" lemma="ⲙⲉⲉⲩⲉ">
+ⲙⲉⲉⲩⲉ̇
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲙⲁⲩⲁⲁ">
+ⲙⲁⲩⲁ̇
+<lb n="29"/>
+ⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ̇
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ϩⲓⲥⲉ">
+ϩⲓ̇ⲥⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="ⲻ">
+<hi rend="4_space_right">
+ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

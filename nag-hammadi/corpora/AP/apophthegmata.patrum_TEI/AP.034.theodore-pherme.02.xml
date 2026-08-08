@@ -1,0 +1,1071 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.34.monbeg">Apophthegmata Patrum Sahidic 034: Theodorus</title>
+<author>unknown</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Amir Zeldes, Lauren McDermott, Caroline T. Schroeder</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Amir Zeldes</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 0321</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="73" to="73">73-73</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 034: Theodorus</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960), § 34 (Fragments de Vienne), p. 6</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="6.2.0" when="2025-11-25"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div1 n="1">
+<pb xml:id="EG73"/>
+<cb n="1"/>
+<div2 type="textpart">
+<p n="1">
+<s style="A brother living in Cellia alone was troubled,">
+<lb n="13"/>
+<phr>
+<w type="ART" lemma="ⲟⲩ">
+<hi rend="red ekthetic tall">
+Ⲟ
+</hi>
+ⲩ
+</w>
+<w type="N" lemma="ⲥⲟⲛ">
+ⲥⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϩⲙⲟⲟⲥ">
+ϩⲙ̇ⲟⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̇
+</w>
+<lb n="14"/>
+<w type="N" lemma="ⲣⲓ">
+ⲣⲓ̇
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲙⲁⲩⲁⲁ">
+ⲙⲁⲩⲁ̇ⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϣⲧⲟⲣⲧⲣ">
+ϣ̇ⲧⲟⲣ
+<lb n="15"/>
+ⲧⲣ̇
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+<s style="and he went to Abba Theodore of Phermes (and) he told it to him.">
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<lb n="16"/>
+<phr>
+<w type="PREP" lemma="ϣⲁ">
+ϣⲁ
+</w>
+<w type="N" lemma="ⲁⲡⲁ">
+ⲁ̇ⲡⲁ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲑⲉⲟⲇⲟⲣⲟⲥ" xml:lang="Greek">
+ⲑⲉⲱ̇ⲇⲟⲣⲟⲥ
+</w>
+</phr>
+<lb n="17"/>
+<phr>
+<w type="PREP" lemma="ⲛⲧⲉ">
+ⲛ̇ⲧⲉ
+</w>
+<w type="NPROP" lemma="ⲡϩⲉⲣⲙⲏⲥ" xml:lang="Greek">
+ⲡ̇ϩⲉⲣⲙⲏⲥ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<lb n="18"/>
+<w type="V" lemma="ϫⲱ">
+ϫⲟⲟ̇
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="ⲻ">
+<hi rend="red">
+ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="2">
+<s style=" And the old man said to him: “Go and humble your heart and stay with others while obeying them.”">
+<lb n="19"/>
+<phr>
+<w type="VBD" lemma="ⲡⲉϫⲉ">
+<hi rend="red ekthetic tall">
+Ⲡ
+</hi>
+ⲉϫⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="N" lemma="ϩⲗⲗⲟ">
+ϩⲗ̇ⲗⲟ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<lb n="20"/>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="V" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲅ̇
+</w>
+<w type="V" lemma="ⲑⲃⲃⲓⲟ">
+ⲑⲃ̇ⲃⲓ̇ⲉ̇
+</w>
+</phr>
+<lb n="21"/>
+<phr>
+<w type="PPOS" lemma="ⲡⲉⲕ">
+ⲡⲉⲕ
+</w>
+<w type="N" lemma="ϩⲏⲧ">
+ϩⲏⲧ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲅ̇
+</w>
+<w type="V" lemma="ϭⲱ">
+ϭⲱ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ̇
+</w>
+<lb n="22"/>
+<w type="ART" lemma="ⲟⲩ">
+ϩⲛ̇
+</w>
+<w type="N" lemma="ⲕⲉ">
+ⲕⲟⲟⲩⲉ̇
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+<w type="V" lemma="ϩⲩⲡⲟⲧⲁⲥⲥⲉ" xml:lang="Greek">
+ϩⲩⲡⲟ
+<lb n="23"/>
+ⲧⲁⲥⲥⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·ⲻ">
+<hi rend="red">
+·ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="3">
+<s style="And he went and he stayed with some in the mountain">
+<lb n="24"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+<hi rend="red ekthetic tall">
+Ⲁ
+</hi>
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲃⲱⲕ">
+ⲃⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϭⲱ">
+ϭⲱ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ̇
+</w>
+<lb n="25"/>
+<w type="N" lemma="ϩⲟⲓⲛⲉ">
+ϩⲟⲓ̇ⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="N" lemma="ⲧⲟⲟⲩ">
+ⲧⲟⲟⲩ
+</w>
+</phr>
+</s>
+<s style="(and) he returned again (and) came to the old man.">
+<lb n="26"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲕⲧⲟ">
+ⲕ̇ⲧⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲟⲛ">
+ⲟ̇ⲛ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲉⲓ">
+ⲉⲓ̇
+</w>
+</phr>
+<lb n="27"/>
+<phr>
+<w type="PREP" lemma="ϣⲁ">
+ϣⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="N" lemma="ϩⲗⲗⲟ">
+ϩⲗ̇ⲗⲟ
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="4">
+<s style="He said: “I didn’t find repose while living with the people”">
+<phr>
+<w type="VBD" lemma="ⲡⲉϫⲉ">
+ⲡⲉϫⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<lb n="28"/>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="ANEGPST" lemma="ⲙⲡⲉ">
+ⲙ̇ⲡ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V" lemma="ⲙⲧⲟⲛ">
+ⲙ̇ⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ̈
+</w>
+<w type="VSTAT" lemma="ⲟⲩⲱϩ">
+ⲟⲩ
+<lb n="29"/>
+ⲏ̇ϩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲣⲱⲙⲉ">
+ⲣⲱⲙⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="ⲻ">
+<hi rend="red">
+ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="5">
+<s style="And the old man said to him: “If you didn’t repose alone, nor again while being with others, you won’t find repose.">
+<lb n="30"/>
+<phr>
+<w type="VBD" lemma="ⲡⲉϫⲉ">
+<hi rend="red ekthetic tall">
+Ⲡ
+</hi>
+ⲉϫⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="N" lemma="ϩⲗⲗⲟ">
+ϩⲗ̇ⲗⲟ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<lb n="31"/>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="CONJ" lemma="ⲉϣⲱⲡⲉ">
+ⲉ̇ϣⲱⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="ANEGPST" lemma="ⲙⲡⲉ">
+ⲙ̇ⲡⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+<lb n="32"/>
+<w type="V" lemma="ⲙⲧⲟⲛ">
+ⲙ̇ⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲙⲁⲩⲁⲁ">
+ⲙⲁⲩⲁ̇ⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+<lb n="33"/>
+<phr>
+<w type="CONJ" lemma="ⲟⲩⲇⲉ" xml:lang="Greek">
+ⲟⲩⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲟⲛ">
+ⲟ̇ⲛ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+<w type="VSTAT" lemma="ϣⲱⲡⲉ">
+ϣⲟⲟⲡ
+</w>
+</phr>
+<lb n="34"/>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲕⲉ">
+ⲕⲟⲟⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="NEG" lemma="ⲛ">
+ⲛ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲅ̇
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲙⲧⲟⲛ">
+ⲙ̇
+<lb n="35"/>
+ⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="NEG" lemma="ⲁⲛ">
+ⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·ⲻ">
+<hi rend="red">
+·ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="6">
+<s style="Why did you go out to become a monk?">
+<lb n="36"/>
+<phr>
+<w type="PREP" lemma="ⲉⲧⲃⲉ">
+<hi rend="red ekthetic tall">
+Ⲉ
+</hi>
+ⲧⲃⲉ
+</w>
+<w type="PINT" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+<w type="V" lemma="ⲉⲓ">
+ⲉⲓ̇
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉ̇ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="V" lemma="ⲣⲙⲟⲛⲁⲭⲟⲥ" xml:lang="Greek">
+<m>
+ⲣ̇
+</m>
+<lb n="37"/>
+<m>
+ⲙⲟⲛⲁⲭⲟⲥ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="7">
+<s style="Not in order to stand under afflictions? ">
+<phr>
+<w type="CONJ" lemma="ϫⲉⲕⲁⲁⲥ">
+ϫⲉⲕⲁⲥ
+</w>
+</phr>
+<lb n="38"/>
+<phr>
+<w type="NEG" lemma="ⲁⲛ">
+ⲁ̇ⲛ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲧⲱⲟⲩⲛ">
+ⲧⲱⲟⲩⲛ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲁ">
+ϩⲁ
+</w>
+<lb n="39"/>
+<w type="ART" lemma="ⲡ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲑⲗⲓⲯⲓⲥ" xml:lang="Greek">
+ⲑ̇ⲗⲓ̈ⲯⲓ̇ⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="8">
+<s style="Tell me how many years is it since you took this habit upon you?”">
+<phr>
+<w type="VIMP" lemma="ϫⲱ">
+ⲁ̇ϫⲓ̇
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+<lb n="40"/>
+ⲣⲟ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲓ̇
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PTC" lemma="ⲉⲓⲥ">
+ⲉⲓ̇ⲥ
+</w>
+</phr>
+<phr>
+<w type="PINT" lemma="ⲟⲩⲏⲣ">
+ⲟⲩⲏ̇ⲣ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲣⲟⲙⲡⲉ">
+ⲣⲟⲙ
+<lb n="41"/>
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="CONJ" lemma="ϫⲓⲛ">
+ϫⲓ̇
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+<w type="V" lemma="ϯ">
+ϯ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̇
+</w>
+<lb n="42"/>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲡⲉⲓ̇
+</w>
+<w type="N" lemma="ⲥⲭⲏⲙⲁ" xml:lang="Greek">
+ⲥ̇ⲭⲩⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲓ">
+ϩⲓ̇ⲱ̇ⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+<hi rend="red">
+.
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<cb n="2"/>
+<div2 type="textpart">
+<p n="9">
+<s style="He said: “It’s been eight years.”">
+<lb n="1"/>
+<phr>
+<w type="VBD" lemma="ⲡⲉϫⲉ">
+ⲡⲉ
+<hi rend="red, tall">
+Ϫ
+</hi>
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="PTC" lemma="ⲉⲓⲥ">
+ⲉⲓ̇ⲥ
+</w>
+</phr>
+<phr>
+<w type="NUM" lemma="ϣⲙⲟⲩⲛ">
+ϣ̇
+<lb n="2"/>
+ⲙⲟⲩⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲣⲟⲙⲡⲉ">
+ⲣⲟⲙⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+<hi rend="red">
+ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="10">
+<s style="The old man said to him: “Truly it’s been seventy years since I became a monk,">
+<lb n="3"/>
+<phr>
+<w type="VBD" lemma="ⲡⲉϫⲉ">
+<hi rend="red, tall">
+Ⲡ
+</hi>
+ⲉϫⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="N" lemma="ϩⲗⲗⲟ">
+ϩⲗ̇ⲗⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<lb n="4"/>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="ADV" lemma="ⲛⲁⲙⲉ">
+ⲛⲁⲙⲉ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲉⲓⲥ">
+ⲉⲓ̇ⲥ
+</w>
+</phr>
+<phr>
+<w type="NUM" lemma="ϣϥⲉ">
+ϣ̇ϥⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<lb n="5"/>
+<w type="N" lemma="ⲣⲟⲙⲡⲉ">
+ⲣⲟⲙⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲓ">
+ϫⲓ̇
+</w>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ̇
+</w>
+<w type="V" lemma="ⲣⲙⲟⲛⲁⲭⲟⲥ" xml:lang="Greek">
+<m>
+ⲉⲣ̇
+</m>
+<lb n="6"/>
+<m>
+ⲙⲟⲛⲁⲭⲟⲥ
+</m>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="11">
+<s style="I haven’t found repose for a single day">
+<phr>
+<w type="ANEGPST" lemma="ⲙⲡⲉ">
+ⲙ̇ⲡ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ̇
+</w>
+<w type="V" lemma="ϭⲓⲛⲉ">
+ϭⲛ̇
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<lb n="7"/>
+<w type="N" lemma="ⲙⲧⲟⲛ">
+ⲙ̇ⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ϩⲟⲟⲩ">
+ϩⲟⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲟⲩⲱⲧ">
+ⲟⲩ
+<lb n="8"/>
+ⲱⲧ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+<hi rend="red">
+.
+</hi>
+</w>
+</phr>
+</s>
+<s style="and you, you want to find repose in this eight years?”">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ̇
+</w>
+</phr>
+<phr>
+<w type="PPERI" lemma="ⲛⲧⲟⲕ">
+ⲛ̇ⲧⲟⲕ
+</w>
+</phr>
+<lb n="9"/>
+<phr>
+<w type="PPERS" lemma="ⲛⲧⲟⲕ">
+ⲕ
+</w>
+<w type="V" lemma="ⲟⲩⲱϣ">
+ⲟⲩⲱ̇ϣ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+</w>
+<w type="V" lemma="ⲙⲧⲟⲛ">
+ⲉⲙ̇ⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲛ̇
+</w>
+<lb n="10"/>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲧⲉⲓ̇
+</w>
+<w type="NUM" lemma="ϣⲙⲟⲩⲛⲉ">
+ϣ̇ⲙⲟⲩⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲣⲟⲙⲡⲉ">
+ⲣⲟⲙⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+<hi rend="red">
+.
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

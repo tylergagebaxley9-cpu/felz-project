@@ -1,0 +1,3789 @@
+<meta annotation="Rebecca Krawiec, Caroline T. Schroeder, Christine Luckritz Marquis, Amir Zeldes" author="Shenoute" collection="Manuscrits coptes" Coptic_edition="none" corpus="shenoute.unknown5_1" country="Egypt" document_cts_urn="urn:cts:copticLit:shenoute.unknown5_1.monbgf:101-102" endnote="A lacuna of 20 pages (10 folios) follows. The next known, extant manuscript fragment is urn:cts:copticLit:shenoute.unknown5_1.monbgf:131-139." entities="checked" identities="checked" idno="131(2) f. 137" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="5" msContents_title_type="Discourses" msItem_title="Unknown Work 5.1" msName="MONB.GF" next="urn:cts:copticLit:shenoute.unknown5_1.monbgf:131-139" note="Transcribed from microfilm by Paul Dilley, Spring 2005; collated in Paris by David Brakke, March 2010. This text either belongs to the end of God Says through those who are His or it belongs to a separate, unknown work. Because of uncertainty, chapter numbering begins at 101. Chapter divisions follow David Brakke's." objectType="codex" order="01" origDate="between 900 and 1200 C.E." origDate_notAfter="1200" origDate_notBefore="0900" origDate_precision="low" origPlace="White Monastery" pages_from="359" pages_to="360" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="&lt;a href='https://atlas.paths-erc.eu/manuscripts/403'&gt;403&lt;/a&gt;" people="none" placeName="Atripe" places="none" project="Coptic SCRIPTORIUM" redundant="no" repository="Bibliothèque nationale de France" segmentation="checked" source="David Brakke, Paul Dilley" tagging="checked" title="Unknown Work 5-1: GF 359-60" translation="none" Trismegistos="none" version_date="2020-03-13" version_n="3.1.0" witness="none">
+<chapter_n chapter_n="101">
+<pb_xml_id pb_xml_id="GF359">
+<cb_n cb_n="1">
+<verse_n verse_n="1">
+<verse_n verse_n="1">
+<translation translation="...">
+<chapter_n chapter_n="1">
+<lb_n lb_n="1">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u1" func="cc" head="#u9" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<note note="ⲧⲛⲑ̣ visible in top right margin, top left vacat">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</note>
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u2" func="advmod" head="#u9" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲁⲛⲁϩⲟⲟⲩ">
+<norm_group norm_group="ϫⲉⲁⲛⲁϩⲟⲟⲩ">
+<orig orig="ϫⲉ">
+<norm xml:id="u3" func="mark" head="#u9" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u4" func="aux" head="#u9" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<entity head_tok="#u6" text="ⲛⲁ ϩⲟⲟⲩ ⲧⲏⲣ ⲟⲩ" entity="time">
+<orig orig="ⲛⲁ">
+<norm xml:id="u5" func="nmod:poss" head="#u6" pos="PPOS" lemma="ⲡⲁ" norm="ⲛⲁ">
+ⲛⲁ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="2">
+<orig orig="ϩⲟⲟⲩ">
+<norm xml:id="u6" func="nsubj" head="#u9" pos="N" lemma="ϩⲟⲟⲩ" norm="ϩⲟⲟⲩ">
+ϩⲟⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲧⲏⲣⲟⲩ">
+<norm_group norm_group="ⲧⲏⲣⲟⲩ">
+<orig orig="ⲧⲏⲣ">
+<norm xml:id="u7" func="nmod:unmarked" head="#u6" pos="IMOD" lemma="ⲧⲏⲣ" norm="ⲧⲏⲣ">
+ⲧⲏⲣ
+</norm>
+</orig>
+<orig orig="ⲟⲩ">
+<norm xml:id="u8" func="nmod:poss" head="#u7" pos="ART" lemma="ⲟⲩ" norm="ⲟⲩ">
+ⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="ⲱϫⲛ">
+<norm_group norm_group="ⲱϫⲛ">
+<orig orig="ⲱϫⲛ">
+<norm xml:id="u9" func="root" pos="V" lemma="ⲱϫⲛ" norm="ⲱϫⲛ">
+ⲱ
+</lb_n>
+<lb_n lb_n="3">
+ϫⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϩⲙⲡϣⲓ̈ⲡⲉ">
+<norm_group norm_group="ϩⲙⲡϣⲓⲡⲉ">
+<orig orig="ϩⲙ">
+<norm xml:id="u10" func="case" head="#u12" pos="PREP" lemma="ϩⲛ" norm="ϩⲙ">
+ϩⲙ
+</norm>
+</orig>
+<entity head_tok="#u12" text="ⲡ ϣⲓⲡⲉ" entity="abstract">
+<orig orig="ⲡ">
+<norm xml:id="u11" func="det" head="#u12" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ϣⲓ̈ⲡⲉ">
+<norm xml:id="u12" func="obl" head="#u9" pos="N" lemma="ϣⲓⲡⲉ" norm="ϣⲓⲡⲉ">
+ϣⲓ̈ⲡⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</lb_n>
+</chapter_n>
+</translation>
+</verse_n>
+</verse_n>
+<verse_n verse_n="2">
+<translation translation="...">
+<chapter_n chapter_n="2">
+<verse_n verse_n="1">
+<lb_n lb_n="4">
+<orig_group orig_group="ⲡⲁⲗⲓⲛ">
+<norm_group norm_group="ⲡⲁⲗⲓⲛ">
+<orig orig="ⲡⲁⲗⲓⲛ">
+<norm xml:id="u13" func="advmod" head="#u20" new_sent="true" pos="ADV" lemma="ⲡⲁⲗⲓⲛ" norm="ⲡⲁⲗⲓⲛ">
+<lang lang="Greek">
+<hi_rend hi_rend="ekthetic large">
+ⲡ
+</hi_rend>
+ⲁⲗⲓⲛ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u14" func="advmod" head="#u20" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲛⲧⲟⲕ">
+<norm_group norm_group="ϫⲉⲛⲧⲟⲕ">
+<orig orig="ϫⲉ">
+<norm xml:id="u15" func="mark" head="#u20" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲛⲧⲟⲕ">
+<norm xml:id="u16" func="dislocated" head="#u20" pos="PPERI" lemma="ⲛⲧⲟⲕ" norm="ⲛⲧⲟⲕ">
+ⲛⲧⲟⲕ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="5">
+<orig_group orig_group="ⲇⲉ">
+<norm_group norm_group="ⲇⲉ">
+<orig orig="ⲇⲉ">
+<norm xml:id="u17" func="advmod" head="#u20" pos="PTC" lemma="ⲇⲉ" norm="ⲇⲉ">
+<lang lang="Greek">
+ⲇⲉ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲁⲕⲥⲱϣϥ">
+<norm_group norm_group="ⲁⲕⲥⲱϣϥ">
+<orig orig="ⲁ">
+<norm xml:id="u18" func="aux" head="#u20" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm xml:id="u19" func="nsubj" head="#u20" pos="PPERS" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+<orig orig="ⲥⲱϣϥ">
+<norm xml:id="u20" func="root" pos="V" lemma="ⲥⲱϣϥ" norm="ⲥⲱϣϥ">
+ⲥⲱϣϥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="6">
+<orig_group orig_group="ⲁⲕⲧⲁⲟⲩⲟ">
+<norm_group norm_group="ⲁⲕⲧⲁⲟⲩⲟ">
+<orig orig="ⲁ">
+<norm xml:id="u21" func="aux" head="#u23" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm xml:id="u22" func="nsubj" head="#u23" pos="PPERS" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+<multiword multiword="ⲧⲁⲟⲩⲟ ⲉϩⲣⲁⲓ">
+<orig orig="ⲧⲁⲟⲩⲟ">
+<norm xml:id="u23" func="parataxis" head="#u20" pos="V" lemma="ⲧⲁⲟⲩⲟ" norm="ⲧⲁⲟⲩⲟ">
+ⲧⲁⲟⲩⲟ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉϩⲣⲁⲓ">
+<norm_group norm_group="ⲉϩⲣⲁⲓ">
+<orig orig="ⲉϩⲣⲁⲓ">
+<norm xml:id="u24" func="advmod" head="#u23" pos="ADV" lemma="ⲉϩⲣⲁⲓ" norm="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</multiword>
+</lb_n>
+<lb_n lb_n="7">
+<orig_group orig_group="ⲙⲡⲉⲕⲭ︤ⲣ︦ⲥ︥">
+<norm_group norm_group="ⲙⲡⲉⲕⲭⲣⲓⲥⲧⲟⲥ">
+<orig orig="ⲙ">
+<norm xml:id="u25" func="case" head="#u27" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+<entity head_tok="#u27" text="ⲡⲉⲕ ⲭⲣⲓⲥⲧⲟⲥ" entity="person">
+<orig orig="ⲡⲉⲕ">
+<norm xml:id="u26" func="nmod:poss" head="#u27" pos="PPOS" lemma="ⲡⲉⲕ" norm="ⲡⲉⲕ">
+ⲡⲉⲕ
+</norm>
+</orig>
+<orig orig="ⲭ︤ⲣ︦ⲥ︥">
+<norm xml:id="u27" func="obj" head="#u23" pos="N" lemma="ⲭⲣⲓⲥⲧⲟⲥ" norm="ⲭⲣⲓⲥⲧⲟⲥ">
+<lang lang="Greek">
+ⲭ︤ⲣ︦ⲥ︥
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="2">
+<orig_group orig_group="ⲁⲕⲕⲁⲁϥ">
+<norm_group norm_group="ⲁⲕⲕⲁⲁϥ">
+<orig orig="ⲁ">
+<norm xml:id="u28" func="aux" head="#u30" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm xml:id="u29" func="nsubj" head="#u30" pos="PPERS" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+<orig orig="ⲕⲁⲁ">
+<norm xml:id="u30" func="parataxis" head="#u23" pos="V" lemma="ⲕⲱ" norm="ⲕⲁⲁ">
+ⲕⲁ
+</lb_n>
+<lb_n lb_n="8">
+ⲁ
+</norm>
+</orig>
+<orig orig="ϥ">
+<norm xml:id="u31" func="obj" head="#u30" pos="PPERO" lemma="ⲛⲧⲟϥ" norm="ϥ">
+ϥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲥⲱⲕ">
+<norm_group norm_group="ⲛⲥⲱⲕ">
+<orig orig="ⲛⲥⲱ">
+<norm xml:id="u32" func="case" head="#u33" pos="PREP" lemma="ⲛⲥⲁ" norm="ⲛⲥⲱ">
+ⲛⲥⲱ
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm xml:id="u33" func="obl" head="#u30" pos="PPERO" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲡϫⲟⲉⲓⲥ">
+<norm_group norm_group="ⲡϫⲟⲉⲓⲥ">
+<entity head_tok="#u35" text="ⲡ ϫⲟⲉⲓⲥ" entity="person">
+<orig orig="ⲡ">
+<norm xml:id="u34" func="det" head="#u35" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ϫⲟⲉⲓⲥ">
+<norm xml:id="u35" func="vocative" head="#u30" pos="N" lemma="ϫⲟⲉⲓⲥ" norm="ϫⲟⲉⲓⲥ">
+ϫⲟ
+</lb_n>
+<lb_n lb_n="9">
+ⲉⲓⲥ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u36" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+</chapter_n>
+</translation>
+</verse_n>
+<verse_n verse_n="3">
+<verse_n verse_n="1">
+<translation translation="...">
+<chapter_n chapter_n="3">
+<lb_n lb_n="10">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u37" func="cc" head="#u41" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲁⲕⲡⲱϩⲧ">
+<norm_group norm_group="ϫⲉⲁⲕⲡⲱϩⲧ">
+<orig orig="ϫⲉ">
+<norm xml:id="u38" func="mark" head="#u41" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u39" func="aux" head="#u41" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm xml:id="u40" func="nsubj" head="#u41" pos="PPERS" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+<orig orig="ⲡⲱϩⲧ">
+<norm xml:id="u41" func="root" pos="V" lemma="ⲡⲱϩⲧ" norm="ⲡⲱϩⲧ">
+ⲡⲱϩⲧ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="11">
+<orig_group orig_group="ⲉⲛⲟⲩϣⲓ̈ⲡⲉ">
+<norm_group norm_group="ⲉⲛⲟⲩϣⲓⲡⲉ">
+<orig orig="ⲉ">
+<norm xml:id="u42" func="case" head="#u44" pos="PREP" lemma="ⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<entity head_tok="#u44" text="ⲛⲟⲩ ϣⲓⲡⲉ" entity="abstract">
+<orig orig="ⲛⲟⲩ">
+<norm xml:id="u43" func="nmod:poss" head="#u44" pos="PPOS" lemma="ⲡⲟⲩ" norm="ⲛⲟⲩ">
+ⲛⲟⲩ
+</norm>
+</orig>
+<orig orig="ϣⲓ̈ⲡⲉ">
+<norm xml:id="u44" func="obl" head="#u41" pos="N" lemma="ϣⲓⲡⲉ" norm="ϣⲓⲡⲉ">
+ϣⲓ̈ⲡⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉϩⲣⲁⲓ̈">
+<norm_group norm_group="ⲉϩⲣⲁⲓ">
+<orig orig="ⲉϩⲣⲁⲓ̈">
+<norm xml:id="u45" func="advmod" head="#u41" pos="ADV" lemma="ⲉϩⲣⲁⲓ" norm="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="12">
+<orig_group orig_group="ⲉϫⲱϥ">
+<norm_group norm_group="ⲉϫⲱϥ">
+<orig orig="ⲉϫⲱ">
+<norm xml:id="u46" func="case" head="#u47" pos="PREP" lemma="ⲉϫⲛ" norm="ⲉϫⲱ">
+ⲉϫⲱ
+</norm>
+</orig>
+<orig orig="ϥ">
+<norm xml:id="u47" func="obl" head="#u41" pos="PPERO" lemma="ⲛⲧⲟϥ" norm="ϥ">
+ϥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u48" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</chapter_n>
+</translation>
+</verse_n>
+</verse_n>
+<chapter_n chapter_n="4">
+<verse_n verse_n="4">
+<verse_n verse_n=" 1">
+<translation translation="...">
+<lb_n lb_n="13">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u49" func="cc" head="#u54" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u50" func="advmod" head="#u54" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲛⲉⲓ̈ⲟ">
+<norm_group norm_group="ϫⲉⲛⲉⲓⲟ">
+<orig orig="ϫⲉ">
+<norm xml:id="u51" func="mark" head="#u54" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲛⲉ">
+<norm xml:id="u52" func="aux" head="#u54" pos="CPRET" lemma="ⲛⲉⲣⲉ" norm="ⲛⲉ">
+ⲛⲉ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u53" func="nsubj" head="#u54" pos="PPERS" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+<orig orig="ⲟ">
+<norm xml:id="u54" func="root" pos="VSTAT" lemma="ⲉⲓⲣⲉ" norm="ⲟ">
+ⲟ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲛⲟϭⲛⲉϭ">
+<norm_group norm_group="ⲛⲛⲟϭⲛⲉϭ">
+<orig orig="ⲛ">
+<norm xml:id="u55" func="case" head="#u56" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="14">
+<orig orig="ⲛⲟϭⲛⲉϭ">
+<norm xml:id="u56" func="obl" head="#u54" pos="N" lemma="ⲛⲟϭⲛⲉϭ" norm="ⲛⲟϭⲛⲉϭ">
+ⲛⲟϭⲛⲉϭ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲛⲣⲱⲙⲉ">
+<norm_group norm_group="ⲛⲛⲣⲱⲙⲉ">
+<orig orig="ⲛ">
+<norm xml:id="u57" func="case" head="#u59" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<entity head_tok="#u59" text="ⲛ ⲣⲱⲙⲉ ⲛ ⲥⲱϣϥ ⲙ ⲡ ⲗⲁⲟⲥ" entity="person">
+<orig orig="ⲛ">
+<norm xml:id="u58" func="det" head="#u59" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲣⲱⲙⲉ">
+<norm xml:id="u59" func="nmod" head="#u56" pos="N" lemma="ⲣⲱⲙⲉ" norm="ⲣⲱⲙⲉ">
+ⲣⲱ
+</lb_n>
+<lb_n lb_n="15">
+ⲙⲉ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲥⲱϣϥ">
+<norm_group norm_group="ⲛⲥⲱϣϥ">
+<orig orig="ⲛ">
+<norm xml:id="u60" func="case" head="#u61" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲥⲱϣϥ">
+<norm xml:id="u61" func="nmod" head="#u56" pos="N" lemma="ⲥⲱϣϥ" norm="ⲥⲱϣϥ">
+ⲥⲱϣϥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲗⲁⲟⲥ">
+<norm_group norm_group="ⲙⲡⲗⲁⲟⲥ">
+<orig orig="ⲙ">
+<norm xml:id="u62" func="case" head="#u64" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="16">
+<entity head_tok="#u64" text="ⲡ ⲗⲁⲟⲥ" entity="organization">
+<orig orig="ⲡ">
+<norm xml:id="u63" func="det" head="#u64" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ⲗⲁⲟⲥ">
+<norm xml:id="u64" func="nmod" head="#u61" pos="N" lemma="ⲗⲁⲟⲥ" norm="ⲗⲁⲟⲥ">
+<lang lang="Greek">
+ⲗⲁⲟⲥ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u65" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</translation>
+</verse_n>
+</verse_n>
+<verse_n verse_n="3">
+<translation translation="...">
+<verse_n verse_n="2">
+<entity head_tok="#u66" text="ⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧ ⲛⲁⲩ ⲉⲣⲟ ⲓ" entity="person">
+<multiword multiword="ⲟⲩⲟⲛ ⲛⲓⲙ">
+<orig_group orig_group="ⲟⲩⲟⲛ">
+<norm_group norm_group="ⲟⲩⲟⲛ">
+<orig orig="ⲟⲩⲟⲛ">
+<norm xml:id="u66" func="dislocated" head="#u75" new_sent="true" pos="N" lemma="ⲟⲩⲟⲛ" norm="ⲟⲩⲟⲛ">
+ⲟⲩⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="17">
+<orig_group orig_group="ⲛⲓⲙ">
+<norm_group norm_group="ⲛⲓⲙ">
+<orig orig="ⲛⲓⲙ">
+<norm xml:id="u67" func="det" head="#u66" pos="PINT" lemma="ⲛⲓⲙ" norm="ⲛⲓⲙ">
+ⲛⲓⲙ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</multiword>
+<orig_group orig_group="ⲉⲧⲛⲁⲩ">
+<norm_group norm_group="ⲉⲧⲛⲁⲩ">
+<orig orig="ⲉⲧ">
+<norm xml:id="u68" func="mark" head="#u69" pos="CREL" lemma="ⲉⲧⲉⲣⲉ" norm="ⲉⲧ">
+ⲉⲧ
+</norm>
+</orig>
+<orig orig="ⲛⲁⲩ">
+<norm xml:id="u69" func="acl:relcl" head="#u66" pos="V" lemma="ⲛⲁⲩ" norm="ⲛⲁⲩ">
+ⲛⲁⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲣⲟⲓ̈">
+<norm_group norm_group="ⲉⲣⲟⲓ">
+<orig orig="ⲉⲣⲟ">
+<norm xml:id="u70" func="case" head="#u71" pos="PREP" lemma="ⲉ" norm="ⲉⲣⲟ">
+ⲉ
+</lb_n>
+<lb_n lb_n="18">
+ⲣⲟ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u71" func="obl" head="#u69" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u72" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="3">
+<orig_group orig_group="ⲁⲩⲕⲱⲙⲉϣ">
+<norm_group norm_group="ⲁⲩⲕⲱⲙϣ">
+<orig orig="ⲁ">
+<norm xml:id="u73" func="aux" head="#u75" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u74" func="nsubj" head="#u75" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ⲕⲱⲙⲉϣ">
+<norm xml:id="u75" func="root" pos="V" lemma="ⲕⲱⲙϣ" norm="ⲕⲱⲙϣ">
+ⲕⲱⲙⲉϣ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="19">
+<orig_group orig_group="ⲛⲥⲱⲓ̈">
+<norm_group norm_group="ⲛⲥⲱⲓ">
+<orig orig="ⲛⲥⲱ">
+<norm xml:id="u76" func="case" head="#u77" pos="PREP" lemma="ⲛⲥⲁ" norm="ⲛⲥⲱ">
+ⲛⲥⲱ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u77" func="obl" head="#u75" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u78" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="4">
+<orig_group orig_group="ⲁⲩϣⲁϫⲉ">
+<norm_group norm_group="ⲁⲩϣⲁϫⲉ">
+<orig orig="ⲁ">
+<norm xml:id="u79" func="aux" head="#u81" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u80" func="nsubj" head="#u81" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ϣⲁϫⲉ">
+<norm xml:id="u81" func="parataxis" head="#u75" pos="V" lemma="ϣⲁϫⲉ" norm="ϣⲁϫⲉ">
+ϣⲁ
+</lb_n>
+<lb_n lb_n="20">
+ϫⲉ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϩⲛⲛⲉⲩⲥⲡⲟⲧⲟⲩ">
+<norm_group norm_group="ϩⲛⲛⲉⲩⲥⲡⲟⲧⲟⲩ">
+<orig orig="ϩⲛ">
+<norm xml:id="u82" func="case" head="#u84" pos="PREP" lemma="ϩⲛ" norm="ϩⲛ">
+ϩⲛ
+</norm>
+</orig>
+<entity head_tok="#u84" text="ⲛⲉⲩ ⲥⲡⲟⲧⲟⲩ" entity="object">
+<orig orig="ⲛⲉⲩ">
+<norm xml:id="u83" func="nmod:poss" head="#u84" pos="PPOS" lemma="ⲡⲉⲩ" norm="ⲛⲉⲩ">
+ⲛⲉⲩ
+</norm>
+</orig>
+<orig orig="ⲥⲡⲟⲧⲟⲩ">
+<norm xml:id="u84" func="obl" head="#u81" pos="N" lemma="ⲥⲡⲟⲧⲟⲩ" norm="ⲥⲡⲟⲧⲟⲩ">
+ⲥⲡⲟ
+</lb_n>
+<lb_n lb_n="21">
+ⲧⲟⲩ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u85" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="5">
+<orig_group orig_group="ⲁⲩⲕⲓ̈ⲙ">
+<norm_group norm_group="ⲁⲩⲕⲓⲙ">
+<orig orig="ⲁ">
+<norm xml:id="u86" func="aux" head="#u88" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u87" func="nsubj" head="#u88" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ⲕⲓ̈ⲙ">
+<norm xml:id="u88" func="parataxis" head="#u81" pos="V" lemma="ⲕⲓⲙ" norm="ⲕⲓⲙ">
+ⲕⲓ̈ⲙ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲛⲉⲩⲁⲡⲏⲩⲉ">
+<norm_group norm_group="ⲛⲛⲉⲩⲁⲡⲏⲩⲉ">
+<orig orig="ⲛ">
+<norm xml:id="u89" func="case" head="#u91" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="22">
+<entity head_tok="#u91" text="ⲛⲉⲩ ⲁⲡⲏⲩⲉ" entity="object">
+<orig orig="ⲛⲉⲩ">
+<norm xml:id="u90" func="nmod:poss" head="#u91" pos="PPOS" lemma="ⲡⲉⲩ" norm="ⲛⲉⲩ">
+ⲛⲉⲩ
+</norm>
+</orig>
+<orig orig="ⲁⲡⲏⲩⲉ">
+<norm xml:id="u91" func="obj" head="#u88" pos="N" lemma="ⲁⲡⲉ" norm="ⲁⲡⲏⲩⲉ">
+ⲁⲡⲏⲩⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u92" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+</translation>
+</verse_n>
+</chapter_n>
+<verse_n verse_n="4">
+<translation translation="...">
+<chapter_n chapter_n="5">
+<verse_n verse_n="1">
+<lb_n lb_n="23">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u93" func="cc" head="#u112" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u94" func="advmod" head="#u98" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲛⲉⲩϫⲉⲓ̈">
+<norm_group norm_group="ϫⲉⲛⲉⲩϫⲓ">
+<orig orig="ϫⲉ">
+<norm xml:id="u95" func="mark" head="#u98" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲛⲉ">
+<norm xml:id="u96" func="aux" head="#u98" pos="CPRET" lemma="ⲛⲉⲣⲉ" norm="ⲛⲉ">
+ⲛⲉ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u97" func="nsubj" head="#u98" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ϫⲉⲓ̈">
+<norm xml:id="u98" func="root" pos="V" lemma="ϫⲓ" norm="ϫⲓ">
+ϫⲉⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="24">
+<orig_group orig_group="ⲛϩⲣⲁⲩ">
+<norm_group norm_group="ⲛϩⲣⲁⲩ">
+<orig orig="ⲛ">
+<norm xml:id="u99" func="case" head="#u100" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<entity head_tok="#u100" text="ϩⲣⲁⲩ" entity="abstract">
+<orig orig="ϩⲣⲁⲩ">
+<norm xml:id="u100" func="obj" head="#u98" pos="N" lemma="ϩⲣⲁⲩ" norm="ϩⲣⲁⲩ">
+ϩⲣⲁⲩ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϩⲉⲓ̈ⲱⲱⲧ">
+<norm_group norm_group="ϩⲓⲱⲱⲧ">
+<orig orig="ϩⲉⲓ̈ⲱⲱ">
+<norm xml:id="u101" func="case" head="#u102" pos="PREP" lemma="ϩⲓ" norm="ϩⲓⲱⲱ">
+ϩⲉⲓ̈ⲱⲱ
+</norm>
+</orig>
+<orig orig="ⲧ">
+<norm xml:id="u102" func="obl" head="#u98" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲧ">
+ⲧ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="25">
+<orig_group orig_group="ⲛϭⲉⲓⲛⲉⲧϩⲙⲟⲟⲥ">
+<norm_group norm_group="ⲛϭⲓⲛⲉⲧϩⲙⲟⲟⲥ">
+<orig orig="ⲛϭⲉⲓ">
+<norm xml:id="u103" func="case" head="#u104" pos="PTC" lemma="ⲛϭⲓ" norm="ⲛϭⲓ">
+ⲛϭⲉⲓ
+</norm>
+</orig>
+<entity head_tok="#u104" text="ⲛ ⲉⲧ ϩⲙⲟⲟⲥ ϩⲛ ⲙ ⲡⲩⲗⲏ" entity="person">
+<orig orig="ⲛ">
+<norm xml:id="u104" func="dislocated" head="#u98" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲉⲧ">
+<norm xml:id="u105" func="mark" head="#u106" pos="CREL" lemma="ⲉⲧⲉⲣⲉ" norm="ⲉⲧ">
+ⲉⲧ
+</norm>
+</orig>
+<orig orig="ϩⲙⲟⲟⲥ">
+<norm xml:id="u106" func="acl:relcl" head="#u104" pos="V" lemma="ϩⲙⲟⲟⲥ" norm="ϩⲙⲟⲟⲥ">
+ϩⲙⲟⲟⲥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="26">
+<orig_group orig_group="ϩⲛⲙⲡⲩⲗⲏ">
+<norm_group norm_group="ϩⲛⲙⲡⲩⲗⲏ">
+<orig orig="ϩⲛ">
+<norm xml:id="u107" func="case" head="#u109" pos="PREP" lemma="ϩⲛ" norm="ϩⲛ">
+ϩⲛ
+</norm>
+</orig>
+<entity head_tok="#u109" text="ⲙ ⲡⲩⲗⲏ" entity="place">
+<orig orig="ⲙ">
+<norm xml:id="u108" func="det" head="#u109" pos="ART" lemma="ⲡ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+<orig orig="ⲡⲩⲗⲏ">
+<norm xml:id="u109" func="obl" head="#u106" pos="N" lemma="ⲡⲩⲗⲏ" norm="ⲡⲩⲗⲏ">
+<lang lang="Greek">
+ⲡⲩⲗⲏ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</entity>
+</verse_n>
+<verse_n verse_n="2">
+<orig_group orig_group="ⲛⲉⲩⲯⲁⲗⲗⲉⲓ̈">
+<norm_group norm_group="ⲛⲉⲩⲯⲁⲗⲗⲉⲓ">
+<orig orig="ⲛⲉ">
+<norm xml:id="u110" func="aux" head="#u112" pos="CPRET" lemma="ⲛⲉⲣⲉ" norm="ⲛⲉ">
+ⲛⲉ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u111" func="nsubj" head="#u112" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+</lb_n>
+</cb_n>
+<cb_n cb_n="2">
+<lb_n lb_n="1">
+<orig orig="ⲯⲁⲗⲗⲉⲓ̈">
+<norm xml:id="u112" func="conj" head="#u98" pos="V" lemma="ⲯⲁⲗⲗⲉⲓ" norm="ⲯⲁⲗⲗⲉⲓ">
+<lang lang="Greek">
+ⲯⲁⲗⲗⲉⲓ̈
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲣⲟⲓ̈">
+<norm_group norm_group="ⲉⲣⲟⲓ">
+<orig orig="ⲉⲣⲟ">
+<norm xml:id="u113" func="case" head="#u114" pos="PREP" lemma="ⲉ" norm="ⲉⲣⲟ">
+ⲉⲣⲟ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u114" func="obl" head="#u112" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛϭⲉⲓⲛⲉⲧⲥⲱ">
+<norm_group norm_group="ⲛϭⲓⲛⲉⲧⲥⲱ">
+<orig orig="ⲛϭⲉⲓ">
+<norm xml:id="u115" func="case" head="#u116" pos="PTC" lemma="ⲛϭⲓ" norm="ⲛϭⲓ">
+ⲛ
+</lb_n>
+<lb_n lb_n="2">
+ϭⲉⲓ
+</norm>
+</orig>
+<entity head_tok="#u116" text="ⲛ ⲉⲧ ⲥⲱ ⲙ ⲡ ⲏⲣⲡ" entity="person">
+<orig orig="ⲛ">
+<norm xml:id="u116" func="dislocated" head="#u112" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲉⲧ">
+<norm xml:id="u117" func="mark" head="#u118" pos="CREL" lemma="ⲉⲧⲉⲣⲉ" norm="ⲉⲧ">
+ⲉⲧ
+</norm>
+</orig>
+<orig orig="ⲥⲱ">
+<norm xml:id="u118" func="acl:relcl" head="#u116" pos="V" lemma="ⲥⲱ" norm="ⲥⲱ">
+ⲥⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲏⲣⲡ">
+<norm_group norm_group="ⲙⲡⲏⲣⲡ">
+<orig orig="ⲙ">
+<norm xml:id="u119" func="case" head="#u121" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="3">
+<entity head_tok="#u121" text="ⲡ ⲏⲣⲡ" entity="substance">
+<orig orig="ⲡ">
+<norm xml:id="u120" func="det" head="#u121" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ⲏⲣⲡ">
+<norm xml:id="u121" func="obl" head="#u118" pos="N" lemma="ⲏⲣⲡ" norm="ⲏⲣⲡ">
+ⲏⲣⲡ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u122" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+</chapter_n>
+</translation>
+</verse_n>
+<verse_n verse_n="6">
+<translation translation="...">
+<chapter_n chapter_n="6">
+<verse_n verse_n="1">
+<lb_n lb_n="4">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u123" func="cc" head="#u129" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲉⲧⲃⲏⲏⲧⲕ">
+<norm_group norm_group="ϫⲉⲉⲧⲃⲏⲏⲧⲕ">
+<orig orig="ϫⲉ">
+<norm xml:id="u124" func="mark" head="#u129" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲉⲧⲃⲏⲏⲧ">
+<norm xml:id="u125" func="case" head="#u126" pos="PREP" lemma="ⲉⲧⲃⲉ" norm="ⲉⲧⲃⲏⲏⲧ">
+ⲉⲧⲃⲏⲏⲧ
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm xml:id="u126" func="obl" head="#u129" pos="PPERO" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="5">
+<orig_group orig_group="ⲁⲓ̈ϥⲉⲓ̈">
+<norm_group norm_group="ⲁⲓϥⲓ">
+<orig orig="ⲁ">
+<norm xml:id="u127" func="aux" head="#u129" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u128" func="nsubj" head="#u129" pos="PPERS" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+<orig orig="ϥⲉⲓ̈">
+<norm xml:id="u129" func="root" pos="V" lemma="ϥⲓ" norm="ϥⲓ">
+ϥⲉⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲣⲟⲓ̈">
+<norm_group norm_group="ⲉⲣⲟⲓ">
+<orig orig="ⲉⲣⲟ">
+<norm xml:id="u130" func="case" head="#u131" pos="PREP" lemma="ⲉ" norm="ⲉⲣⲟ">
+ⲉⲣⲟ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u131" func="obl" head="#u129" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲛⲟⲩⲛⲟϭⲛⲉϭ">
+<norm_group norm_group="ⲉⲛⲟⲩⲛⲟϭⲛⲉϭ">
+<orig orig="ⲉ">
+<norm xml:id="u132" func="case" head="#u134" pos="PREP" lemma="ⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<entity head_tok="#u134" text="ⲛⲟⲩ ⲛⲟϭⲛⲉϭ" entity="abstract">
+<orig orig="ⲛⲟⲩ">
+<norm xml:id="u133" func="nmod:poss" head="#u134" pos="PPOS" lemma="ⲡⲟⲩ" norm="ⲛⲟⲩ">
+ⲛⲟⲩ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="6">
+<orig orig="ⲛⲟϭⲛⲉϭ">
+<norm xml:id="u134" func="obl" head="#u129" pos="N" lemma="ⲛⲟϭⲛⲉϭ" norm="ⲛⲟϭⲛⲉϭ">
+ⲛⲟϭⲛⲉϭ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="2">
+<orig_group orig_group="ⲁⲓ̈ⲓϣⲓⲡⲉ">
+<norm_group norm_group="ⲁⲓϣⲓⲡⲉϩⲱⲃⲥ">
+<orig orig="ⲁ">
+<norm xml:id="u135" func="aux" head="#u137" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲓ̈ⲓ">
+<norm xml:id="u136" func="nsubj" head="#u137" pos="PPERS" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈ⲓ
+</norm>
+</orig>
+<entity head_tok="#u137" text="ϣⲓⲡⲉ" entity="abstract">
+<orig orig="ϣⲓⲡⲉ">
+<norm xml:id="u137" func="parataxis" head="#u129" pos="V" lemma="ϣⲓⲡⲉ" norm="ϣⲓⲡⲉ">
+ϣⲓ
+</lb_n>
+<lb_n lb_n="7">
+ⲡⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϩⲱⲃⲥ">
+<norm_group norm_group="ϩⲱⲃⲥ">
+<orig orig="ϩⲱⲃⲥ">
+<norm xml:id="u138" func="parataxis" head="#u129" pos="V" lemma="ϩⲱⲃⲥ" norm="ϩⲱⲃⲥ">
+ϩⲱⲃⲥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉϫⲙⲡⲁϩⲟ">
+<norm_group norm_group="ⲉϫⲙⲡⲁϩⲟ">
+<orig orig="ⲉϫⲙ">
+<norm xml:id="u139" func="case" head="#u141" pos="PREP" lemma="ⲉϫⲛ" norm="ⲉϫⲙ">
+ⲉϫⲙ
+</norm>
+</orig>
+<entity head_tok="#u141" text="ⲡⲁ ϩⲟ" entity="abstract">
+<orig orig="ⲡⲁ">
+<norm xml:id="u140" func="nmod:poss" head="#u141" pos="PPOS" lemma="ⲡⲁ" norm="ⲡⲁ">
+ⲡⲁ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="8">
+<orig orig="ϩⲟ">
+<norm xml:id="u141" func="obl" head="#u138" pos="N" lemma="ϩⲟ" norm="ϩⲟ">
+ϩⲟ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u142" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="3">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u143" func="cc" head="#u148" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+ⲁⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u144" func="advmod" head="#u148" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲁⲓ̈ϭⲉⲓⲛⲉ">
+<norm_group norm_group="ϫⲉⲁⲓϭⲓⲛⲉ">
+<orig orig="ϫⲉ">
+<norm xml:id="u145" func="mark" head="#u148" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u146" func="aux" head="#u148" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u147" func="nsubj" head="#u148" pos="PPERS" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="9">
+<orig orig="ϭⲉⲓⲛⲉ">
+<norm xml:id="u148" func="conj" head="#u138" pos="V" lemma="ϭⲓⲛⲉ" norm="ϭⲓⲛⲉ">
+ϭⲉⲓⲛⲉ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲛⲟⲩⲑⲗⲓ̈ⲯⲓⲥ">
+<norm_group norm_group="ⲉⲛⲟⲩⲑⲗⲓⲯⲓⲥ">
+<orig orig="ⲉ">
+<norm xml:id="u149" func="case" head="#u151" pos="PREP" lemma="ⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<entity head_tok="#u151" text="ⲛⲟⲩ ⲑⲗⲓⲯⲓⲥ" entity="abstract">
+<orig orig="ⲛⲟⲩ">
+<norm xml:id="u150" func="nmod:poss" head="#u151" pos="PPOS" lemma="ⲡⲟⲩ" norm="ⲛⲟⲩ">
+ⲛⲟⲩ
+</norm>
+</orig>
+<orig orig="ⲑⲗⲓ̈ⲯⲓⲥ">
+<norm xml:id="u151" func="obl" head="#u148" pos="N" lemma="ⲑⲗⲓⲯⲓⲥ" norm="ⲑⲗⲓⲯⲓⲥ">
+<lang lang="Greek">
+ⲑⲗⲓ̈
+</lb_n>
+<lb_n lb_n="10">
+ⲯⲓⲥ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲛⲟⲩⲙⲟϩⲕ̣">
+<norm_group norm_group="ⲙⲛⲟⲩⲙⲟϩⲕ">
+<orig orig="ⲙⲛ">
+<norm xml:id="u152" func="cc" head="#u154" pos="PREP" lemma="ⲙⲛ" norm="ⲙⲛ">
+ⲙⲛ
+</norm>
+</orig>
+<entity head_tok="#u154" text="ⲟⲩ ⲙⲟϩⲕ" entity="abstract">
+<orig orig="ⲟⲩ">
+<norm xml:id="u153" func="det" head="#u154" pos="ART" lemma="ⲟⲩ" norm="ⲟⲩ">
+ⲟⲩ
+</norm>
+</orig>
+<orig orig="ⲙⲟϩⲕ̣">
+<norm xml:id="u154" func="conj" head="#u151" pos="N" lemma="ⲙⲟϩⲕ" norm="ⲙⲟϩⲕ">
+<note note="CTS: is this ⲙⲟⲕϩ?">
+ⲙⲟϩⲕ̣
+</note>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+<verse_n verse_n="4">
+<lb_n lb_n="11">
+<orig_group orig_group="ⲁⲓⲱϣ">
+<norm_group norm_group="ⲁⲓⲱϣ">
+<orig orig="ⲁ">
+<norm xml:id="u155" func="aux" head="#u157" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲓ">
+<norm xml:id="u156" func="nsubj" head="#u157" pos="PPERS" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ
+</norm>
+</orig>
+<multiword multiword="ⲱϣ ⲉϩⲣⲁⲓ">
+<orig orig="ⲱϣ">
+<norm xml:id="u157" func="parataxis" head="#u148" pos="V" lemma="ⲱϣ" norm="ⲱϣ">
+ⲱϣ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉϩⲣⲁⲓ̈">
+<norm_group norm_group="ⲉϩⲣⲁⲓ">
+<orig orig="ⲉϩⲣⲁⲓ̈">
+<norm xml:id="u158" func="advmod" head="#u157" pos="ADV" lemma="ⲉϩⲣⲁⲓ" norm="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</multiword>
+<orig_group orig_group="ⲉⲡϫⲟⲉⲓ̈ⲥ">
+<norm_group norm_group="ⲉⲡϫⲟⲉⲓⲥ">
+<orig orig="ⲉ">
+<norm xml:id="u159" func="case" head="#u161" pos="PREP" lemma="ⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<entity head_tok="#u161" text="ⲡ ϫⲟⲉⲓⲥ" entity="person">
+<orig orig="ⲡ">
+<norm xml:id="u160" func="det" head="#u161" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ϫⲟⲉⲓ̈ⲥ">
+<norm xml:id="u161" func="obl" head="#u157" pos="N" lemma="ϫⲟⲉⲓⲥ" norm="ϫⲟⲉⲓⲥ">
+ϫⲟ
+</lb_n>
+<lb_n lb_n="12">
+ⲉⲓ̈ⲥ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u162" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+</chapter_n>
+</translation>
+</verse_n>
+<verse_n verse_n="7">
+<translation translation="...">
+<chapter_n chapter_n="7">
+<verse_n verse_n="1">
+<lb_n lb_n="13">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u163" func="cc" head="#u167" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u164" func="advmod" head="#u167" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲙⲡⲉⲣⲕⲁⲣⲱⲓ̈">
+<norm_group norm_group="ϫⲉⲙⲡⲣⲕⲁⲣⲱⲓ">
+<orig orig="ϫⲉ">
+<norm xml:id="u165" func="mark" head="#u167" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲙⲡⲉⲣ">
+<norm xml:id="u166" func="advmod" head="#u167" pos="NEG" lemma="ⲙⲡⲣ" norm="ⲙⲡⲣ">
+ⲙⲡⲉⲣ
+</norm>
+</orig>
+<multiword multiword="ⲕⲁ ⲣⲱ">
+<orig orig="ⲕⲁ">
+<norm xml:id="u167" func="root" pos="V" lemma="ⲕⲱ" norm="ⲕⲁ">
+ⲕⲁ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="14">
+<entity head_tok="#u168" text="ⲣⲱ ⲓ" entity="object">
+<orig orig="ⲣⲱ">
+<norm xml:id="u168" func="obj" head="#u167" pos="N" lemma="ⲣⲟ" norm="ⲣⲱ">
+ⲣⲱ
+</norm>
+</orig>
+</multiword>
+<orig orig="ⲓ̈">
+<norm xml:id="u169" func="nmod:poss" head="#u168" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲡⲛⲟⲩⲧⲉ">
+<norm_group norm_group="ⲡⲛⲟⲩⲧⲉ">
+<entity head_tok="#u171" text="ⲡ ⲛⲟⲩⲧⲉ" entity="person">
+<orig orig="ⲡ">
+<norm xml:id="u170" func="det" head="#u171" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ⲛⲟⲩⲧⲉ">
+<norm xml:id="u171" func="vocative" head="#u167" pos="N" lemma="ⲛⲟⲩⲧⲉ" norm="ⲛⲟⲩⲧⲉ">
+ⲛⲟⲩⲧⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲩⲇⲉ">
+<norm_group norm_group="ⲟⲩⲇⲉ">
+<orig orig="ⲟⲩⲇⲉ">
+<norm xml:id="u172" func="cc" head="#u174" pos="CONJ" lemma="ⲟⲩⲇⲉ" norm="ⲟⲩⲇⲉ">
+<lang lang="Greek">
+ⲟⲩ
+</lb_n>
+<lb_n lb_n="15">
+ⲇⲉ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲉⲣϭⲱ">
+<norm_group norm_group="ⲙⲡⲣϭⲱ">
+<orig orig="ⲙⲡⲉⲣ">
+<norm xml:id="u173" func="advmod" head="#u174" pos="NEG" lemma="ⲙⲡⲣ" norm="ⲙⲡⲣ">
+ⲙⲡⲉⲣ
+</norm>
+</orig>
+<orig orig="ϭⲱ">
+<norm xml:id="u174" func="conj" head="#u167" pos="V" lemma="ϭⲱ" norm="ϭⲱ">
+ϭⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u175" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="2">
+<orig_group orig_group="ϫⲉⲉⲓⲥⲛⲉⲕϫⲉⲓ̈ϫⲉⲉⲩⲉ">
+<norm_group norm_group="ϫⲉⲉⲓⲥⲛⲉⲕϫⲉⲓϫⲉⲉⲩⲉ">
+<orig orig="ϫⲉ">
+<norm xml:id="u176" func="mark" head="#u182" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="16">
+<orig orig="ⲉⲓⲥ">
+<norm xml:id="u177" func="advmod" head="#u182" pos="PTC" lemma="ⲉⲓⲥ" norm="ⲉⲓⲥ">
+ⲉⲓⲥ
+</norm>
+</orig>
+<orig orig="ⲛⲉⲕ">
+<norm xml:id="u178" func="nmod:poss" head="#u179" pos="PPOS" lemma="ⲡⲉⲕ" norm="ⲛⲉⲕ">
+ⲛⲉⲕ
+</norm>
+</orig>
+<orig orig="ϫⲉⲓ̈ϫⲉⲉⲩⲉ">
+<norm xml:id="u179" func="dislocated" head="#u182" pos="N" lemma="ϫⲁϫⲉ" norm="ϫⲓϫⲉⲉⲩⲉ">
+ϫⲉⲓ̈ϫⲉⲉⲩⲉ
+</norm>
+</orig>
+</lb_n>
+</norm_group>
+</orig_group>
+<lb_n lb_n="17">
+<orig_group orig_group="ⲁⲩ̣ⲱϣ">
+<norm_group norm_group="ⲁⲩⲱϣ">
+<orig orig="ⲁ">
+<norm xml:id="u180" func="aux" head="#u182" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ̣">
+<norm xml:id="u181" func="nsubj" head="#u182" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ̣
+</norm>
+</orig>
+<multiword multiword="ⲱϣ ⲉⲃⲟⲗ">
+<orig orig="ⲱϣ">
+<norm xml:id="u182" func="advcl" head="#u167" pos="V" lemma="ⲱϣ" norm="ⲱϣ">
+ⲱϣ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲃⲟⲗ">
+<norm_group norm_group="ⲉⲃⲟⲗ">
+<orig orig="ⲉⲃⲟⲗ">
+<norm xml:id="u183" func="advmod" head="#u182" pos="ADV" lemma="ⲉⲃⲟⲗ" norm="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</multiword>
+</lb_n>
+<lb_n lb_n="18">
+<orig_group orig_group="ⲛⲉⲧⲙⲟⲥⲧⲉ">
+<norm_group norm_group="ⲛⲉⲧⲙⲟⲥⲧⲉ">
+<orig orig="ⲛ">
+<norm xml:id="u184" func="dislocated" head="#u182" pos="ACONJ" lemma="ⲛⲧⲉ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲉⲧ">
+<norm xml:id="u185" func="mark" head="#u186" pos="CREL" lemma="ⲉⲧⲉⲣⲉ" norm="ⲉⲧ">
+ⲉⲧ
+</norm>
+</orig>
+<orig orig="ⲙⲟⲥⲧⲉ">
+<norm xml:id="u186" func="acl:relcl" head="#u184" pos="V" lemma="ⲙⲟⲥⲧⲉ" norm="ⲙⲟⲥⲧⲉ">
+ⲙⲟⲥⲧⲉ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲙⲟⲓ̣">
+<norm_group norm_group="ⲙⲙⲟⲓ">
+<orig orig="ⲙⲙⲟ">
+<norm xml:id="u187" func="case" head="#u188" pos="PREP" lemma="ⲛ" norm="ⲙⲙⲟ">
+ⲙⲙⲟ
+</norm>
+</orig>
+<orig orig="ⲓ̣">
+<norm xml:id="u188" func="obj" head="#u186" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̣
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<orig_group orig_group="ⲁⲩϫⲉⲓ̈ⲥⲉⲛⲧⲉⲩⲁⲡⲉ">
+<norm_group norm_group="ⲁⲩϫⲓⲥⲉⲛⲧⲉⲩⲁⲡⲉ">
+<lb_n lb_n="19">
+<orig orig="ⲁ">
+<norm xml:id="u189" func="aux" head="#u191" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u190" func="nsubj" head="#u191" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ϫⲉⲓ̈ⲥⲉ">
+<norm xml:id="u191" func="parataxis" head="#u182" pos="V" lemma="ϫⲓⲥⲉ" norm="ϫⲓⲥⲉ">
+ϫⲉⲓ̈ⲥⲉ
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm xml:id="u192" func="case" head="#u194" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<entity head_tok="#u194" text="ⲧⲉⲩ ⲁⲡⲉ" entity="object">
+<orig orig="ⲧⲉⲩ">
+<norm xml:id="u193" func="nmod:poss" head="#u194" pos="PPOS" lemma="ⲡⲉⲩ" norm="ⲧⲉⲩ">
+ⲧⲉⲩ
+</norm>
+</orig>
+<orig orig="ⲁⲡⲉ">
+<norm xml:id="u194" func="obj" head="#u191" pos="N" lemma="ⲁⲡⲉ" norm="ⲁⲡⲉ">
+ⲁ
+</lb_n>
+<lb_n lb_n="20">
+ⲡⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u195" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+</chapter_n>
+</translation>
+</verse_n>
+<verse_n verse_n="8">
+<translation translation="...">
+<chapter_n chapter_n="8">
+<verse_n verse_n="1">
+<lb_n lb_n="21">
+<orig_group orig_group="ⲡⲁⲛⲟⲩⲧⲉ">
+<norm_group norm_group="ⲡⲁⲛⲟⲩⲧⲉ">
+<entity head_tok="#u197" text="ⲡⲁ ⲛⲟⲩⲧⲉ" entity="person">
+<orig orig="ⲡⲁ">
+<norm xml:id="u196" func="nmod:poss" head="#u197" new_sent="true" pos="PPOS" lemma="ⲡⲁ" norm="ⲡⲁ">
+<hi_rend hi_rend="ekthetic large">
+ⲡ
+</hi_rend>
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲛⲟⲩⲧⲉ">
+<norm xml:id="u197" func="vocative" head="#u199" pos="N" lemma="ⲛⲟⲩⲧⲉ" norm="ⲛⲟⲩⲧⲉ">
+ⲛⲟⲩⲧⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲉⲣⲕⲁ̣ⲣⲱⲕ">
+<norm_group norm_group="ⲙⲡⲣⲕⲁⲣⲱⲕ">
+<orig orig="ⲙⲡⲉⲣ">
+<norm xml:id="u198" func="advmod" head="#u199" pos="NEG" lemma="ⲙⲡⲣ" norm="ⲙⲡⲣ">
+ⲙⲡⲉⲣ
+</norm>
+</orig>
+<multiword multiword="ⲕⲁ ⲣⲱ">
+<orig orig="ⲕⲁ̣">
+<norm xml:id="u199" func="root" pos="V" lemma="ⲕⲱ" norm="ⲕⲁ">
+ⲕⲁ̣
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="22">
+<entity head_tok="#u200" text="ⲣⲱ ⲕ" entity="object">
+<orig orig="ⲣⲱ">
+<norm xml:id="u200" func="obj" head="#u199" pos="N" lemma="ⲣⲟ" norm="ⲣⲱ">
+ⲣⲱ
+</norm>
+</orig>
+</multiword>
+<orig orig="ⲕ">
+<norm xml:id="u201" func="nmod:poss" head="#u200" pos="PPERO" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲡⲁⲥⲙⲟⲩ">
+<norm_group norm_group="ⲉⲡⲁⲥⲙⲟⲩ">
+<orig orig="ⲉ">
+<norm xml:id="u202" func="case" head="#u204" pos="PREP" lemma="ⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<entity head_tok="#u204" text="ⲡⲁ ⲥⲙⲟⲩ" entity="abstract">
+<orig orig="ⲡⲁ">
+<norm xml:id="u203" func="nmod:poss" head="#u204" pos="PPOS" lemma="ⲡⲁ" norm="ⲡⲁ">
+ⲡⲁ
+</norm>
+</orig>
+<orig orig="ⲥⲙⲟⲩ">
+<norm xml:id="u204" func="obl" head="#u199" pos="N" lemma="ⲥⲙⲟⲩ" norm="ⲥⲙⲟⲩ">
+ⲥⲙⲟⲩ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="23">
+<orig_group orig_group="ϫⲉⲧⲧⲁⲡⲣⲟ">
+<norm_group norm_group="ϫⲉⲧⲧⲁⲡⲣⲟ">
+<orig orig="ϫⲉ">
+<norm xml:id="u205" func="mark" head="#u207" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<entity head_tok="#u207" text="ⲧ ⲧⲁⲡⲣⲟ ⲙ ⲡ ⲣⲉϥⲣⲛⲟⲃⲉ" entity="object">
+<orig orig="ⲧ">
+<norm xml:id="u206" func="det" head="#u207" pos="ART" lemma="ⲡ" norm="ⲧ">
+ⲧ
+</norm>
+</orig>
+<orig orig="ⲧⲁⲡⲣⲟ">
+<norm xml:id="u207" func="advcl" head="#u199" pos="N" lemma="ⲧⲁⲡⲣⲟ" norm="ⲧⲁⲡⲣⲟ">
+ⲧⲁⲡⲣⲟ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲡⲣⲉϥⲣⲛⲟⲃⲉ">
+<norm_group norm_group="ⲙⲡⲣⲉϥⲣⲛⲟⲃⲉ">
+<orig orig="ⲙ">
+<norm xml:id="u208" func="case" head="#u210" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="24">
+<entity head_tok="#u210" text="ⲡ ⲣⲉϥⲣⲛⲟⲃⲉ" entity="person">
+<orig orig="ⲡⲡ">
+<norm xml:id="u209" func="det" head="#u210" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+<surplus surplus="surplus">
+ⲡ
+</surplus>
+</norm>
+</orig>
+<orig orig="ⲣⲉϥⲣⲛⲟⲃⲉ">
+<norm xml:id="u210" func="nmod" head="#u207" pos="N" lemma="ⲣⲉϥⲣⲛⲟⲃⲉ" norm="ⲣⲉϥⲣⲛⲟⲃⲉ">
+<morph morph="ⲣⲉϥ">
+ⲣⲉϥ
+</morph>
+<morph morph="ⲣ">
+ⲣ
+</morph>
+<morph morph="ⲛⲟⲃⲉ">
+ⲛⲟⲃⲉ
+</morph>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="ⲙⲛⲧⲁⲡⲉⲕⲣⲟϥ">
+<norm_group norm_group="ⲙⲛⲧⲁⲡⲉⲕⲣⲟϥ">
+<orig orig="ⲙⲛ">
+<norm xml:id="u211" func="cc" head="#u212" pos="PREP" lemma="ⲙⲛ" norm="ⲙⲛ">
+ⲙⲛ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="25">
+<entity head_tok="#u212" text="ⲧⲁ ⲡⲉ ⲕⲣⲟϥ" entity="object">
+<orig orig="ⲧⲁ">
+<norm xml:id="u212" func="conj" head="#u207" pos="PPOS" lemma="ⲡⲁ" norm="ⲧⲁ">
+ⲧⲁ
+</norm>
+</orig>
+<entity head_tok="#u214" text="ⲡⲉ ⲕⲣⲟϥ" entity="abstract">
+<orig orig="ⲡⲉ">
+<norm xml:id="u213" func="det" head="#u214" pos="ART" lemma="ⲡ" norm="ⲡⲉ">
+ⲡⲉ
+</norm>
+</orig>
+<orig orig="ⲕⲣⲟϥ">
+<norm xml:id="u214" func="conj" head="#u210" pos="N" lemma="ⲕⲣⲟϥ" norm="ⲕⲣⲟϥ">
+ⲕⲣⲟϥ
+</norm>
+</orig>
+</entity>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u215" func="cc" head="#u217" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+ⲁⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛ̣ⲉⲣⲱⲟⲩ">
+<norm_group norm_group="ⲛⲉⲣⲱⲟⲩ">
+<entity head_tok="#u217" text="ⲛ ⲉⲣⲱⲟⲩ" entity="object">
+<orig orig="ⲛ̣">
+<norm xml:id="u216" func="det" head="#u217" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ̣
+</norm>
+</orig>
+</lb_n>
+</cb_n>
+</pb_xml_id>
+<pb_xml_id pb_xml_id="GF360">
+<cb_n cb_n="1">
+<lb_n lb_n="1">
+<orig orig="ⲉⲣⲱⲟⲩ">
+<norm xml:id="u217" func="conj" head="#u210" pos="N" lemma="ⲣⲣⲟ" norm="ⲉⲣⲱⲟⲩ">
+<note note="Ornamental decoration at top center of page. ⲧⲝ visible in top left and ⲕⲓ visible in top right.">
+ⲉ
+</note>
+ⲣⲱⲟⲩ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉϩⲣⲁⲓ̈ⲉϩⲣⲁⲓ̈">
+<norm_group norm_group="ⲉϩⲣⲁⲓ">
+<orig orig="ⲉϩⲣⲁⲓ̈ⲉϩⲣⲁⲓ̈">
+<norm xml:id="u218" func="advmod" head="#u217" pos="ADV" lemma="ⲉϩⲣⲁⲓ" norm="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ̈
+<surplus surplus="surplus">
+ⲉϩⲣⲁⲓ̈
+</surplus>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="2">
+<orig_group orig_group="ⲉϫⲱⲓ̈">
+<norm_group norm_group="ⲉϫⲱⲓ">
+<orig orig="ⲉϫⲱ">
+<norm xml:id="u219" func="fixed" head="#u218" pos="PREP" lemma="ⲉϫⲛ" norm="ⲉϫⲱ">
+ⲉϫⲱ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u220" func="nmod" head="#u217" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u221" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="2">
+<orig_group orig_group="ⲡⲁⲗⲓⲛ">
+<norm_group norm_group="ⲡⲁⲗⲓⲛ">
+<orig orig="ⲡⲁⲗⲓⲛ">
+<norm xml:id="u222" func="advmod" head="#u227" pos="CONJ" lemma="ⲡⲁⲗⲓⲛ" norm="ⲡⲁⲗⲓⲛ">
+<lang lang="Greek">
+ⲡⲁⲗⲓⲛ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u223" func="advmod" head="#u227" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="3">
+<orig_group orig_group="ϫⲉⲁⲕⲣϩⲁⲓⲃⲉⲥ">
+<norm_group norm_group="ϫⲉⲁⲕⲣϩⲁⲓⲃⲉⲥ">
+<orig orig="ϫⲉ">
+<norm xml:id="u224" func="mark" head="#u227" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u225" func="aux" head="#u227" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm xml:id="u226" func="nsubj" head="#u227" pos="PPERS" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+<orig orig="ⲣϩⲁⲓⲃⲉⲥ">
+<norm xml:id="u227" func="advcl" head="#u199" pos="V" lemma="ⲣϩⲁⲉⲓⲃⲉⲥ" norm="ⲣϩⲁⲓⲃⲉⲥ">
+<morph morph="ⲣ">
+ⲣ
+</morph>
+<morph morph="ϩⲁⲓⲃⲉⲥ">
+ϩⲁⲓⲃⲉⲥ
+</morph>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲣⲟⲓ̈">
+<norm_group norm_group="ⲉⲣⲟⲓ">
+<orig orig="ⲉⲣⲟ">
+<norm xml:id="u228" func="case" head="#u229" pos="PREP" lemma="ⲉ" norm="ⲉⲣⲟ">
+ⲉⲣⲟ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u229" func="obl" head="#u227" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="4">
+<orig_group orig_group="ϩⲁⲑⲁⲓ̈ⲃⲉⲓⲥ">
+<norm_group norm_group="ϩⲁⲧϩⲁⲓⲃⲉⲓⲥ">
+<orig orig="ϩⲁ">
+<norm xml:id="u230" func="case" head="#u232" pos="PREP" lemma="ϩⲁ" norm="ϩⲁ">
+ϩⲁ
+</norm>
+</orig>
+<entity head_tok="#u232" text="ⲧ ϩⲁⲓⲃⲉⲓⲥ ⲛ ⲛⲉⲕ ⲧⲛϩ" entity="abstract">
+<orig orig="ⲑ">
+<norm xml:id="u231" func="det" head="#u232" pos="ART" lemma="ⲡ" norm="ⲧ">
+ⲑ
+</norm>
+</orig>
+<orig orig="ⲁⲓ̈ⲃⲉⲓⲥ">
+<norm xml:id="u232" func="obl" head="#u227" pos="N" lemma="ϩⲁⲓⲃⲉⲓⲥ" norm="ϩⲁⲓⲃⲉⲓⲥ">
+ⲁⲓ̈ⲃⲉⲓⲥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲛⲉⲕⲧⲛϩ">
+<norm_group norm_group="ⲛⲛⲉⲕⲧⲛϩ">
+<orig orig="ⲛ">
+<norm xml:id="u233" func="case" head="#u235" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<entity head_tok="#u235" text="ⲛⲉⲕ ⲧⲛϩ" entity="object">
+<orig orig="ⲛⲉⲕ">
+<norm xml:id="u234" func="nmod:poss" head="#u235" pos="PPOS" lemma="ⲡⲉⲕ" norm="ⲛⲉⲕ">
+ⲛⲉⲕ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="5">
+<orig orig="ⲧⲛϩ">
+<norm xml:id="u235" func="nmod" head="#u232" pos="N" lemma="ⲧⲛϩ" norm="ⲧⲛϩ">
+ⲧⲛϩ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u236" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲉⲙⲧⲟ">
+<norm_group norm_group="ⲙⲡⲉⲙⲧⲟ">
+<orig orig="ⲙ">
+<norm xml:id="u237" func="case" head="#u239" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+<entity head_tok="#u239" text="ⲡⲉ ⲙⲧⲟ ⲉⲃⲟⲗ ⲛ ⲛ ⲁⲥⲉⲃⲏⲥ ⲛⲁ ⲓ ⲛⲧ ⲁ ⲩ ⲙⲟⲕϩ ⲧ" entity="abstract">
+<orig orig="ⲡⲉ">
+<norm xml:id="u238" func="det" head="#u239" pos="ART" lemma="ⲡ" norm="ⲡⲉ">
+ⲡⲉ
+</norm>
+</orig>
+<orig orig="ⲙⲧⲟ">
+<norm xml:id="u239" func="obl" head="#u227" pos="N" lemma="ⲙⲧⲟ" norm="ⲙⲧⲟ">
+ⲙⲧⲟ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲃⲟⲗ">
+<norm_group norm_group="ⲉⲃⲟⲗ">
+<orig orig="ⲉⲃⲟⲗ">
+<norm xml:id="u240" func="advmod" head="#u239" pos="ADV" lemma="ⲉⲃⲟⲗ" norm="ⲉⲃⲟⲗ">
+ⲉ
+</lb_n>
+<lb_n lb_n="6">
+ⲃⲟⲗ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲛⲁⲥⲉⲃⲏⲥ">
+<norm_group norm_group="ⲛⲛⲁⲥⲉⲃⲏⲥ">
+<orig orig="ⲛ">
+<norm xml:id="u241" func="case" head="#u243" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<entity head_tok="#u243" text="ⲛ ⲁⲥⲉⲃⲏⲥ ⲛⲁ ⲓ ⲛⲧ ⲁ ⲩ ⲙⲟⲕϩ ⲧ" entity="person">
+<orig orig="ⲛ">
+<norm xml:id="u242" func="det" head="#u243" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲁⲥⲉⲃⲏⲥ">
+<norm xml:id="u243" func="nmod" head="#u239" pos="N" lemma="ⲁⲥⲉⲃⲏⲥ" norm="ⲁⲥⲉⲃⲏⲥ">
+<lang lang="Greek">
+ⲁⲥⲉⲃⲏⲥ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="7">
+<orig_group orig_group="ⲛⲁⲓ">
+<norm_group norm_group="ⲛⲁⲓ">
+<orig orig="ⲛⲁ">
+<norm xml:id="u244" func="case" head="#u245" pos="PREP" lemma="ⲛⲁ" norm="ⲛⲁ">
+ⲛⲁ
+</norm>
+</orig>
+<orig orig="ⲓ">
+<norm xml:id="u245" func="obl" head="#u227" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲧⲁⲩⲙⲟϩⲕⲧ">
+<norm_group norm_group="ⲛⲧⲁⲩⲙⲟⲕϩⲧ">
+<orig orig="ⲛⲧ">
+<norm xml:id="u246" func="mark" head="#u249" pos="CREL" lemma="ⲉⲧⲉⲣⲉ" norm="ⲛⲧ">
+ⲛⲧ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u247" func="aux" head="#u249" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u248" func="nsubj" head="#u249" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ⲙⲟϩⲕ">
+<norm xml:id="u249" func="acl:relcl" head="#u243" pos="V" lemma="ⲙⲟⲩⲕϩ" norm="ⲙⲟⲕϩ">
+ⲙⲟϩⲕ
+</norm>
+</orig>
+<orig orig="ⲧ">
+<norm xml:id="u250" func="obj" head="#u249" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲧ">
+ⲧ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</entity>
+</entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u251" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+</chapter_n>
+</translation>
+</verse_n>
+<verse_n verse_n="9">
+<verse_n verse_n="1">
+<translation translation="...">
+<chapter_n chapter_n="9">
+<lb_n lb_n="8">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u252" func="cc" head="#u255" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u253" func="advmod" head="#u255" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲁⲛⲓⲧ">
+<norm_group norm_group="ϫⲉⲁⲛⲓⲧ">
+<orig orig="ϫⲉ">
+<norm xml:id="u254" func="mark" head="#u255" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁⲛⲓ">
+<norm xml:id="u255" func="root" pos="VIMP" lemma="ⲉⲓⲛⲉ" norm="ⲁⲛⲓ">
+ⲁⲛⲓ
+</norm>
+</orig>
+<orig orig="ⲧ">
+<norm xml:id="u256" func="obj" head="#u255" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲧ">
+ⲧ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<multiword multiword="ⲉⲃⲟⲗ ϩⲛ">
+<orig_group orig_group="ⲉⲃⲟⲗ">
+<norm_group norm_group="ⲉⲃⲟⲗ">
+<orig orig="ⲉⲃⲟⲗ">
+<norm xml:id="u257" func="case" head="#u260" pos="ADV" lemma="ⲉⲃⲟⲗ" norm="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="9">
+<orig_group orig_group="ϩⲛⲛⲁⲁⲛⲁⲅⲅⲏ">
+<norm_group norm_group="ϩⲛⲛⲁⲁⲛⲁⲅⲕⲏ">
+<orig orig="ϩⲛ">
+<norm xml:id="u258" func="fixed" head="#u257" pos="PREP" lemma="ϩⲛ" norm="ϩⲛ">
+ϩⲛ
+</norm>
+</orig>
+</multiword>
+<entity head_tok="#u260" text="ⲛⲁ ⲁⲛⲁⲅⲕⲏ" entity="abstract">
+<orig orig="ⲛⲁ">
+<norm xml:id="u259" func="nmod:poss" head="#u260" pos="PPOS" lemma="ⲡⲁ" norm="ⲛⲁ">
+ⲛⲁ
+</norm>
+</orig>
+<orig orig="ⲁⲛⲁⲅⲅⲏ">
+<norm xml:id="u260" func="obl" head="#u255" pos="N" lemma="ⲁⲛⲁⲅⲕⲏ" norm="ⲁⲛⲁⲅⲕⲏ">
+<lang lang="Greek">
+ⲁⲛⲁⲅⲅⲏ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="10">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u261" func="cc" head="#u262" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+ⲁⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲁⲛⲁⲩ">
+<norm_group norm_group="ⲁⲛⲁⲩ">
+<orig orig="ⲁⲛⲁⲩ">
+<norm xml:id="u262" func="conj" head="#u255" pos="VIMP" lemma="ⲛⲁⲩ" norm="ⲁⲛⲁⲩ">
+ⲁⲛⲁⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲛⲁϫⲁϫⲉ">
+<norm_group norm_group="ⲉⲛⲁϫⲁϫⲉ">
+<orig orig="ⲉ">
+<norm xml:id="u263" func="case" head="#u265" pos="PREP" lemma="ⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<entity head_tok="#u265" text="ⲛⲁ ϫⲁϫⲉ" entity="person">
+<orig orig="ⲛⲁ">
+<norm xml:id="u264" func="nmod:poss" head="#u265" pos="PPOS" lemma="ⲡⲁ" norm="ⲛⲁ">
+ⲛⲁ
+</norm>
+</orig>
+<orig orig="ϫⲁϫⲉ">
+<norm xml:id="u265" func="obl" head="#u262" pos="N" lemma="ϫⲁϫⲉ" norm="ϫⲁϫⲉ">
+ϫⲁ
+</lb_n>
+<lb_n lb_n="11">
+ϫⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲁⲩⲟⲩⲱϣⲥ">
+<norm_group norm_group="ϫⲉⲁⲩⲟⲩⲱϣⲥ">
+<orig orig="ϫⲉ">
+<norm xml:id="u266" func="mark" head="#u269" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u267" func="aux" head="#u269" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u268" func="nsubj" head="#u269" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<multiword multiword="ⲟⲩⲱϣⲥ ⲉⲃⲟⲗ">
+<orig orig="ⲟⲩⲱϣⲥ">
+<norm xml:id="u269" func="advcl" head="#u262" pos="V" lemma="ⲟⲩⲱϣⲥ" norm="ⲟⲩⲱϣⲥ">
+ⲟⲩⲱϣⲥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="12">
+<orig_group orig_group="ⲉⲃⲟⲗ">
+<norm_group norm_group="ⲉⲃⲟⲗ">
+<orig orig="ⲉⲃⲟⲗ">
+<norm xml:id="u270" func="advmod" head="#u269" pos="ADV" lemma="ⲉⲃⲟⲗ" norm="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</multiword>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u271" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</chapter_n>
+</translation>
+</verse_n>
+</verse_n>
+<verse_n verse_n="10">
+<verse_n verse_n="1">
+<translation translation="...">
+<chapter_n chapter_n="10">
+<lb_n lb_n="13">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u272" func="cc" head="#u277" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u273" func="advmod" head="#u277" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲁⲩⲛⲟϫⲧ">
+<norm_group norm_group="ϫⲉⲁⲩⲛⲟϫⲧ">
+<orig orig="ϫⲉ">
+<norm xml:id="u274" func="mark" head="#u277" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u275" func="aux" head="#u277" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u276" func="nsubj" head="#u277" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ⲛⲟϫ">
+<norm xml:id="u277" func="root" pos="V" lemma="ⲛⲟⲩϫⲉ" norm="ⲛⲟϫ">
+ⲛⲟϫ
+</norm>
+</orig>
+<orig orig="ⲧ">
+<norm xml:id="u278" func="obj" head="#u277" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲧ">
+ⲧ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="14">
+<orig_group orig_group="ⲉⲃⲟⲗ">
+<norm_group norm_group="ⲉⲃⲟⲗ">
+<orig orig="ⲉⲃⲟⲗ">
+<norm xml:id="u279" func="advmod" head="#u277" pos="ADV" lemma="ⲉⲃⲟⲗ" norm="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲡⲙⲉⲣⲓⲧ">
+<norm_group norm_group="ⲡⲙⲉⲣⲓⲧ">
+<entity head_tok="#u281" text="ⲡ ⲙⲉⲣⲓⲧ" entity="person">
+<orig orig="ⲡ">
+<norm xml:id="u280" func="det" head="#u281" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ⲙⲉⲣⲓⲧ">
+<norm xml:id="u281" func="vocative" head="#u277" pos="N" lemma="ⲙⲉⲣⲓⲧ" norm="ⲙⲉⲣⲓⲧ">
+ⲙⲉⲣⲓⲧ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲑⲉ">
+<norm_group norm_group="ⲛⲧϩⲉ">
+<orig orig="ⲛ">
+<norm xml:id="u282" func="case" head="#u284" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="15">
+<orig orig="ⲑ">
+<norm xml:id="u283" func="det" head="#u284" pos="ART" lemma="ⲡ" norm="ⲧ">
+ⲑ
+</norm>
+</orig>
+<orig orig="ⲉ">
+<norm xml:id="u284" func="obl" head="#u277" pos="N" lemma="ϩⲉ" norm="ϩⲉ">
+ⲉ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲟⲩⲣⲉϥⲙⲟⲟⲩⲧ">
+<norm_group norm_group="ⲛⲟⲩⲣⲉϥⲙⲟⲟⲩⲧ">
+<orig orig="ⲛ">
+<norm xml:id="u285" func="case" head="#u287" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<entity head_tok="#u287" text="ⲟⲩ ⲣⲉϥⲙⲟⲟⲩⲧ ⲉ ϥ ⲃⲏⲧ" entity="person">
+<orig orig="ⲟⲩ">
+<norm xml:id="u286" func="det" head="#u287" pos="ART" lemma="ⲟⲩ" norm="ⲟⲩ">
+ⲟⲩ
+</norm>
+</orig>
+<orig orig="ⲣⲉϥⲙⲟⲟⲩⲧ">
+<norm xml:id="u287" func="nmod" head="#u284" pos="N" lemma="ⲣⲉϥⲙⲟⲟⲩⲧ" norm="ⲣⲉϥⲙⲟⲟⲩⲧ">
+<morph morph="ⲣⲉϥ">
+ⲣⲉϥ
+</morph>
+<morph morph="ⲙⲟⲟⲩⲧ">
+ⲙⲟⲟⲩⲧ
+</morph>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="16">
+<orig_group orig_group="ⲉϥⲃⲏⲧ">
+<norm_group norm_group="ⲉϥⲃⲏⲧ">
+<orig orig="ⲉ">
+<norm xml:id="u288" func="mark" head="#u290" pos="CCIRC" lemma="ⲉⲣⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<orig orig="ϥ">
+<norm xml:id="u289" func="nsubj" head="#u290" pos="PPERS" lemma="ⲛⲧⲟϥ" norm="ϥ">
+ϥ
+</norm>
+</orig>
+<orig orig="ⲃⲏⲧ">
+<norm xml:id="u290" func="acl:relcl" head="#u287" pos="VSTAT" lemma="ⲃⲱⲧⲉ" norm="ⲃⲏⲧ">
+ⲃⲏⲧ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u291" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</chapter_n>
+</translation>
+</verse_n>
+</verse_n>
+<verse_n verse_n="11">
+<verse_n verse_n="1">
+<translation translation="...">
+<chapter_n chapter_n="11">
+<lb_n lb_n="17">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u292" func="cc" head="#u297" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u293" func="advmod" head="#u297" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲁⲩⲣϩⲁⲣⲱⲓ̈">
+<norm_group norm_group="ϫⲉⲁⲩⲣϩⲁⲣⲱⲓ">
+<orig orig="ϫⲉ">
+<norm xml:id="u294" func="mark" head="#u297" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u295" func="aux" head="#u297" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u296" func="nsubj" head="#u297" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ⲣ">
+<norm xml:id="u297" func="root" pos="V" lemma="ⲉⲓⲣⲉ" norm="ⲣ">
+ⲣ
+</norm>
+</orig>
+<orig orig="ϩⲁⲣⲱ">
+<norm xml:id="u298" func="case" head="#u299" pos="PREP" lemma="ϩⲁⲣⲟ" norm="ϩⲁⲣⲱ">
+ϩⲁⲣⲱ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u299" func="obl" head="#u297" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="18">
+<orig_group orig_group="ⲙⲡⲉϩⲟⲟⲩ">
+<norm_group norm_group="ⲙⲡⲉϩⲟⲟⲩ">
+<orig orig="ⲙ">
+<norm xml:id="u300" func="case" head="#u302" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+<entity head_tok="#u302" text="ⲡⲉ ϩⲟⲟⲩ ⲙ ⲡⲁ ⲙⲕⲁϩ" entity="time">
+<orig orig="ⲡⲉ">
+<norm xml:id="u301" func="det" head="#u302" pos="ART" lemma="ⲡ" norm="ⲡⲉ">
+ⲡⲉ
+</norm>
+</orig>
+<orig orig="ϩⲟⲟⲩ">
+<norm xml:id="u302" func="obl" head="#u297" pos="N" lemma="ϩⲟⲟⲩ" norm="ϩⲟⲟⲩ">
+ϩⲟⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲁⲙⲕⲁϩ">
+<norm_group norm_group="ⲙⲡⲁⲙⲕⲁϩ">
+<orig orig="ⲙ">
+<norm xml:id="u303" func="case" head="#u305" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+<entity head_tok="#u305" text="ⲡⲁ ⲙⲕⲁϩ" entity="abstract">
+<orig orig="ⲡⲁ">
+<norm xml:id="u304" func="nmod:poss" head="#u305" pos="PPOS" lemma="ⲡⲁ" norm="ⲡⲁ">
+ⲡⲁ
+</norm>
+</orig>
+<orig orig="ⲙⲕⲁϩ">
+<norm xml:id="u305" func="nmod" head="#u302" pos="N" lemma="ⲙⲕⲁϩ" norm="ⲙⲕⲁϩ">
+ⲙ
+</lb_n>
+<lb_n lb_n="19">
+ⲕⲁϩ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u306" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</chapter_n>
+</translation>
+</verse_n>
+</verse_n>
+<verse_n verse_n="12">
+<translation translation="...">
+<chapter_n chapter_n="12">
+<verse_n verse_n="1">
+<lb_n lb_n="20">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u307" func="cc" head="#u319" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u308" func="advmod" head="#u312" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲁⲩⲧⲥⲟⲓ̈">
+<norm_group norm_group="ϫⲉⲁⲩⲧⲥⲟⲓ">
+<orig orig="ϫⲉ">
+<norm xml:id="u309" func="mark" head="#u312" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u310" func="aux" head="#u312" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u311" func="nsubj" head="#u312" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ⲧⲥⲟ">
+<norm xml:id="u312" func="root" pos="V" lemma="ⲧⲥⲟ" norm="ⲧⲥⲟ">
+ⲧⲥⲟ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u313" func="obj" head="#u312" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="21">
+<orig_group orig_group="ⲛⲥⲉⲓ̈ϣⲉ">
+<norm_group norm_group="ⲛⲥⲓϣⲉ">
+<orig orig="ⲛ">
+<norm xml:id="u314" func="case" head="#u315" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<entity head_tok="#u315" text="ⲥⲓϣⲉ" entity="abstract">
+<orig orig="ⲥⲉⲓ̈ϣⲉ">
+<norm xml:id="u315" func="obl" head="#u312" pos="N" lemma="ⲥⲓϣⲉ" norm="ⲥⲓϣⲉ">
+ⲥⲉⲓ̈ϣⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u316" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="2">
+<orig_group orig_group="ⲁϥⲧⲣⲁϣⲱⲡⲉ">
+<norm_group norm_group="ⲁϥⲧⲣⲁϣⲱⲡⲉ">
+<orig orig="ⲁ">
+<norm xml:id="u317" func="aux" head="#u319" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ϥ">
+<norm xml:id="u318" func="nsubj" head="#u319" pos="PPERS" lemma="ⲛⲧⲟϥ" norm="ϥ">
+ϥ
+</norm>
+</orig>
+<orig orig="ⲧⲣ">
+<norm xml:id="u319" func="conj" head="#u312" pos="ACAUS" lemma="ⲧⲣⲉ" norm="ⲧⲣ">
+ⲧⲣ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u320" func="obj" head="#u319" pos="PPERS" lemma="ⲁⲛⲟⲕ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="22">
+<orig orig="ϣⲱⲡⲉ">
+<norm xml:id="u321" func="xcomp" head="#u319" pos="V" lemma="ϣⲱⲡⲉ" norm="ϣⲱⲡⲉ">
+ϣⲱⲡⲉ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϩⲛⲟⲩⲭⲟⲗⲏ">
+<norm_group norm_group="ϩⲛⲟⲩⲭⲟⲗⲏ">
+<orig orig="ϩⲛ">
+<norm xml:id="u322" func="case" head="#u324" pos="PREP" lemma="ϩⲛ" norm="ϩⲛ">
+ϩⲛ
+</norm>
+</orig>
+<entity head_tok="#u324" text="ⲟⲩ ⲭⲟⲗⲏ" entity="abstract">
+<orig orig="ⲟⲩ">
+<norm xml:id="u323" func="det" head="#u324" pos="ART" lemma="ⲟⲩ" norm="ⲟⲩ">
+ⲟⲩ
+</norm>
+</orig>
+<orig orig="ⲭⲟⲗⲏ">
+<norm xml:id="u324" func="obl" head="#u321" pos="N" lemma="ⲭⲟⲗⲏ" norm="ⲭⲟⲗⲏ">
+<lang lang="Greek">
+ⲭⲟ
+</lb_n>
+<lb_n lb_n="23">
+ⲗⲏ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u325" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+</chapter_n>
+</translation>
+</verse_n>
+<verse_n verse_n="13">
+<verse_n verse_n="1">
+<translation translation="...">
+<chapter_n chapter_n="13">
+<lb_n lb_n="24">
+<orig_group orig_group="ⲁⲩⲱ">
+<norm_group norm_group="ⲁⲩⲱ">
+<orig orig="ⲁⲩⲱ">
+<norm xml:id="u326" func="cc" head="#u339" new_sent="true" pos="CONJ" lemma="ⲁⲩⲱ" norm="ⲁⲩⲱ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲩⲱ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲟⲛ">
+<norm_group norm_group="ⲟⲛ">
+<orig orig="ⲟⲛ">
+<norm xml:id="u327" func="advmod" head="#u339" pos="ADV" lemma="ⲟⲛ" norm="ⲟⲛ">
+ⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲁⲕϫⲉⲓ̈ⲧⲛ">
+<norm_group norm_group="ϫⲉⲁⲕϫⲓⲧⲛ">
+<orig orig="ϫⲉ">
+<norm xml:id="u328" func="mark" head="#u331" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u329" func="aux" head="#u331" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm xml:id="u330" func="nsubj" head="#u331" pos="PPERS" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+<orig orig="ϫⲉⲓ̈ⲧ">
+<norm xml:id="u331" func="root" pos="V" lemma="ϫⲓ" norm="ϫⲓⲧ">
+ϫⲉⲓ̈
+</lb_n>
+<lb_n lb_n="25">
+ⲧ
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm xml:id="u332" func="obj" head="#u331" pos="PPERO" lemma="ⲁⲛⲟⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲡⲡⲁϣ">
+<norm_group norm_group="ⲉⲡⲡⲁϣ">
+<orig orig="ⲉ">
+<norm xml:id="u333" func="case" head="#u335" pos="PREP" lemma="ⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<entity head_tok="#u335" text="ⲡ ⲡⲁϣ" entity="object">
+<orig orig="ⲡ">
+<norm xml:id="u334" func="det" head="#u335" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ⲡⲁϣ">
+<norm xml:id="u335" func="obl" head="#u331" pos="N" lemma="ⲡⲁϣ" norm="ⲡⲁϣ">
+ⲡⲁϣ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u336" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲁⲕⲕⲁϩ">
+<norm_group norm_group="ⲁⲕⲕⲁϩ">
+<orig orig="ⲁ">
+<norm xml:id="u337" func="aux" head="#u339" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲕ">
+<norm xml:id="u338" func="nsubj" head="#u339" pos="PPERS" lemma="ⲛⲧⲟⲕ" norm="ⲕ">
+ⲕ
+</norm>
+</orig>
+</lb_n>
+<entity head_tok="#u339" text="ⲕⲁϩ ⲉ ⲛ ⲑⲗⲓⲯⲓⲥ ⲙ ⲡⲉⲛ ⲙⲧⲟ ⲉⲃⲟⲗ" entity="place">
+<lb_n lb_n="26">
+<orig orig="ⲕⲁϩ">
+<norm xml:id="u339" func="conj" head="#u331" pos="N" lemma="ⲕⲁϩ" norm="ⲕⲁϩ">
+ⲕⲁϩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲛⲑⲗⲓⲯⲓⲥ">
+<norm_group norm_group="ⲉⲛⲑⲗⲓⲯⲓⲥ">
+<orig orig="ⲉ">
+<norm xml:id="u340" func="case" head="#u342" pos="PREP" lemma="ⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<entity head_tok="#u342" text="ⲛ ⲑⲗⲓⲯⲓⲥ ⲙ ⲡⲉⲛ ⲙⲧⲟ ⲉⲃⲟⲗ" entity="abstract">
+<orig orig="ⲛ">
+<norm xml:id="u341" func="det" head="#u342" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲑⲗⲓⲯⲓⲥ">
+<norm xml:id="u342" func="obl" head="#u339" pos="N" lemma="ⲑⲗⲓⲯⲓⲥ" norm="ⲑⲗⲓⲯⲓⲥ">
+<lang lang="Greek">
+ⲑⲗⲓⲯⲓⲥ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲉⲛⲙⲧⲟ">
+<norm_group norm_group="ⲙⲡⲉⲛⲙⲧⲟ">
+<orig orig="ⲙ">
+<norm xml:id="u343" func="case" head="#u345" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="27">
+<entity head_tok="#u345" text="ⲡⲉⲛ ⲙⲧⲟ ⲉⲃⲟⲗ" entity="abstract">
+<orig orig="ⲡⲉⲛ">
+<norm xml:id="u344" func="nmod:poss" head="#u345" pos="PPOS" lemma="ⲡⲉⲛ" norm="ⲡⲉⲛ">
+<note note="Column i has 27 lines; column ii, 26 lines">
+ⲡ
+</note>
+ⲉⲛ
+</norm>
+</orig>
+<orig orig="ⲙⲧⲟ">
+<norm xml:id="u345" func="nmod" head="#u342" pos="N" lemma="ⲙⲧⲟ" norm="ⲙⲧⲟ">
+ⲙⲧⲟ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲃⲟⲗ">
+<norm_group norm_group="ⲉⲃⲟⲗ">
+<orig orig="ⲉⲃⲟⲗ">
+<norm xml:id="u346" func="advmod" head="#u345" pos="ADV" lemma="ⲉⲃⲟⲗ" norm="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</entity>
+</entity>
+</entity>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u347" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</chapter_n>
+</translation>
+</verse_n>
+</verse_n>
+</cb_n>
+</chapter_n>
+<cb_n cb_n="2">
+<chapter_n chapter_n="102">
+<verse_n verse_n="1">
+<verse_n verse_n="2">
+<translation translation="...">
+<chapter_n chapter_n="14">
+<entity head_tok="#u349" text="ⲧ ⲙⲛⲧⲙⲛⲧⲣⲉ ⲛ ⲧⲉⲩ ⲁⲅⲁⲡⲏ ⲉϩⲟⲩⲉ ⲡ ϫⲟⲉⲓⲥ" entity="abstract">
+<lb_n lb_n="1">
+<orig_group orig_group="ⲧⲙⲛⲧⲙⲛⲧⲣⲉ">
+<norm_group norm_group="ⲧⲙⲛⲧⲙⲛⲧⲣⲉ">
+<orig orig="ⲧ">
+<norm xml:id="u348" func="det" head="#u349" new_sent="true" pos="ART" lemma="ⲡ" norm="ⲧ">
+<hi_rend hi_rend="ekthetic large">
+ⲧ
+</hi_rend>
+</norm>
+</orig>
+<orig orig="ⲙⲛⲧⲙⲛⲧⲣⲉ">
+<norm xml:id="u349" func="root" pos="N" lemma="ⲙⲛⲧⲙⲛⲧⲣⲉ" norm="ⲙⲛⲧⲙⲛⲧⲣⲉ">
+<morph morph="ⲙⲛⲧ">
+ⲙⲛⲧ
+</morph>
+<morph morph="ⲙⲛⲧⲣⲉ">
+ⲙⲛⲧⲣⲉ
+</morph>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲧⲉⲩⲁⲅⲁⲡⲉ">
+<norm_group norm_group="ⲛⲧⲉⲩⲁⲅⲁⲡⲏ">
+<orig orig="ⲛ">
+<norm xml:id="u350" func="case" head="#u352" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+</lb_n>
+<entity head_tok="#u352" text="ⲧⲉⲩ ⲁⲅⲁⲡⲏ ⲉϩⲟⲩⲉ ⲡ ϫⲟⲉⲓⲥ" entity="abstract">
+<lb_n lb_n="2">
+<orig orig="ⲧⲉⲩ">
+<norm xml:id="u351" func="nmod:poss" head="#u352" pos="PPOS" lemma="ⲡⲉⲩ" norm="ⲧⲉⲩ">
+ⲧⲉⲩ
+</norm>
+</orig>
+<orig orig="ⲁⲅⲁⲡⲉ">
+<norm xml:id="u352" func="nmod" head="#u349" pos="N" lemma="ⲁⲅⲁⲡⲏ" norm="ⲁⲅⲁⲡⲏ">
+<lang lang="Greek">
+ⲁⲅⲁⲡⲉ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉϩⲟⲩⲉⲡϫⲟⲉⲓ̈ⲥ">
+<norm_group norm_group="ⲉϩⲟⲩⲉⲡϫⲟⲉⲓⲥ">
+<orig orig="ⲉϩⲟⲩⲉ">
+<norm xml:id="u353" func="case" head="#u355" pos="PREP" lemma="ⲉϩⲟⲩⲉ" norm="ⲉϩⲟⲩⲉ">
+ⲉϩⲟⲩ
+</lb_n>
+<lb_n lb_n="3">
+ⲉ
+</norm>
+</orig>
+<entity head_tok="#u355" text="ⲡ ϫⲟⲉⲓⲥ" entity="person">
+<orig orig="ⲡ">
+<norm xml:id="u354" func="det" head="#u355" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ϫⲟⲉⲓ̈ⲥ">
+<norm xml:id="u355" func="nmod" head="#u349" pos="N" lemma="ϫⲟⲉⲓⲥ" norm="ϫⲟⲉⲓⲥ">
+ϫⲟⲉⲓ̈ⲥ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</entity>
+</entity>
+<orig_group orig_group="ⲙⲛⲡⲉϥⲛⲟⲙⲟⲥ">
+<norm_group norm_group="ⲙⲛⲡⲉϥⲛⲟⲙⲟⲥ">
+<orig orig="ⲙⲛ">
+<norm xml:id="u356" func="cc" head="#u358" pos="PREP" lemma="ⲙⲛ" norm="ⲙⲛ">
+ⲙⲛ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="4">
+<entity head_tok="#u358" text="ⲡⲉϥ ⲛⲟⲙⲟⲥ" entity="abstract">
+<orig orig="ⲡⲉϥ">
+<norm xml:id="u357" func="nmod:poss" head="#u358" pos="PPOS" lemma="ⲡⲉϥ" norm="ⲡⲉϥ">
+ⲡⲉϥ
+</norm>
+</orig>
+<orig orig="ⲛⲟⲙⲟⲥ">
+<norm xml:id="u358" func="conj" head="#u349" pos="N" lemma="ⲛⲟⲙⲟⲥ" norm="ⲛⲟⲙⲟⲥ">
+<lang lang="Greek">
+ⲛⲟⲙⲟⲥ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲡⲉⲧⲙⲕⲧⲟⲟⲩ">
+<norm_group norm_group="ⲡⲉⲧⲙⲕⲧⲟⲟⲩ">
+<orig orig="ⲡ">
+<norm xml:id="u359" func="appos" head="#u358" pos="COP" lemma="ⲡⲉ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ⲉ">
+<norm xml:id="u360" func="mark" head="#u362" pos="CREL" lemma="ⲉⲧⲉⲣⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="5">
+<orig orig="ⲧⲙ">
+<norm xml:id="u361" func="advmod" head="#u362" pos="NEG" lemma="ⲧⲙ" norm="ⲧⲙ">
+ⲧⲙ
+</norm>
+</orig>
+<orig orig="ⲕⲧⲟ">
+<norm xml:id="u362" func="csubj" head="#u349" pos="V" lemma="ⲕⲧⲟ" norm="ⲕⲧⲟ">
+ⲕⲧⲟ
+</norm>
+</orig>
+<orig orig="ⲟⲩ">
+<norm xml:id="u363" func="obj" head="#u362" pos="PPERO" lemma="ⲛⲧⲟⲟⲩ" norm="ⲟⲩ">
+ⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲃⲟⲗ">
+<norm_group norm_group="ⲉⲃⲟⲗ">
+<orig orig="ⲉⲃⲟⲗ">
+<norm xml:id="u364" func="case" head="#u366" pos="ADV" lemma="ⲉⲃⲟⲗ" norm="ⲉⲃⲟⲗ">
+ⲉⲃⲟⲗ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="6">
+<orig_group orig_group="ⲙⲙⲟϥ">
+<norm_group norm_group="ⲙⲙⲟϥ">
+<orig orig="ⲙⲙⲟ">
+<norm xml:id="u365" func="fixed" head="#u364" pos="PREP" lemma="ⲛ" norm="ⲙⲙⲟ">
+ⲙⲙⲟ
+</norm>
+</orig>
+<orig orig="ϥ">
+<norm xml:id="u366" func="obl" head="#u362" pos="PPERO" lemma="ⲛⲧⲟϥ" norm="ϥ">
+ϥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϩⲛⲛⲉⲩϩⲓ̈ⲥⲉ">
+<norm_group norm_group="ϩⲛⲛⲉⲩϩⲓⲥⲉ">
+<orig orig="ϩⲛ">
+<norm xml:id="u367" func="case" head="#u369" pos="PREP" lemma="ϩⲛ" norm="ϩⲛ">
+ϩⲛ
+</norm>
+</orig>
+<entity head_tok="#u369" text="ⲛⲉⲩ ϩⲓⲥⲉ" entity="abstract">
+<orig orig="ⲛⲉⲩ">
+<norm xml:id="u368" func="nmod:poss" head="#u369" pos="PPOS" lemma="ⲡⲉⲩ" norm="ⲛⲉⲩ">
+ⲛⲉⲩ
+</norm>
+</orig>
+<orig orig="ϩⲓ̈ⲥⲉ">
+<norm xml:id="u369" func="obl" head="#u362" pos="N" lemma="ϩⲓⲥⲉ" norm="ϩⲓⲥⲉ">
+ϩⲓ̈
+</lb_n>
+<lb_n lb_n="7">
+ⲥⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲛⲛⲉⲩⲑⲗⲓ̈ⲯⲓ̈ⲥ">
+<norm_group norm_group="ⲙⲛⲛⲉⲩⲑⲗⲓⲯⲓⲥ">
+<orig orig="ⲙⲛ">
+<norm xml:id="u370" func="cc" head="#u372" pos="PREP" lemma="ⲙⲛ" norm="ⲙⲛ">
+ⲙⲛ
+</norm>
+</orig>
+<entity head_tok="#u372" text="ⲛⲉⲩ ⲑⲗⲓⲯⲓⲥ" entity="abstract">
+<orig orig="ⲛⲉⲩ">
+<norm xml:id="u371" func="nmod:poss" head="#u372" pos="PPOS" lemma="ⲡⲉⲩ" norm="ⲛⲉⲩ">
+ⲛⲉⲩ
+</norm>
+</orig>
+<orig orig="ⲑⲗⲓ̈ⲯⲓ̈ⲥ">
+<norm xml:id="u372" func="conj" head="#u369" pos="N" lemma="ⲑⲗⲓⲯⲓⲥ" norm="ⲑⲗⲓⲯⲓⲥ">
+<lang lang="Greek">
+ⲑⲗⲓ̈ⲯⲓ̈ⲥ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u373" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</chapter_n>
+</translation>
+</verse_n>
+</verse_n>
+<verse_n verse_n="2">
+<translation translation="...">
+<chapter_n chapter_n="15">
+<verse_n verse_n="1">
+<lb_n lb_n="8">
+<orig_group orig_group="ⲛⲑⲉ">
+<norm_group norm_group="ⲛⲧϩⲉ">
+<orig orig="ⲛ">
+<norm xml:id="u374" func="case" head="#u376" new_sent="true" pos="PREP" lemma="ⲛ" norm="ⲛ">
+<hi_rend hi_rend="ekthetic large">
+ⲛ
+</hi_rend>
+</norm>
+</orig>
+<orig orig="ⲑ">
+<norm xml:id="u375" func="det" head="#u376" pos="ART" lemma="ⲡ" norm="ⲧ">
+ⲑ
+</norm>
+</orig>
+<orig orig="ⲉ">
+<norm xml:id="u376" func="root" pos="N" lemma="ϩⲉ" norm="ϩⲉ">
+ⲉ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲧⲁϥϫⲟⲟⲥ">
+<norm_group norm_group="ⲛⲧⲁϥϫⲟⲟⲥ">
+<orig orig="ⲛⲧ">
+<norm xml:id="u377" func="mark" head="#u380" pos="CREL" lemma="ⲉⲧⲉⲣⲉ" norm="ⲛⲧ">
+ⲛⲧ
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm xml:id="u378" func="aux" head="#u380" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ϥ">
+<norm xml:id="u379" func="nsubj" head="#u380" pos="PPERS" lemma="ⲛⲧⲟϥ" norm="ϥ">
+ϥ
+</norm>
+</orig>
+<orig orig="ϫⲟⲟ">
+<norm xml:id="u380" func="acl:relcl" head="#u376" pos="V" lemma="ϫⲱ" norm="ϫⲟⲟ">
+ϫⲟⲟ
+</norm>
+</orig>
+<orig orig="ⲥ">
+<norm xml:id="u381" func="expl" head="#u380" pos="PPERO" lemma="ⲛⲧⲟⲥ" norm="ⲥ">
+ⲥ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϫⲉⲛⲁⲓ">
+<norm_group norm_group="ϫⲉⲛⲁⲓ">
+<orig orig="ϫⲉ">
+<norm xml:id="u382" func="mark" head="#u388" pos="CONJ" lemma="ϫⲉ" norm="ϫⲉ">
+ϫⲉ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="9">
+<entity head_tok="#u383" text="ⲛⲁⲓ ⲧⲏⲣ ⲟⲩ" entity="abstract">
+<orig orig="ⲛⲁⲓ">
+<norm xml:id="u383" func="dislocated" head="#u388" pos="PDEM" lemma="ⲡⲁⲓ" norm="ⲛⲁⲓ">
+ⲛⲁⲓ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲧⲏⲣⲟⲩ">
+<norm_group norm_group="ⲧⲏⲣⲟⲩ">
+<orig orig="ⲧⲏⲣ">
+<norm xml:id="u384" func="obl:unmarked" head="#u383" pos="IMOD" lemma="ⲧⲏⲣ" norm="ⲧⲏⲣ">
+ⲧⲏⲣ
+</norm>
+</orig>
+<orig orig="ⲟⲩ">
+<norm xml:id="u385" func="nmod:poss" head="#u384" pos="PPERO" lemma="ⲛⲧⲟⲟⲩ" norm="ⲟⲩ">
+ⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="ⲁⲩⲉⲓ̈">
+<norm_group norm_group="ⲁⲩⲉⲓ">
+<orig orig="ⲁ">
+<norm xml:id="u386" func="aux" head="#u388" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u387" func="nsubj" head="#u388" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<multiword multiword="ⲉⲓ ⲉϩⲣⲁⲓ">
+<orig orig="ⲉⲓ̈">
+<norm xml:id="u388" func="ccomp" head="#u380" pos="V" lemma="ⲉⲓ" norm="ⲉⲓ">
+ⲉⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="10">
+<orig_group orig_group="ⲉϩⲣⲁⲓ">
+<norm_group norm_group="ⲉϩⲣⲁⲓ">
+<orig orig="ⲉϩⲣⲁⲓ">
+<norm xml:id="u389" func="advmod" head="#u388" pos="ADV" lemma="ⲉϩⲣⲁⲓ" norm="ⲉϩⲣⲁⲓ">
+ⲉϩⲣⲁⲓ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</multiword>
+<orig_group orig_group="ⲉϫⲱⲛ">
+<norm_group norm_group="ⲉϫⲱⲛ">
+<orig orig="ⲉϫⲱ">
+<norm xml:id="u390" func="case" head="#u391" pos="PREP" lemma="ⲉϫⲛ" norm="ⲉϫⲱ">
+ⲉϫⲱ
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm xml:id="u391" func="obl" head="#u388" pos="PPERO" lemma="ⲁⲛⲟⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="2">
+<orig_group orig_group="ⲙⲡⲉⲛⲣⲡⲉⲕⲱⲃϣ">
+<norm_group norm_group="ⲙⲡⲉⲛⲣⲡⲉⲕⲱⲃϣ">
+<orig orig="ⲙⲡⲉ">
+<norm xml:id="u392" func="aux" head="#u394" pos="ANEGPST" lemma="ⲙⲡⲉ" norm="ⲙⲡⲉ">
+ⲙ
+</lb_n>
+<lb_n lb_n="11">
+ⲡⲉ
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm xml:id="u393" func="nsubj" head="#u394" pos="PPERS" lemma="ⲁⲛⲟⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲣ">
+<norm xml:id="u394" func="parataxis" head="#u388" pos="V" lemma="ⲉⲓⲣⲉ" norm="ⲣ">
+ⲣ
+</norm>
+</orig>
+<entity head_tok="#u396" text="ⲡⲉⲕ ⲱⲃϣ" entity="abstract">
+<orig orig="ⲡⲉⲕ">
+<norm xml:id="u395" func="nmod:poss" head="#u396" pos="PPOS" lemma="ⲡⲉⲕ" norm="ⲡⲉⲕ">
+ⲡⲉⲕ
+</norm>
+</orig>
+<orig orig="ⲱⲃϣ">
+<norm xml:id="u396" func="obj" head="#u394" pos="N" lemma="ⲱⲃϣ" norm="ⲱⲃϣ">
+ⲱⲃϣ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u397" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+</chapter_n>
+</translation>
+</verse_n>
+<verse_n verse_n="4">
+<translation translation="...">
+<chapter_n chapter_n="16">
+<verse_n verse_n="1">
+<lb_n lb_n="12">
+<orig_group orig_group="ⲁⲩⲱϫⲉⲙⲙⲣⲣⲉ">
+<norm_group norm_group="ⲁⲩⲱϫⲉⲙⲙⲣⲣⲉ">
+<orig orig="ⲁ">
+<norm xml:id="u398" func="aux" head="#u400" new_sent="true" pos="APST" lemma="ⲁ" norm="ⲁ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u399" func="det" head="#u400" pos="PPERS" lemma="ⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ⲱϫⲉⲙⲙⲣⲣⲉ">
+<norm xml:id="u400" func="root" pos="V" lemma="ⲱϫⲙⲙⲣⲣⲉ" norm="ⲱϫⲙⲙⲣⲣⲉ">
+<morph morph="ⲱϫⲙ">
+ⲱϫⲉⲙ
+</morph>
+<morph morph="ⲙⲣⲣⲉ">
+ⲙⲣⲣⲉ
+</morph>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲛⲣⲉϥⲣⲛⲟⲃⲉ">
+<norm_group norm_group="ⲛⲛⲣⲉϥⲣⲛⲟⲃⲉ">
+<orig orig="ⲛ">
+<norm xml:id="u401" func="case" head="#u403" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<entity head_tok="#u403" text="ⲛ ⲣⲉϥⲣⲛⲟⲃⲉ" entity="person">
+<orig orig="ⲛ">
+<norm xml:id="u402" func="det" head="#u403" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="13">
+<orig orig="ⲣⲉϥⲣⲛⲟⲃⲉ">
+<norm xml:id="u403" func="nmod" head="#u400" pos="N" lemma="ⲣⲉϥⲣⲛⲟⲃⲉ" norm="ⲣⲉϥⲣⲛⲟⲃⲉ">
+<morph morph="ⲣⲉϥ">
+ⲣⲉϥ
+</morph>
+<morph morph="ⲣ">
+ⲣ
+</morph>
+<morph morph="ⲛⲟⲃⲉ">
+ⲛⲟⲃⲉ
+</morph>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</verse_n>
+<verse_n verse_n="2">
+<orig_group orig_group="ⲁⲩϭⲗⲟⲙⲗⲙ">
+<norm_group norm_group="ⲁⲩϭⲗⲟⲙⲗⲙ">
+<orig orig="ⲁ">
+<norm xml:id="u404" func="aux" head="#u406" pos="APST" lemma="ⲁ" norm="ⲁ">
+ⲁ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u405" func="nsubj" head="#u406" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ϭⲗⲟⲙⲗⲙ">
+<norm xml:id="u406" func="parataxis" head="#u400" pos="V" lemma="ϭⲗⲟⲙⲗⲙ" norm="ϭⲗⲟⲙⲗⲙ">
+ϭⲗⲟⲙ
+</lb_n>
+<lb_n lb_n="14">
+ⲗⲙ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲉⲣⲟⲓ̈">
+<norm_group norm_group="ⲉⲣⲟⲓ">
+<orig orig="ⲉⲣⲟ">
+<norm xml:id="u407" func="case" head="#u408" pos="PREP" lemma="ⲉ" norm="ⲉⲣⲟ">
+ⲉⲣⲟ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u408" func="obl" head="#u406" pos="PPERO" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲉⲓ̈ⲣⲡⲱⲃϣ">
+<norm_group norm_group="ⲙⲡⲉⲓⲣⲡⲱⲃϣ">
+<orig orig="ⲙⲡⲉ">
+<norm xml:id="u409" func="aux" head="#u411" pos="ANEGPST" lemma="ⲙⲡⲉ" norm="ⲙⲡⲉ">
+ⲙⲡⲉ
+</norm>
+</orig>
+<orig orig="ⲓ̈">
+<norm xml:id="u410" func="nsubj" head="#u411" pos="PPERS" lemma="ⲁⲛⲟⲕ" norm="ⲓ">
+ⲓ̈
+</norm>
+</orig>
+<multiword multiword="ⲣ ⲡ ⲱⲃϣ">
+<orig orig="ⲣ">
+<norm xml:id="u411" func="parataxis" head="#u406" pos="V" lemma="ⲉⲓⲣⲉ" norm="ⲣ">
+ⲣ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="15">
+<orig orig="ⲡ">
+<norm xml:id="u412" func="det" head="#u413" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ⲱⲃϣ">
+<norm xml:id="u413" func="obj" head="#u411" pos="N" lemma="ⲱⲃϣ" norm="ⲱⲃϣ">
+ⲱⲃϣ
+</norm>
+</orig>
+</multiword>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲉⲕⲛⲟⲙⲟⲥ">
+<norm_group norm_group="ⲙⲡⲉⲕⲛⲟⲙⲟⲥ">
+<orig orig="ⲙ">
+<norm xml:id="u414" func="case" head="#u416" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+<entity head_tok="#u416" text="ⲡⲉⲕ ⲛⲟⲙⲟⲥ" entity="abstract">
+<orig orig="ⲡⲉⲕ">
+<norm xml:id="u415" func="nmod:poss" head="#u416" pos="PPOS" lemma="ⲡⲉⲕ" norm="ⲡⲉⲕ">
+ⲡⲉⲕ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="16">
+<orig orig="ⲛⲟⲙⲟⲥ">
+<norm xml:id="u416" func="nmod" head="#u413" pos="N" lemma="ⲛⲟⲙⲟⲥ" norm="ⲛⲟⲙⲟⲥ">
+<lang lang="Greek">
+ⲛⲟⲙⲟⲥ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u417" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</verse_n>
+</chapter_n>
+</translation>
+</verse_n>
+<verse_n verse_n="5">
+<verse_n verse_n="1">
+<translation translation="...">
+<chapter_n chapter_n="17">
+<lb_n lb_n="17">
+<orig_group orig_group="ⲁⲛⲟⲛ">
+<norm_group norm_group="ⲁⲛⲟⲛ">
+<orig orig="ⲁⲛⲟⲛ">
+<norm xml:id="u418" func="dislocated" head="#u425" new_sent="true" pos="PPERI" lemma="ⲁⲛⲟⲛ" norm="ⲁⲛⲟⲛ">
+<hi_rend hi_rend="ekthetic large">
+ⲁ
+</hi_rend>
+ⲛⲟⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲅⲁⲣ">
+<norm_group norm_group="ⲅⲁⲣ">
+<orig orig="ⲅⲁⲣ">
+<norm xml:id="u419" func="advmod" head="#u425" pos="PTC" lemma="ⲅⲁⲣ" norm="ⲅⲁⲣ">
+<lang lang="Greek">
+ⲅⲁⲣ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲡⲉⲓ̈ⲟⲩⲟⲉⲓ̈ϣ">
+<norm_group norm_group="ⲙⲡⲉⲓⲟⲩⲟⲉⲓϣ">
+<orig orig="ⲙ">
+<norm xml:id="u420" func="case" head="#u422" pos="PREP" lemma="ⲛ" norm="ⲙ">
+ⲙ
+</norm>
+</orig>
+<entity head_tok="#u422" text="ⲡⲉⲓ ⲟⲩⲟⲉⲓϣ" entity="time">
+<orig orig="ⲡⲉⲓ̈">
+<norm xml:id="u421" func="det" head="#u422" pos="PDEM" lemma="ⲡⲉⲓ" norm="ⲡⲉⲓ">
+ⲡⲉⲓ̈
+</norm>
+</orig>
+<orig orig="ⲟⲩⲟⲉⲓ̈ϣ">
+<norm xml:id="u422" func="obl" head="#u425" pos="N" lemma="ⲟⲩⲟⲉⲓϣ" norm="ⲟⲩⲟⲉⲓϣ">
+ⲟⲩ
+</lb_n>
+<lb_n lb_n="18">
+ⲟⲉⲓ̈ϣ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲧⲉⲛⲟⲩ">
+<norm_group norm_group="ⲧⲉⲛⲟⲩ">
+<orig orig="ⲧⲉⲛⲟⲩ">
+<norm xml:id="u423" func="advmod" head="#u425" pos="ADV" lemma="ⲧⲉⲛⲟⲩ" norm="ⲧⲉⲛⲟⲩ">
+ⲧⲉⲛⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛϣⲟⲩϣⲟⲩ">
+<norm_group norm_group="ⲛϣⲟⲩϣⲟⲩ">
+<orig orig="ⲛ">
+<norm xml:id="u424" func="nsubj" head="#u425" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ϣⲟⲩϣⲟⲩ">
+<norm xml:id="u425" func="root" pos="N" lemma="ϣⲟⲩϣⲟⲩ" norm="ϣⲟⲩϣⲟⲩ">
+ϣⲟⲩ
+</lb_n>
+<lb_n lb_n="19">
+ϣⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲙⲟⲛ">
+<norm_group norm_group="ⲙⲙⲟⲛ">
+<orig orig="ⲙⲙⲟ">
+<norm xml:id="u426" func="case" head="#u427" pos="PREP" lemma="ⲛ" norm="ⲙⲙⲟ">
+ⲙⲙⲟ
+</norm>
+</orig>
+<orig orig="ⲛ">
+<norm xml:id="u427" func="obj" head="#u425" pos="PPERO" lemma="ⲁⲛⲟⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ϩⲙⲡⲉⲟⲟⲩ">
+<norm_group norm_group="ϩⲙⲡⲉⲟⲟⲩ">
+<orig orig="ϩⲙ">
+<norm xml:id="u428" func="case" head="#u430" pos="PREP" lemma="ϩⲛ" norm="ϩⲙ">
+ϩⲙ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="20">
+<entity head_tok="#u430" text="ⲡ ⲉⲟⲟⲩ" entity="abstract">
+<orig orig="ⲡ">
+<norm xml:id="u429" func="det" head="#u430" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ⲉⲟⲟⲩ">
+<norm xml:id="u430" func="obl" head="#u425" pos="N" lemma="ⲉⲟⲟⲩ" norm="ⲉⲟⲟⲩ">
+ⲉⲟⲟⲩ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲛⲡⲧⲁⲉⲓ̈ⲟ">
+<norm_group norm_group="ⲙⲛⲡⲧⲁⲉⲓⲟ">
+<orig orig="ⲙⲛ">
+<norm xml:id="u431" func="cc" head="#u433" pos="PREP" lemma="ⲙⲛ" norm="ⲙⲛ">
+ⲙⲛ
+</norm>
+</orig>
+<entity head_tok="#u433" text="ⲡ ⲧⲁⲉⲓⲟ ⲛ ⲛ ⲣⲱⲙⲉ" entity="abstract">
+<orig orig="ⲡ">
+<norm xml:id="u432" func="det" head="#u433" pos="ART" lemma="ⲡ" norm="ⲡ">
+ⲡ
+</norm>
+</orig>
+<orig orig="ⲧⲁⲉⲓ̈ⲟ">
+<norm xml:id="u433" func="conj" head="#u430" pos="N" lemma="ⲧⲁⲉⲓⲟ" norm="ⲧⲁⲉⲓⲟ">
+ⲧⲁ
+</lb_n>
+<lb_n lb_n="21">
+ⲉⲓ̈ⲟ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲛⲣⲱⲙⲉ">
+<norm_group norm_group="ⲛⲛⲣⲱⲙⲉ">
+<orig orig="ⲛ">
+<norm xml:id="u434" func="case" head="#u436" pos="PREP" lemma="ⲛ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<entity head_tok="#u436" text="ⲛ ⲣⲱⲙⲉ" entity="person">
+<orig orig="ⲛ">
+<norm xml:id="u435" func="det" head="#u436" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲣⲱⲙⲉ">
+<norm xml:id="u436" func="nmod" head="#u433" pos="N" lemma="ⲣⲱⲙⲉ" norm="ⲣⲱⲙⲉ">
+ⲣⲱⲙⲉ
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</lb_n>
+</entity>
+</chapter_n>
+</translation>
+</verse_n>
+</verse_n>
+<verse_n verse_n="6">
+<verse_n verse_n="1">
+<translation translation="...">
+<chapter_n chapter_n="18">
+<lb_n lb_n="22">
+<orig_group orig_group="ⲛⲉⲡⲣⲟⲫⲏⲧⲏⲥ">
+<norm_group norm_group="ⲛⲉⲡⲣⲟⲫⲏⲧⲏⲥ">
+<entity head_tok="#u438" text="ⲛⲉ ⲡⲣⲟⲫⲏⲧⲏⲥ" entity="person">
+<orig orig="ⲛⲉ">
+<norm xml:id="u437" func="det" head="#u438" new_sent="true" pos="ART" lemma="ⲡ" norm="ⲛⲉ">
+<hi_rend hi_rend="ekthetic large">
+ⲛ
+</hi_rend>
+ⲉ
+</norm>
+</orig>
+<orig orig="ⲡⲣⲟⲫⲏⲧⲏⲥ">
+<norm xml:id="u438" func="root" pos="N" lemma="ⲡⲣⲟⲫⲏⲧⲏⲥ" norm="ⲡⲣⲟⲫⲏⲧⲏⲥ">
+<lang lang="Greek">
+ⲡⲣⲟⲫⲏⲧⲏⲥ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="23">
+<orig_group orig_group="ⲇⲉ">
+<norm_group norm_group="ⲇⲉ">
+<orig orig="ⲇⲉ">
+<norm xml:id="u439" func="advmod" head="#u438" pos="PTC" lemma="ⲇⲉ" norm="ⲇⲉ">
+<lang lang="Greek">
+ⲇⲉ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲛⲧⲟⲟⲩ">
+<norm_group norm_group="ⲛⲧⲟⲟⲩ">
+<orig orig="ⲛⲧⲟⲟⲩ">
+<norm xml:id="u440" func="nmod:unmarked" head="#u438" pos="PPERI" lemma="ⲛⲧⲟⲟⲩ" norm="ⲛⲧⲟⲟⲩ">
+ⲛⲧⲟⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲙⲛⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<norm_group norm_group="ⲙⲛⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<orig orig="ⲙⲛ">
+<norm xml:id="u441" func="cc" head="#u443" pos="PREP" lemma="ⲙⲛ" norm="ⲙⲛ">
+ⲙⲛ
+</norm>
+</orig>
+</lb_n>
+<lb_n lb_n="24">
+<entity head_tok="#u443" text="ⲛ ⲁⲡⲟⲥⲧⲟⲗⲟⲥ" entity="person">
+<orig orig="ⲛ">
+<norm xml:id="u442" func="det" head="#u443" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<norm xml:id="u443" func="conj" head="#u440" pos="N" lemma="ⲁⲡⲟⲥⲧⲟⲗⲟⲥ" norm="ⲁⲡⲟⲥⲧⲟⲗⲟⲥ">
+<lang lang="Greek">
+ⲁⲡⲟⲥⲧⲟⲗⲟⲥ
+</lang>
+</norm>
+</orig>
+</entity>
+</norm_group>
+</orig_group>
+<orig_group orig_group="·">
+<norm_group norm_group="·">
+<orig orig="·">
+<norm xml:id="u444" func="punct" pos="PUNCT" lemma="·" norm="·">
+·
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+<lb_n lb_n="25">
+<orig_group orig_group="ⲙⲛⲛⲇⲓ̈ⲕⲁⲓⲟⲥ">
+<norm_group norm_group="ⲙⲛⲛⲇⲓⲕⲁⲓⲟⲥ">
+<orig orig="ⲙⲛ">
+<norm xml:id="u445" func="cc" head="#u447" pos="PREP" lemma="ⲙⲛ" norm="ⲙⲛ">
+ⲙⲛ
+</norm>
+</orig>
+<entity head_tok="#u447" text="ⲛ ⲇⲓⲕⲁⲓⲟⲥ ⲧⲏⲣ ⲟⲩ" entity="person">
+<orig orig="ⲛ">
+<norm xml:id="u446" func="det" head="#u447" pos="ART" lemma="ⲡ" norm="ⲛ">
+ⲛ
+</norm>
+</orig>
+<orig orig="ⲇⲓ̈ⲕⲁⲓⲟⲥ">
+<norm xml:id="u447" func="conj" head="#u438" pos="N" lemma="ⲇⲓⲕⲁⲓⲟⲥ" norm="ⲇⲓⲕⲁⲓⲟⲥ">
+<lang lang="Greek">
+ⲇⲓ̈ⲕⲁⲓⲟⲥ
+</lang>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲧⲏⲣⲟⲩ">
+<norm_group norm_group="ⲧⲏⲣⲟⲩ">
+<orig orig="ⲧⲏⲣ">
+<norm xml:id="u448" func="nmod:unmarked" head="#u447" pos="IMOD" lemma="ⲧⲏⲣ" norm="ⲧⲏⲣ">
+ⲧⲏ
+</lb_n>
+<lb_n lb_n="26">
+ⲣ
+</norm>
+</orig>
+<orig orig="ⲟⲩ">
+<norm xml:id="u449" func="nmod:poss" head="#u448" pos="PPERO" lemma="ⲛⲧⲟⲟⲩ" norm="ⲟⲩ">
+ⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</entity>
+<orig_group orig_group="ⲉⲩϣⲟⲩϣⲟⲩ">
+<norm_group norm_group="ⲉⲩϣⲟⲩϣⲟⲩ">
+<orig orig="ⲉ">
+<norm xml:id="u450" func="mark" head="#u452" pos="CCIRC" lemma="ⲉⲣⲉ" norm="ⲉ">
+ⲉ
+</norm>
+</orig>
+<orig orig="ⲩ">
+<norm xml:id="u451" func="nsubj" head="#u452" pos="PPERS" lemma="ⲛⲧⲟⲟⲩ" norm="ⲩ">
+ⲩ
+</norm>
+</orig>
+<orig orig="ϣⲟⲩϣⲟⲩ">
+<norm xml:id="u452" func="acl:relcl" head="#u447" pos="V" lemma="ϣⲟⲩϣⲟⲩ" norm="ϣⲟⲩϣⲟⲩ">
+ϣⲟⲩϣⲟⲩ
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+</lb_n>
+</chapter_n>
+</translation>
+</verse_n>
+</verse_n>
+</chapter_n>
+</cb_n>
+</pb_xml_id>
+</meta>

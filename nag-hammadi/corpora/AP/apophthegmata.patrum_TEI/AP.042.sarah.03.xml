@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.42.monbeg">Apophthegmata Patrum Sahidic 042: Sarah</title>
+<author>unknown</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Caroline T. Schroeder, Janet Timbie, David Sriboonreuang, Amir Zeldes</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Amir Zeldes</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>British Library</repository>
+				<collection>Oriental Manuscripts</collection>
+				<idno>Or. 3581A (44) f. 2r</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="80" to="80">80-80</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 042: Sarah</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960) § 42 (Fragment de Londres)</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="6.2.0" when="2025-11-25"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div1 n="1">
+<div2 type="textpart">
+<p n="1">
+<pb xml:id="EG80"/>
+<cb n="1"/>
+<s style="They said about the blessed Sarah the virgin that she spent sixty years living at the top of the river">
+<lb n="28"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+<hi rend="large ekthetic">
+ⲁ
+</hi>
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ϫⲱ">
+ϫⲟⲟ̇
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉⲧⲃⲉ">
+ⲉ̇ⲧⲃⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ̇
+</w>
+<w type="N" lemma="ⲙⲁⲕⲁⲣⲓⲁ" xml:lang="Greek">
+ⲙⲁⲕⲁ
+<lb n="29"/>
+ⲣⲓ̇ⲁ̇
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲥⲁⲣⲁ" xml:lang="Hebrew">
+ⲥⲁⲣⲁ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲧ̇
+</w>
+<w type="N" lemma="ⲡⲁⲣⲑⲉⲛⲟⲥ" xml:lang="Greek">
+ⲡⲁⲣⲑⲉⲛⲟⲥ
+</w>
+</phr>
+<lb n="30"/>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="V" lemma="ⲉⲓⲣⲉ">
+ⲉⲣ
+</w>
+<w type="NUM" lemma="ⲥⲉ">
+ⲥⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲣⲟⲙⲡⲉ">
+ⲣⲟⲙⲡⲉ
+</w>
+</phr>
+<lb n="31"/>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<w type="VSTAT" lemma="ⲟⲩⲱϩ">
+ⲟⲩⲏ̇ϩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡⲉ
+</w>
+<w type="N" lemma="ⲧⲡⲉ">
+ⲧⲡⲉ
+</w>
+</phr>
+<lb n="32"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲓⲉⲣⲟ">
+ⲓ̇ⲉ̇ⲣⲟ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+·
+</w>
+</phr>
+</s>
+<s style="and she never set foot outside to see the river.">
+<phr>
+<w type="ANEGPST" lemma="ⲙⲡⲉ">
+ⲙ̇ⲡⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+<lb n="33"/>
+<w type="V" lemma="ⲕⲉ">
+ⲕⲉ
+</w>
+<w type="N" lemma="ⲣⲁⲧ">
+ⲣⲁⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ̇
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉ̇ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲛⲉϩ">
+ⲉ̇ⲛⲉϩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+</w>
+<lb n="34"/>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ̇
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲓⲉⲣⲟ">
+ⲓ̇ⲉ̇ⲣⲟ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+ⲻ
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

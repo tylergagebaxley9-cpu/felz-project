@@ -1,0 +1,459 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticDoc:papyri_info.tm82127.cpr_2_237">Letter of Zaleh</title>
+<author>Zaleh</author>
+<respStmt>
+<resp>source</resp>
+<name>http://papyri.info/ddbdp/cpr;2;237</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Caroline T. Schroeder, Amir Zeldes</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Alain Delattre, Caroline T. Schroeder, Amir Zeldes</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>none</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>papyrus</objectType>
+				<country>Egypt</country>
+				<placeName>unknown</placeName>
+				<origPlace>unknown</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 02572</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="none" from="1" to="2">1-2</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Letter of Zaleh</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>CPR 2 237</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="3.0.1" when="2019-10-24"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<p>
+<pb/>
+<lb n="1"/>
+<s style="First, in the name of God. ">
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲣⲁⲛ">
+ⲣⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲛⲟⲩⲧⲉ">
+ⲛⲟⲩⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ϣⲟⲣⲡ">
+ϣⲁⲣⲡ̄
+</w>
+</phr>
+</s>
+<s style="I am Zaleh who is writing.">
+<phr>
+<w type="PPERI" lemma="ⲁⲛⲟⲕ">
+ⲁⲛⲟⲕ
+</w>
+</phr>
+<phr>
+<w type="COP" lemma="ⲡⲉ">
+ⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲍⲁⲗⲉϩ">
+ⲍⲁⲗⲉϩ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V" lemma="ⲥϩⲁⲓ">
+ⲥϩⲁⲓ
+</w>
+</phr>
+</s>
+<s style="What I inquire is of the wellbeing of my beloved brother Chael Iohannes, and all of his men,">
+<lb n="2"/>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+<w type="V" lemma="ϣⲓⲛⲉ">
+ϣⲓⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲡⲁ
+</w>
+<w type="N" lemma="ⲙⲉⲣⲓⲧ">
+ⲙⲉⲣⲓⲧ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲥⲟⲛ">
+ⲥⲟⲛ̄
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲭⲁⲏⲗ">
+ⲭⲁⲏⲗ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲓⲱⲁⲛⲛⲏⲥ">
+ⲓⲱⲁⲛⲛⲏⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="N" lemma="ⲟⲩϫⲁⲓ">
+ⲟⲩ
+<lb n="3"/>
+ϫⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PPOS" lemma="ⲡⲉϥ">
+ⲛⲉϥ
+</w>
+<w type="N" lemma="ⲣⲱⲙⲉ">
+ⲣⲱⲙⲉ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+</s>
+<s style="one by one according to their names.">
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="NUM" lemma="ⲟⲩⲁ">
+ⲟⲩⲁ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="NUM" lemma="ⲟⲩⲁ">
+ⲟⲩⲁ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲕⲁⲧⲁ">
+ⲕⲁⲧⲁ
+</w>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲛⲉⲩ
+</w>
+<w type="N" lemma="ⲣⲁⲛ">
+ⲣⲁⲛ̄
+</w>
+</phr>
+</s>
+<s style="Hereafter do a good deed, receiving a third (of a coin) from Simon, son of Apa Ioule. ">
+<lb n="4"/>
+<phr>
+<w type="PREP" lemma="ⲙⲛⲛⲥⲁ">
+ⲙⲛⲛⲉⲛⲥⲁ
+</w>
+</phr>
+<phr>
+<w type="PDEM" lemma="ⲡⲁⲓ">
+ⲛⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="VIMP" lemma="ⲉⲓⲣⲉ">
+ⲁⲣⲓ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲛⲟⲩϫ">
+ⲛⲟⲩϭ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="VBD" lemma="ⲛⲁⲛⲟⲩ">
+ⲛⲁⲛⲟⲩ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ϫⲓ">
+ϫⲓ
+</w>
+<w type="N" lemma="ⲛⲟⲙⲓⲥⲙⲁ">
+<hi rend="Greek nu subscript below omicron">
+ν
+</hi>
+<hi rend="Greek omicron superscript above nu">
+ο
+</hi>
+</w>
+</phr>
+<phr>
+<w type="NUM" lemma="ⲅ">
+ⲅ⳿
+</w>
+</phr>
+<lb n="5"/>
+<phr>
+<w type="PREP" lemma="ⲛⲧⲉ">
+ⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲥⲓⲙⲱⲛ">
+ⲥⲓⲙⲱⲛ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="NPROP" lemma="ϣⲏⲣⲉ">
+ϣⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲡⲁ">
+ⲁⲡⲁ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲓⲟⲩⲗⲉ">
+ⲓⲟⲩⲗⲉ
+</w>
+</phr>
+</s>
+<s style="Give it to Shenoute, (at) the camelherd, who takes it for me. ">
+<phr>
+<w type="V" lemma="ϯ">
+ⲧⲁⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ϣⲉⲛⲟⲩⲧⲉ">
+ϣⲉⲛⲟⲩⲧⲉ
+</w>
+</phr>
+<lb n="6"/>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲙⲁ">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ϭⲁⲙⲟⲩⲗ">
+ϭⲁⲙⲟⲩⲗ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ϭⲱⲡⲉ">
+ϭⲱⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙⲱ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉⲣⲱ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲕ">
+ⲓ
+</w>
+</phr>
+</s>
+<s style="(Be) safe in God.">
+<phr>
+<w type="V" lemma="ⲟⲩϫⲁⲓ">
+ⲟⲩϫⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩⲙ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϫⲟⲉⲓⲥ">
+ϫⲟⲉⲓⲥ
+</w>
+</phr>
+</s>
+</p>
+<p>
+<pb/>
+<lb n="1"/>
+<s style="Give it to my beloved brother Chael Iohannes. ">
+<phr>
+<w type="V" lemma="ϯ">
+ⲧⲁⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲡⲁ
+</w>
+<w type="N" lemma="ⲙⲉⲣⲓⲧ">
+ⲙⲉⲣⲓⲧ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ
+</w>
+<w type="N" lemma="ⲥⲟⲛ">
+ⲥⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲭⲁⲏⲗ">
+ⲭ
+ⲁⲏⲗ
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲓⲱⲁⲛⲛⲏⲥ">
+ⲓⲱⲁⲛⲛⲏⲥ
+</w>
+</phr>
+</s>
+<s style="(signed) by Zaleh">
+<phr>
+<w type="PREP" lemma="ϩⲓⲧⲛ">
+ϩⲓⲧⲛ
+</w>
+<w type="NPROP" lemma="ⲍⲁⲗⲉϩ">
+ⲍⲁⲗⲉϩ
+</w>
+</phr>
+</s>
+</p>
+</body>
+</text>
+</TEI>

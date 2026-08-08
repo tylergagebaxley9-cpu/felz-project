@@ -1,0 +1,541 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:ap.36.monbeg">Apophthegmata Patrum Sahidic 036</title>
+<author>unknown</author>
+<respStmt>
+<resp>source</resp>
+<name>none</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>Elizabeth Davidson, Amir Zeldes, Caroline T. Schroeder</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Elizabeth Davidson</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>Coptic SCRIPTORIUM</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.EG</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Österreichische Nationalbibliothek</repository>
+				<collection>Papyrussammlung</collection>
+				<idno>K 0321</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.EG" from="73" to="74">73-74</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Apophthegmata Patrum Sahidic 036</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Chaîne (1960)</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="6.2.0" when="2025-11-25"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<div1 n="1">
+<pb xml:id="EG73"/>
+<cb n="2"/>
+<div2 type="textpart">
+<p n="1">
+<s style="They said about Apa Theodoros and Apa Lucius of Enaton that they spent fifty years tricking their thoughts,saying, 'When winter has passed, we will flee this place.'">
+<lb n="24"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+<hi rend="large red ekthetic">
+Ⲁ
+</hi>
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ϫⲱ">
+ϫⲟⲟ̇
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉⲧⲃⲉ">
+ⲉ̇ⲧⲃⲉ
+</w>
+<w type="N" lemma="ⲁⲡⲁ" xml:lang="Hebrew">
+ⲁ̇ⲡⲁ̇
+</w>
+</phr>
+<phr>
+<w type="NPROP" lemma="ⲑⲉⲱⲇⲱⲣⲟⲥ" xml:lang="Greek">
+ⲑⲉ
+<lb n="25"/>
+ⲱ̇ⲇⲱⲣⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙⲛ̇
+</w>
+</phr>
+<phr>
+<w type="N" lemma="ⲁⲡⲁ" xml:lang="Hebrew">
+ⲁ̇ⲡⲁ
+</w>
+</phr>
+<lb n="26"/>
+<phr>
+<w type="NPROP" lemma="ⲗⲟⲩⲕⲓⲁⲛⲟⲥ" xml:lang="Latin">
+ⲗⲟⲩⲕⲓ̇ⲁ̇ⲛⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲛⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="NPROP" lemma="ϩⲉⲛⲁⲧⲟⲛ" xml:lang="Greek">
+ϩⲉ
+<lb n="27"/>
+ⲛⲁⲧⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲉⲓⲣⲉ">
+ⲣ̇
+</w>
+<lb n="28"/>
+<w type="NUM" lemma="ⲧⲁⲓⲟⲩ">
+ⲧⲁⲓ̇ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="N" lemma="ⲣⲟⲙⲡⲉ">
+ⲣⲟⲙⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ̇
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲣϩⲁⲗ">
+<m>
+ⲣ̇
+</m>
+<lb n="29"/>
+<m>
+ϩⲁⲗ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̇
+</w>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲡⲉⲩ
+</w>
+<w type="N" lemma="ⲙⲉⲉⲩⲉ">
+ⲙⲉⲉⲩⲉ̇
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲙⲙⲓⲛⲙⲙⲟ">
+ⲙ
+<lb n="30"/>
+ⲙⲓ̇ⲛⲙ̇ⲙⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=",">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<lb n="31"/>
+<w type="ACOND" lemma="ⲉⲣϣⲁⲛ">
+ⲉ̇ⲣϣⲁⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧⲉ
+</w>
+<w type="N" lemma="ⲡⲣⲱ">
+ⲡⲣⲱ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ⲟⲩⲉⲓⲛⲉ">
+ⲟⲩ
+<lb n="32"/>
+ⲉⲓ̇ⲛⲉ̣
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲧ̣ⲛ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲡⲱⲱⲛⲉ">
+ⲡⲱⲱ
+<lb n="33"/>
+ⲛⲉ̇
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉ̇ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩ̇ⲙ
+</w>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲡⲉⲓ̇
+</w>
+<w type="N" lemma="ⲙⲁ">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="2">
+<s style="And when summer came, they would say, 'When summer ends, we will flee this place.'">
+<lb n="34"/>
+<phr>
+<w type="ACOND" lemma="ⲉⲣϣⲁⲛ">
+<hi rend="large red ekthetic">
+Ⲉ
+</hi>
+ⲣϣⲁⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<w type="N" lemma="ϣⲱⲙ">
+ϣⲱⲙ
+</w>
+</phr>
+<lb n="35"/>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ϣⲱⲡⲉ">
+ϣⲱⲡⲉ
+</w>
+</phr>
+<phr>
+<w type="AAOR" lemma="ϣⲁⲣⲉ">
+ϣⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ϫⲱ">
+ϫⲟ
+<lb n="36"/>
+ⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="red 2_space_right">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="ACOND" lemma="ⲉⲣϣⲁⲛ">
+ⲉ̇ⲣϣⲁⲛ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ̇
+</w>
+<lb n="37"/>
+<w type="N" lemma="ϣⲱⲙ">
+ϣⲱⲙ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ⲡⲁⲣⲁⲅⲉ" xml:lang="Greek">
+ⲡⲁⲣⲁⲅⲉ
+</w>
+</phr>
+<phr>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲧⲛ̇
+</w>
+<lb n="38"/>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲡⲱⲱⲛⲉ">
+ⲡⲱ̇ⲱ̇ⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉ̇ⲃⲟⲗ
+</w>
+</phr>
+<lb n="39"/>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩ̇ⲙ
+</w>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲡⲉⲓ̇
+</w>
+<w type="N" lemma="ⲙⲁ">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+<hi rend="red">
+·ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="3">
+<s style="And this is how they spent their entire lives, these fathers who are remembered forever.">
+<lb n="40"/>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+<hi rend="large red ekthetic">
+Ⲁ
+</hi>
+ⲩⲱ̇
+</w>
+</phr>
+<phr>
+<w type="PDEM" lemma="ⲡⲁⲓ">
+ⲧⲁⲓ̇
+</w>
+</phr>
+<phr>
+<w type="COP" lemma="ⲡⲉ">
+ⲧ̣ⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲑ
+</w>
+<w type="N" lemma="ϩⲉ">
+ⲉ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲛⲦ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<lb n="41"/>
+<w type="V" lemma="ⲉⲓⲣⲉ">
+ⲣ̇
+</w>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲡⲉⲓ̇
+</w>
+<w type="N" lemma="ⲟⲩⲟⲉⲓϣ">
+ⲟⲩⲟ̣ⲉ̣ⲓ̇ϣ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲧⲏⲣ">
+ⲧⲏⲣ̇
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+</phr>
+<lb n="42"/>
+<phr>
+<w type="PTC" lemma="ⲛϭⲓ">
+ⲛ̇ϭⲓ̇
+</w>
+<w type="PPOS" lemma="ⲡⲉⲛ">
+ⲛⲉⲛ
+</w>
+<w type="N" lemma="ⲉⲓⲱⲧ">
+ⲉⲓ̇ⲟⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+<hi rend="red">
+·
+</hi>
+</w>
+</phr>
+<phr>
+<w type="PDEM" lemma="ⲡⲁⲓ">
+ⲛⲁⲓ̇
+</w>
+</phr>
+<pb xml:id="EG74"/>
+<cb n="1"/>
+<lb n="1"/>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟ
+<hi rend="large red ">
+Ⲩ
+</hi>
+</w>
+<w type="V" lemma="ⲉⲓⲣⲉ">
+ⲉⲓ̇ⲣⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̇
+</w>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲡⲉ
+<hi rend="large red">
+Ⲩ
+</hi>
+</w>
+<w type="N" lemma="ⲙⲉⲉⲩⲉ">
+ⲙⲉ
+<lb n="2"/>
+ⲉ̇ⲩⲉ̇
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̇
+</w>
+<w type="PREP" lemma="ϣⲁ">
+ϣⲁ
+</w>
+<w type="ADV" lemma="ⲉⲛⲉϩ">
+ⲉ̇ⲛⲉϩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+<hi rend="red">
+·ⲻ
+</hi>
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,2013 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title ref="urn:cts:copticLit:besa.exhortations.monbba">Exhortations</title>
+<author>Besa</author>
+<respStmt>
+<resp>source</resp>
+<name>SFB 1136 &amp;quot;Bildung und Religion&amp;quot;, Coptic SCRIPTORIUM, KELLIA</name>
+</respStmt>
+<respStmt>
+<resp>annotation</resp>
+<name>So Miyagawa, Julien Delhez, Heike Behlmer, Amir Zeldes, Caroline T. Schroeder</name>
+</respStmt>
+<respStmt>
+<resp>translation</resp>
+<name>Amir Zeldes, Heike Behlmer</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+	<authority>SFB 1136 Bildung und Religion, Coptic SCRIPTORIUM, KELLIA</authority>
+	<availability>
+		<licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+	</availability>
+</publicationStmt>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<msName>MONB.BA</msName>
+		</msIdentifier>
+		<history>
+			<origin>
+				<objectType>codex</objectType>
+				<country>Egypt</country>
+				<placeName>Atripe</placeName>
+				<origPlace>White Monastery</origPlace>
+				<origDate></origDate>
+			</origin>
+		</history>
+		<msPart>
+			<msIdentifier>
+				<repository>Biblioteca Nazionale di Napoli</repository>
+				<collection>Borgia Collection</collection>
+				<idno>IB 6/378 f. 5</idno>
+			</msIdentifier>
+			<msContents>
+				<msItem>
+					<locus scheme="MONB.BA" from="61" to="62">61-62</locus>
+					<textLang>Sahidic Coptic</textLang>
+					<incipit/>
+					<title>Exhortations</title>
+				</msItem>
+			</msContents>
+		</msPart>
+	</msDesc>
+	<listBibl>
+		<bibl>Kuhn (1956) [Fragment 2] (Exhortations) p. 4</bibl>
+	</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<p>This file encoded to comply with EpiDoc Guidelines and
+	Schema.<ref>http://sourceforge.net/p/epidoc/</ref></p>
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language ident="cop">Sahidic Coptic</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change n="6.0.0" when="2024-10-31"></change>
+</revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<pb xml:id="BA61"/>
+<div1 n="1">
+<div2 type="textpart">
+<p n="1">
+<cb n="1"/>
+<s style="world, as we walk in defilement and drunkenness and reveling and drinking and defiled idol worship. (1 Pet 4:3)">
+<lb n="1"/>
+<phr>
+<w type="N" lemma="ⲕⲟⲥⲙⲟⲥ" xml:lang="Greek">
+[ⲕⲟ]ⲥⲙⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="V" lemma="ⲙⲟⲟϣⲉ">
+ⲙⲟⲟ
+<lb n="2"/>
+ϣⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<w type="N" lemma="ϫⲱϩⲙ">
+ϫⲱϩⲙ̄
+</w>
+</phr>
+<lb n="3"/>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<w type="N" lemma="ϯϩⲉ">
+ϯϩⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<lb n="4"/>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<w type="N" lemma="ϫⲏⲣ">
+ϫⲏⲣ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<lb n="5"/>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<w type="N" lemma="ⲥⲱ">
+ⲥⲱ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲡ">
+ⲙ̄
+</w>
+<w type="N" lemma="ⲙⲛⲧⲣⲉϥϣⲙϣⲉⲉⲓⲇⲱⲗⲟⲛ">
+<lb n="6"/>
+<m>
+ⲙ︤ⲛ︦ⲧ︥
+</m>
+<m>
+ⲣⲉϥ
+</m>
+<m>
+ϣⲙ̄︥
+<lb n="7"/>
+ϣⲉ
+</m>
+<m xml:lang="Greek">
+ⲉⲓⲇⲱⲗⲟⲛ
+</m>
+</w>
+</phr>
+<lb n="8"/>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="VSTAT" lemma="ϫⲱϩⲙ">
+ϫⲁϩ︤ⲙ︥
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="As we walk in wickedness and envy, becoming hated as we hate each other.">
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<lb n="9"/>
+<w type="V" lemma="ⲙⲟⲟϣⲉ">
+ⲙⲟⲟϣⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<lb n="10"/>
+<w type="N" lemma="ⲕⲁⲕⲓⲁ" xml:lang="Greek">
+ⲕⲁⲕⲓⲁ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<lb n="11"/>
+<w type="N" lemma="ⲫⲑⲟⲛⲟⲥ" xml:lang="Greek">
+ⲫⲑⲟⲛⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<lb n="12"/>
+<w type="VSTAT" lemma="ⲉⲓⲣⲉ">
+ⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="N" lemma="ⲙⲉⲥⲧⲉ">
+ⲙⲉⲥⲧⲉ
+</w>
+</phr>
+<lb n="13"/>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="V" lemma="ⲙⲟⲥⲧⲉ">
+ⲙⲟⲥⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<lb n="14"/>
+<w type="PPOS" lemma="ⲡⲉⲛ">
+ⲛⲉⲛ
+</w>
+<w type="N" lemma="ⲉⲣⲏⲩ">
+ⲉⲣⲏⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="As we become disobedient and stray. (Titus 3:3)">
+<lb n="15"/>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="VSTAT" lemma="ⲉⲓⲣⲉ">
+ⲟ̂
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ
+</w>
+<w type="N" lemma="ⲁⲧⲥⲱⲧⲙ">
+<m>
+ⲁⲧ
+</m>
+<m>
+ⲥⲱ
+<lb n="16"/>
+ⲧ︤ⲙ︥
+</m>
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="V" lemma="ⲡⲗⲁⲛⲁ" xml:lang="Greek">
+ⲡⲗⲁ
+<lb n="17"/>
+ⲛⲁ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="As we walk in the vanity of our heart and become dark in our thoughts.">
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="V" lemma="ⲙⲟⲟϣⲉ">
+ⲙⲟⲟ
+<lb n="18"/>
+ϣⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲙ">
+ϩ︤ⲙ︥
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲡⲉⲧϣⲟⲩⲉⲓⲧ">
+<m>
+ⲡ
+</m>
+<m>
+ⲉⲧ
+</m>
+<lb n="19"/>
+<m>
+ϣⲟⲩⲉⲓⲧ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="PPOS" lemma="ⲡⲉⲛ">
+ⲡⲉ⳯
+</w>
+<lb n="20"/>
+<w type="N" lemma="ϩⲏⲧ">
+ϩⲏⲧ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="VSTAT" lemma="ⲉⲓⲣⲉ">
+ⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<lb n="21"/>
+<w type="N" lemma="ⲕⲁⲕⲉ">
+ⲕⲁⲕⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ϩ︤ⲛ︥
+</w>
+<w type="PPOS" lemma="ⲡⲉⲛ">
+ⲛⲉⲛ
+</w>
+<lb n="22"/>
+<w type="N" lemma="ⲙⲉⲉⲩⲉ">
+ⲙⲉⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="As we become alienated from the life of God because of the ignorance that is inside us because of our obstinacy.">
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<lb n="23"/>
+<w type="VSTAT" lemma="ⲉⲓⲣⲉ">
+ⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="N" lemma="ⲁⲗⲗⲟⲧⲣⲓⲟⲥ" xml:lang="Greek">
+ⲁⲗⲗⲟⲧⲣⲓ
+<lb n="24"/>
+ⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲱⲛϩ">
+ⲱⲛ︤ϩ︥
+</w>
+</phr>
+<lb n="25"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲛⲟⲩⲧⲉ">
+ⲛⲟⲩⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=",">
+,
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉⲧⲃⲉ">
+ⲉ
+<lb n="26"/>
+ⲧⲃⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ︤
+</w>
+<w type="N" lemma="ⲙⲛⲧⲁⲧⲥⲟⲟⲩⲛ">
+<m>
+ⲙ︦ⲛ︦ⲧ︥
+</m>
+<m>
+ⲁⲧ
+</m>
+<lb n="27"/>
+<m>
+ⲥⲟⲟⲩⲛ
+</m>
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="VSTAT" lemma="ϣⲱⲡⲉ">
+ϣⲟ
+<lb n="28"/>
+ⲟⲡ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ⲛ̄ϩⲏⲧ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+ⲛ̄︥
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉⲧⲃⲉ">
+ⲉ
+<lb n="29"/>
+ⲧⲃⲉ
+</w>
+<w type="PPOS" lemma="ⲡⲉⲛ">
+ⲡⲉⲛ
+</w>
+<w type="N" lemma="ⲧⲱⲛ">
+ⲧⲱⲛ
+</w>
+</phr>
+<cb n="2"/>
+<lb n="1"/>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="N" lemma="ϩⲏⲧ">
+ϩⲏⲧ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="As we have given over to defilement and doing every impure thing.">
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="V" lemma="ϯ">
+ⲧⲁ
+<lb n="2"/>
+ⲁ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ⲙⲙⲓⲛⲙⲙⲟ">
+ⲙ̄ⲙⲓⲛⲙ̄ⲙⲟ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+⳯
+</w>
+</phr>
+<lb n="3"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϫⲱϩⲙ">
+ϫⲱϩ︤ⲙ︥
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙ︤ⲛ︥
+</w>
+<lb n="4"/>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲣϩⲱⲃ">
+<m>
+ⲣ̄
+</m>
+<m>
+ϩⲱⲃ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="N" lemma="ⲁⲕⲁⲑⲁⲣⲥⲓⲁ" xml:lang="Greek">
+ⲁⲕⲁ
+<lb n="5"/>
+ⲑⲁⲣⲥⲓⲁ
+</w>
+</phr>
+<phr>
+<w type="PINT" lemma="ⲛⲓⲙ">
+ⲛⲓⲙ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="2">
+<s style="But now it is not in this way that we were taught. (Eph 4:17-20)">
+<lb n="6"/>
+<phr>
+<w type="ADV" lemma="ⲧⲉⲛⲟⲩ">
+<hi rend="ekthetic">
+ⲧ
+</hi>
+ⲉⲛⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲛ̄
+<lb n="7"/>
+ⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲧⲥⲁⲃⲟ">
+ⲧⲥⲁⲃⲟ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+</phr>
+<lb n="8"/>
+<phr>
+<w type="NEG" lemma="ⲁⲛ">
+ⲁⲛ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲧⲉⲓ̈
+</w>
+<w type="N" lemma="ϩⲉ">
+ϩⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="But rather what was taught to us is to do something for our salvation in fear and trembling.">
+<lb n="9"/>
+<phr>
+<w type="CONJ" lemma="ⲁⲗⲗⲁ" xml:lang="Greek">
+ⲁⲗⲗⲁ
+</w>
+</phr>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<lb n="10"/>
+<w type="V" lemma="ϯⲥⲃⲱ">
+<m>
+ϯ
+</m>
+<m>
+ⲥⲃⲱ̂
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<lb n="11"/>
+<w type="PREP" lemma="ϩⲛ">
+ϩ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ϩⲟⲧⲉ">
+ϩⲟⲧⲉ
+</w>
+</phr>
+<lb n="12"/>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ⲟⲩ
+</w>
+<w type="N" lemma="ⲥⲧⲱⲧ">
+ⲥⲧⲱⲧ⳿
+</w>
+</phr>
+<lb n="13"/>
+<phr>
+<w type="VIMP" lemma="ⲣϩⲱⲃ">
+<m>
+ⲁⲣⲓ
+</m>
+<m>
+ϩⲱⲃ
+</m>
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="PPOS" lemma="ⲡⲉⲧⲛ">
+ⲡⲉ
+<lb n="14"/>
+ⲧ︤ⲛ︥
+</w>
+<w type="N" lemma="ⲟⲩϫⲁⲓ">
+ⲟⲩϫⲁⲓ̈
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+<s style="For God is the one who enacts the will and the fulfillment of the will. (Phil 2:12-13)">
+<lb n="15"/>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲛⲟⲩⲧⲉ">
+ⲛⲟⲩⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲅⲁⲣ" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<lb n="16"/>
+<phr>
+<w type="COP" lemma="ⲡⲉ">
+ⲡ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="V" lemma="ⲉⲛⲉⲣⲅⲉⲓ" xml:lang="Greek">
+ⲉⲛⲉⲣⲅⲉⲓ
+</w>
+</phr>
+<lb n="17"/>
+<phr>
+<w type="PREP" lemma="ϩⲛ">
+ⲛ̄ϩⲏⲧ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲱⲧⲛ">
+ⲧⲏⲩⲧⲛ̄
+</w>
+</phr>
+<lb n="18"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲟⲩⲱϣ">
+ⲟⲩⲱϣ⳿
+</w>
+</phr>
+<lb n="19"/>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲙ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϫⲱⲕ">
+ϫⲱⲕ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ⲉⲃⲟⲗ">
+ⲉ
+<lb n="20"/>
+ⲃⲟⲗ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲟⲩⲱϣ">
+ⲟⲩ
+<lb n="21"/>
+ⲱϣ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+<div1 n="2">
+<div2 type="textpart">
+<p n="1">
+<s style="And indeed the children of Israel, Moses saw them at that time in the way that they hastened to forget the commandments of God.">
+<lb n="22"/>
+<phr>
+<w type="CONJ" lemma="ⲕⲁⲓ" xml:lang="Greek">
+<hi rend="ekthetic">
+ⲕ
+</hi>
+ⲁⲓ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲅⲁⲣ" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<w type="N" lemma="ϣⲏⲣⲉ">
+ϣⲏⲣⲉ
+</w>
+</phr>
+<lb n="23"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ︤
+</w>
+<w type="NPROP" lemma="ⲓⲥⲣⲁⲏⲗ" xml:lang="Hebrew">
+ⲓ︦ⲏ︦ⲗ︥
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="PDEM" lemma="ⲡⲉⲓ">
+ⲡⲓ
+</w>
+<lb n="24"/>
+<w type="N" lemma="ⲟⲩⲟⲉⲓϣ">
+ⲟⲩⲟⲉⲓϣ
+</w>
+</phr>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="NPROP" lemma="ⲙⲱⲩⲥⲏⲥ" xml:lang="Hebrew">
+ⲙⲱ
+<lb n="25"/>
+ⲩ̈ⲥⲏⲥ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉⲣⲟ
+</w>
+<lb n="26"/>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲑ
+</w>
+<w type="N" lemma="ϩⲉ">
+ⲉ
+</w>
+</phr>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+<lb n="27"/>
+<w type="V" lemma="ϭⲉⲡⲏ">
+ϭⲉⲡⲏ̂
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="V" lemma="ⲉⲓⲣⲉ">
+ⲣ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲱⲃϣ">
+ⲱ
+<lb n="28"/>
+ⲃ︤ϣ︥
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<w type="N" lemma="ⲉⲛⲧⲟⲗⲏ" xml:lang="Greek">
+ⲉⲛⲧⲟ
+<lb n="29"/>
+ⲗⲏ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲛⲟⲩⲧⲉ">
+ⲛⲟⲩⲧⲉ
+</w>
+</phr>
+</s>
+<pb xml:id="BA62"/>
+<cb n="1"/>
+<s style="He commanded them to make fringes at the wings of their garments so that they might see them and think of the commandments of God and not forget them. (cf. Num 15:38-39)">
+<lb n="1"/>
+<phr>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟϥ">
+ϥ
+</w>
+<w type="V" lemma="ⲟⲩⲉϩⲥⲁϩⲛⲉ">
+<m>
+ⲟⲩⲉϩ
+</m>
+<m>
+ⲥⲁϩⲛⲉ
+</m>
+</w>
+</phr>
+<lb n="2"/>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ACAUS" lemma="ⲧⲣⲉ">
+ⲧⲣⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲧⲁⲙⲓⲟ">
+ⲧⲁ
+<lb n="3"/>
+ⲙⲓⲟ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲟⲩ">
+ϩⲉⲛ
+</w>
+<w type="N" lemma="ⲧⲱⲧⲉ">
+ⲧⲱ
+<lb n="4"/>
+ⲱⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉϫⲛ">
+ⲉϫ︤ⲛ︥
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<lb n="5"/>
+<w type="N" lemma="ⲧⲛϩ">
+ⲧ︤ⲛ︦ϩ︥
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲛⲉⲩ
+</w>
+<w type="N" lemma="ϩⲟⲉⲓⲧⲉ">
+ϩⲟ
+<lb n="6"/>
+ⲉⲓⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=",">
+,
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉⲕⲁⲥ">
+ϫⲉⲕⲁⲥ
+</w>
+</phr>
+<lb n="7"/>
+<phr>
+<w type="CFOC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="FUT" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="V" lemma="ⲛⲁⲩ">
+ⲛⲁⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉⲣⲟ
+</w>
+<lb n="8"/>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲟⲩ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ̄
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="V" lemma="ⲉⲓⲣⲉ">
+ⲣ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲙⲉⲉⲩⲉ">
+ⲙⲉ
+<lb n="9"/>
+ⲉⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<w type="N" lemma="ⲉⲛⲧⲟⲗⲏ" xml:lang="Greek">
+ⲉⲛⲧⲟ
+<lb n="10"/>
+ⲗⲏ̂
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲛⲟⲩⲧⲉ">
+ⲛⲟⲩⲧⲉ
+</w>
+</phr>
+<phr>
+<lb n="11"/>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ̄
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲥⲉ
+</w>
+<w type="NEG" lemma="ⲧⲙ">
+ⲧ︤ⲙ︥
+</w>
+<w type="V" lemma="ⲉⲓⲣⲉ">
+ⲣ̄
+</w>
+<w type="PPOS" lemma="ⲡⲉⲩ">
+ⲡⲉⲩ
+</w>
+<lb n="12"/>
+<w type="N" lemma="ⲱⲃϣ">
+ⲱⲃ︤ϣ︥
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=":">
+:
+</w>
+</phr>
+</s>
+<s style="Now let us too place the fear of God in our heart instead of the fringes, so that we do not forget the commandments that our fathers entrusted to us.">
+<lb n="13"/>
+<phr>
+<w type="PPERI" lemma="ⲁⲛⲟⲛ">
+<hi rend="ekthetic">
+ⲁ
+</hi>
+ⲛⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="IMOD" lemma="ϩⲱⲱ">
+ϩⲱⲱ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+⳯
+</w>
+</phr>
+<lb n="14"/>
+<phr>
+<w type="AJUS" lemma="ⲙⲁⲣⲉ">
+ⲙⲁⲣ︤
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ︥
+</w>
+<w type="V" lemma="ⲕⲱ">
+ⲕⲱ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲁ">
+ⲛⲁ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+⳯
+</w>
+</phr>
+<lb n="15"/>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲑ
+</w>
+<w type="N" lemma="ϩⲟⲧⲉ">
+ⲟⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲙ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲛⲟⲩⲧⲉ">
+ⲛ
+<hi rend="superscript">
+ⲟ
+</hi>
+ⲩ
+<lb n="16"/>
+ⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲙ">
+ϩ︤ⲙ︥
+</w>
+<w type="PPOS" lemma="ⲡⲉⲛ">
+ⲡⲉⲛ
+</w>
+<w type="N" lemma="ϩⲏⲧ">
+ϩⲏⲧ
+</w>
+</phr>
+<lb n="17"/>
+<phr>
+<w type="PREP" lemma="ⲉ">
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲙⲁ">
+ⲙⲁ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<w type="N" lemma="ⲧⲱⲧⲉ">
+ⲧⲱ
+<lb n="18"/>
+ⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉⲕⲁⲥ">
+ϫⲉⲕⲁⲥ
+</w>
+</phr>
+<phr>
+<w type="ANEGOPT" lemma="ⲛⲛⲉ">
+ⲛ̄
+<lb n="19"/>
+ⲛⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="V" lemma="ⲉⲓⲣⲉ">
+ⲣ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲱⲃϣ">
+ⲱⲃ︤ϣ︥
+</w>
+</phr>
+<lb n="20"/>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ̄
+</w>
+<w type="N" lemma="ⲉⲛⲧⲟⲗⲏ" xml:lang="Greek">
+ⲉⲛⲧⲟⲗⲏ̂
+</w>
+</phr>
+<phr>
+<lb n="21"/>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPOS" lemma="ⲡⲉⲛ">
+ⲛⲉⲛ
+</w>
+<w type="N" lemma="ⲉⲓⲱⲧ">
+ⲉⲓ
+<lb n="22"/>
+ⲟⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ϯ">
+ⲧⲁⲁ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲉⲧⲛ">
+ⲉ
+<lb n="23"/>
+ⲧⲟⲟⲧ︤
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+ⲛ︥
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=":">
+:
+</w>
+</phr>
+</s>
+</p>
+</div2>
+<div2 type="textpart">
+<p n="2">
+<s style="Therefore brothers let us turn around and repent while the opportunity is not yet lost for us, and while the light is still with us, which is the teachings of our fathers.">
+<lb n="24"/>
+<phr>
+<w type="PREP" lemma="ⲉⲧⲃⲉ">
+<hi rend="ekthetic">
+ⲉ
+</hi>
+ⲧⲃⲉ
+</w>
+<w type="PDEM" lemma="ⲡⲁⲓ">
+ⲡⲁⲓ̈
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ϭⲉ">
+ϭⲉ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛⲉ
+</w>
+<lb n="25"/>
+<w type="N" lemma="ⲥⲟⲛ">
+ⲥⲛⲏⲩ
+</w>
+</phr>
+<phr>
+<w type="AJUS" lemma="ⲙⲁⲣⲉ">
+ⲙⲁⲣ︤
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ︥
+</w>
+<lb n="26"/>
+<w type="V" lemma="ⲕⲧⲟ">
+ⲕⲧⲟ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+</phr>
+<phr>
+<w type="ACONJ" lemma="ⲛⲧⲉ">
+ⲛ̄
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲧⲛ̄
+</w>
+<lb n="27"/>
+<w type="V" lemma="ⲙⲉⲧⲁⲛⲟⲉⲓ" xml:lang="Greek">
+ⲙⲉⲧⲁⲛⲟⲉⲓ
+</w>
+</phr>
+<phr>
+<lb n="28"/>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="ANY" lemma="ⲙⲡⲁⲧⲉ">
+ⲙⲡⲁⲧⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲕⲁⲓⲣⲟⲥ" xml:lang="Greek">
+ⲕⲁⲓ
+<lb n="29"/>
+ⲣⲟⲥ
+</w>
+</phr>
+<phr>
+<w type="V" lemma="ⲱϫⲛ">
+ⲱϫ︤ⲛ︥
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛⲧⲛ">
+ⲛ̄ⲧⲟ
+<cb n="2"/>
+<lb n="1"/>
+ⲟⲧ︤
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+ⲛ︥
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϩⲱⲥ" xml:lang="Greek">
+ϩⲱⲥ
+</w>
+</phr>
+<lb n="2"/>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉⲣⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲟⲩⲟⲉⲓⲛ">
+ⲟⲩⲟⲉⲓ⳯
+</w>
+</phr>
+<lb n="3"/>
+<phr>
+<w type="VSTAT" lemma="ϣⲱⲡⲉ">
+ϣⲟⲟⲡ⳿
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙⲛ">
+ⲛ︤ⲙ︥ⲙⲁ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+⳯
+</w>
+</phr>
+<phr>
+<lb n="4"/>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛⲉ
+</w>
+<w type="N" lemma="ⲥⲃⲟ">
+ⲥⲃⲟ
+<lb n="5"/>
+ⲟⲩⲉ
+</w>
+</phr>
+<phr>
+<w type="COP" lemma="ⲡⲉ">
+ⲛⲉ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="PPOS" lemma="ⲡⲉⲛ">
+ⲛⲉ⳯
+</w>
+<lb n="6"/>
+<w type="N" lemma="ⲉⲓⲱⲧ">
+ⲉⲓⲟⲧⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+</s>
+<s style="In the way that the Lord said: 'Walk as long as you have the light so that the darkness does not overtake you.' (Jn 12:35)">
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲑ
+</w>
+<w type="N" lemma="ϩⲉ">
+ⲉ
+</w>
+</phr>
+<lb n="7"/>
+<phr>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+<hi rend="diple on left">
+ⲉ
+</hi>
+ⲛⲧ
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϫⲟⲉⲓⲥ">
+ϫⲟⲓ̈ⲥ
+</w>
+</phr>
+<lb n="8"/>
+<phr>
+<w type="V" lemma="ϫⲱ">
+<hi rend="diple on left">
+ϫ
+</hi>
+ⲟⲟ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲟⲥ">
+ⲥ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="V" lemma="ⲙⲟⲟϣⲉ">
+ⲙⲟ
+<lb n="9"/>
+<hi rend="diple on left">
+ⲟ
+</hi>
+ϣⲉ
+</w>
+</phr>
+<phr>
+<w type="ADV" lemma="ϩⲟⲥⲟⲛ" xml:lang="Greek">
+ϩⲟⲥⲟⲛ
+</w>
+</phr>
+<lb n="10"/>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+<hi rend="diple on left">
+ⲉ
+</hi>
+</w>
+<w type="EXIST" lemma="ⲟⲩⲛⲧⲉ">
+ⲟⲩⲛ̄ⲧⲏ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲱⲧⲛ">
+ⲧ︤ⲛ̄︥
+</w>
+</phr>
+<lb n="11"/>
+<phr>
+<w type="ART" lemma="ⲡ">
+<hi rend="diple on left">
+ⲡ
+</hi>
+</w>
+<w type="N" lemma="ⲟⲩⲟⲉⲓⲛ">
+ⲟⲩⲟⲉⲓⲛ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<lb n="12"/>
+<w type="ANEGOPT" lemma="ⲛⲛⲉ">
+<hi rend="diple on left">
+ⲛ
+</hi>
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ⲕⲁⲕⲉ">
+ⲕⲁⲕⲉ
+</w>
+</phr>
+<lb n="13"/>
+<phr>
+<w type="V" lemma="ⲧⲁϩⲟ">
+<hi rend="diple on left">
+ⲧ
+</hi>
+ⲁϩⲉ
+</w>
+<w type="PPERO" lemma="ⲛⲧⲱⲧⲛ">
+ⲧⲏⲩⲧ︤ⲛ̄︥
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=":">
+:
+</w>
+</phr>
+</s>
+<s style="And: 'As we are in the day, let us walk while we are in propriety.' (Rom 13:13)">
+<lb n="14"/>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="CONJ" lemma="ϫⲉ">
+ϫⲉ
+</w>
+<w type="CONJ" lemma="ϩⲱⲥ" xml:lang="Greek">
+ϩⲱⲥ
+</w>
+</phr>
+<phr>
+<lb n="15"/>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+<hi rend="diple on left">
+ⲉ
+</hi>
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="PREP" lemma="ϩⲙ">
+ϩ︤ⲙ︥
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡⲉ
+</w>
+<w type="N" lemma="ϩⲟⲟⲩ">
+ϩⲟ
+<lb n="16"/>
+<hi rend="diple on left">
+ⲟ
+</hi>
+ⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=",">
+,
+</w>
+</phr>
+<phr>
+<w type="AJUS" lemma="ⲙⲁⲣⲉ">
+ⲙⲁⲣ︤
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ︥
+</w>
+<w type="V" lemma="ⲙⲟⲟϣⲉ">
+ⲙⲟ
+<lb n="17"/>
+ⲟϣⲉ
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="VSTAT" lemma="ⲧⲥⲁⲛⲟ">
+ⲧⲥⲁ
+<lb n="18"/>
+<hi rend="diple on left">
+ⲛ
+</hi>
+ⲏⲩ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="And: 'Those that sleep, it's at night that they sleep.">
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<lb n="19"/>
+<w type="CONJ" lemma="ϫⲉ">
+<hi rend="diple on left">
+ϫ
+</hi>
+ⲉ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="V" lemma="ⲛⲕⲟⲧⲕ">
+ⲛ︦ⲕⲟ
+<lb n="20"/>
+<hi rend="diple on left">
+ⲧ
+</hi>
+︤ⲕ︥
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲅⲁⲣ" xml:lang="Greek">
+ⲅⲁⲣ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="V" lemma="ⲛⲕⲟⲧⲕ">
+ⲛ︤̄ⲕ︥ⲟ
+<lb n="21"/>
+<hi rend="diple on left">
+ⲧ
+</hi>
+︤ⲕ︥
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲙ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧⲉ
+</w>
+<w type="N" lemma="ⲟⲩϣⲏ">
+ⲩϣⲏ̂
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="And those that are drunk, it is at night that they are drunk.">
+<lb n="22"/>
+<phr>
+<w type="CONJ" lemma="ⲁⲩⲱ">
+ⲁⲩⲱ
+</w>
+</phr>
+<phr>
+<w type="ART" lemma="ⲡ">
+ⲛ
+</w>
+<w type="CREL" lemma="ⲉⲧⲉⲣⲉ">
+ⲉⲧ
+</w>
+<w type="VSTAT" lemma="ⲧⲁϩⲟ">
+ⲧⲁ
+<lb n="23"/>
+<hi rend="diple on left">
+ϩ
+</hi>
+ⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma=".">
+.
+</w>
+</phr>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+ⲉ
+</w>
+<w type="PPERS" lemma="ⲛⲧⲟⲟⲩ">
+ⲩ
+</w>
+<w type="VSTAT" lemma="ⲧⲁϩⲟ">
+ⲧⲁϩⲉ
+</w>
+</phr>
+<lb n="24"/>
+<phr>
+<w type="PREP" lemma="ⲙ">
+<hi rend="diple on left">
+ⲛ
+</hi>
+̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧⲉ
+</w>
+<w type="N" lemma="ⲟⲩϣⲏ">
+ⲩϣⲏ̂
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+</s>
+<s style="But we are of the day, let us be sober as we don the armor of faith.' (1 Thess 5:7-8)">
+<lb n="25"/>
+<phr>
+<w type="PPERI" lemma="ⲁⲛⲟⲛ">
+<hi rend="diple on left">
+ⲁ
+</hi>
+ⲛⲟⲛ
+</w>
+</phr>
+<phr>
+<w type="PTC" lemma="ⲇⲉ" xml:lang="Greek">
+ⲇⲉ
+</w>
+</phr>
+<phr>
+<w type="PPERI" lemma="ⲁⲛⲟⲛ">
+ⲁⲛⲟ⳯
+</w>
+</phr>
+<lb n="26"/>
+<phr>
+<w type="PPOS" lemma="ⲡⲁ">
+ⲛⲁ
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡⲉ
+</w>
+<w type="N" lemma="ϩⲟⲟⲩ">
+ϩⲟⲟⲩ
+</w>
+</phr>
+<lb n="27"/>
+<phr>
+<w type="AJUS" lemma="ⲙⲁⲣⲉ">
+<hi rend="diple on left">
+ⲙ
+</hi>
+ⲁⲣ︤
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ︥
+</w>
+<w type="V" lemma="ⲛⲏⲫⲉ" xml:lang="Greek">
+ⲛⲏⲫⲉ
+</w>
+</phr>
+<phr>
+<w type="PUNCT" lemma="·">
+·
+</w>
+</phr>
+<lb n="28"/>
+<phr>
+<w type="CCIRC" lemma="ⲉⲣⲉ">
+<hi rend="diple on left">
+ⲉ
+</hi>
+</w>
+<w type="APST" lemma="ⲁ">
+ⲁ
+</w>
+<w type="PPERS" lemma="ⲁⲛⲟⲛ">
+ⲛ
+</w>
+<w type="V" lemma="ϯ">
+ϯ
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ϩⲓ">
+ϩⲓⲱⲱ
+</w>
+<w type="PPERO" lemma="ⲁⲛⲟⲛ">
+⳯
+</w>
+</phr>
+<lb n="29"/>
+<phr>
+<w type="PREP" lemma="ⲛ">
+<hi rend="diple on left">
+ⲙ̄
+</hi>
+</w>
+<w type="ART" lemma="ⲡ">
+ⲡ
+</w>
+<w type="N" lemma="ϩⲱⲱⲕ">
+ϩⲱⲕ⳿
+</w>
+</phr>
+<phr>
+<w type="PREP" lemma="ⲛ">
+ⲛ̄
+</w>
+<w type="ART" lemma="ⲡ">
+ⲧ
+</w>
+<w type="N" lemma="ⲡⲓⲥⲧⲓⲥ">
+ⲡⲓ[ⲥⲧⲓⲥ]
+</w>
+</phr>
+</s>
+</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>
