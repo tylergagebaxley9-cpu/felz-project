@@ -1,6 +1,6 @@
 # Nested upstream git histories — the data is kept, the history is not.
 # corpus.lock pins every upstream commit; ./fetch.sh reconstructs from source.
-**/.git/
+# nested .git dirs removed — corpus.lock pins upstream commits, fetch.sh rebuilds
 **/.github/
 **/node_modules/
 
