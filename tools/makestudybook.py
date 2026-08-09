@@ -29,6 +29,8 @@ ORDER = [
      'הַשָּׂטָן carries the definite article. Hebrew proper names do not.'),
     ('psalm-82.md',   'Psalm 82',             'Hebrew',
      'The divine council. Here the scrolls and the Masoretic text agree exactly.'),
+    ('psalm-22.md',   'Psalm 22:16–17',       'Hebrew',
+     'The sharpest single-word split in the Psalter. Three witnesses, three readings.'),
     ('isaiah-7-and-14.md', 'Isaiah 7:14 · 14:12–15', 'Hebrew',
      'עַלְמָה is not the word for virgin. "Lucifer" is not in the Hebrew.'),
     ('daniel-7.md',   'Daniel 7:9–14',        'Aramaic',
