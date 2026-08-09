@@ -33,6 +33,8 @@ ORDER = [
      'The sharpest single-word split in the Psalter. Three witnesses, three readings.'),
     ('isaiah-7-and-14.md', 'Isaiah 7:14 · 14:12–15', 'Hebrew',
      'עַלְמָה is not the word for virgin. "Lucifer" is not in the Hebrew.'),
+    ('isaiah-53.md',  'Isaiah 53:11',         'Hebrew',
+     'The widest convergence in the project: three scrolls and the Greek carry a word the Masoretic lacks.'),
     ('daniel-7.md',   'Daniel 7:9–14',        'Aramaic',
      'One like a son of man. The prefixed כְּ marks a simile.'),
     ('john-1.md',     'John 1:1–18',          'Greek',
