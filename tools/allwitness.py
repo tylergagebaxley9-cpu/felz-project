@@ -89,27 +89,43 @@ def masoretic(book, ch, vs):
 
 # ── Hebrew: Dead Sea Scrolls ─────────────────────────────────────────────────
 def dss(book, ch, vs):
+    """Return the reading PER SCROLL, never merged into one line.
+
+    Merging is not a display nicety — it destroys evidence. Gen 1:5 is carried by
+    two scrolls: 4Q2 reads יום ("Day"), 4Q7 reads יומם ("Daytime"). Merged, that
+    variant is invisible, and this tool hid it until a translator went to the raw
+    node tables and found it. Same hazard documented in dssmap.py; fixed here too.
+    """
     d = f'{ROOT}/dead-sea-scrolls/etcbc-dss/tf/2.0'
     if not os.path.isdir(d):
         return None
     if 'dss' not in _cache:
+        import dssmap
         lo, hi = TF.node_range(d, 'word')
         _cache['dss'] = (lo, hi,
                          TF.load(d, 'book', lo, hi), TF.load(d, 'chapter', lo, hi),
                          TF.load(d, 'verse', lo, hi), TF.load(d, 'glyph', lo, hi),
-                         TF.load(d, 'script', lo, hi))
-    lo, hi, bk, cp, vr, gl, sc = _cache['dss']
-    ns = [n for n in range(lo, hi + 1)
-          if bk.get(n) == book and str(cp.get(n)) == str(ch) and str(vr.get(n)) == str(vs)]
-    if not ns:
+                         TF.load(d, 'script', lo, hi), dssmap.word_to_scroll(d))
+    lo, hi, bk, cp, vr, gl, sc, w2s = _cache['dss']
+    per = {}
+    for n in range(lo, hi + 1):
+        if bk.get(n) == book and str(cp.get(n)) == str(ch) and str(vr.get(n)) == str(vs):
+            g = gl.get(n, '')
+            if sc.get(n) == 'paleohebrew':
+                g += ' [paleo]'
+            per.setdefault(w2s.get(n, '?'), []).append(g)
+    if not per:
         return None
-    out = []
-    for n in ns:
-        g = gl.get(n, '')
-        if sc.get(n) == 'paleohebrew':
-            g += ' [paleo]'
-        out.append(g)
-    return ' '.join(out).strip() or None
+    if len(per) == 1:
+        only = next(iter(per.items()))
+        return f'[{only[0]}] ' + ' '.join(only[1]).strip()
+    lines, texts = [], set()
+    for scroll, ws in sorted(per.items()):
+        t = ' '.join(ws).strip()
+        texts.add(t)
+        lines.append(f'[{scroll}] {t}')
+    head = '\u26a0 SCROLLS DISAGREE\n     ' if len(texts) > 1 else ''
+    return head + '\n     '.join(lines)
 
 
 # ── Hebrew: Samaritan Pentateuch ─────────────────────────────────────────────
