@@ -23,6 +23,8 @@ ORDER = [
      'The sons of God, the daughters of humankind, the Nephilim.'),
     ('exodus-3.md',   'Exodus 3:13–15',       'Hebrew',
      'The divine name. Hebrew imperfect encodes aspect, not tense.'),
+    ('exodus-20-deut-5.md', 'Exodus 20 · Deuteronomy 5', 'Hebrew',
+     'The Ten Words, given twice and not matching. Plus the Samaritan commandment no other Bible has.'),
     ('OUR-TRANSLATION.md', 'Deuteronomy 32:8–9', 'Hebrew',
      'The apportioning of the nations. The scrolls and the Greek agree against the Masoretic text.'),
     ('job-1-and-zechariah-3.md', 'Job 1:6–12 · Zechariah 3:1–2', 'Hebrew',
