@@ -1,0 +1,49 @@
+{
+  "root": "H3588",
+  "lemma": "כי",
+  "confidence": "medium",
+  "senses": [
+    {
+      "sense": "that",
+      "evidence": [
+        "Gen.1.4",
+        "Gen.3.6"
+      ],
+      "note": "Gen 1:4 — וירא אלהים את האור כי טוב."
+    },
+    {
+      "sense": "because / for",
+      "evidence": [
+        "Gen.2.5",
+        "Gen.3.14"
+      ]
+    },
+    {
+      "sense": "when",
+      "evidence": [
+        "Gen.4.12",
+        "Gen.12.12"
+      ]
+    },
+    {
+      "sense": "indeed / surely",
+      "evidence": [
+        "Gen.18.20",
+        "Exod.3.12"
+      ],
+      "note": "Emphatic, not causal."
+    },
+    {
+      "sense": "but / rather",
+      "evidence": [
+        "Gen.17.5",
+        "Gen.18.15"
+      ],
+      "when": "after a negative clause"
+    }
+  ],
+  "unresolved": "One of the widest particles in the language. Several senses frequently fit the same clause and the choice is the translator's, so all are carried.",
+  "occurrences": 3910,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

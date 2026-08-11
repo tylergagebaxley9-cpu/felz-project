@@ -1,0 +1,46 @@
+{
+  "root": "H5921",
+  "lemma": "על",
+  "confidence": "high",
+  "senses": [
+    {
+      "sense": "on / upon",
+      "evidence": [
+        "Gen.1.2",
+        "Gen.1.11"
+      ]
+    },
+    {
+      "sense": "over",
+      "evidence": [
+        "Gen.1.17",
+        "Gen.41.41"
+      ]
+    },
+    {
+      "sense": "against",
+      "evidence": [
+        "Gen.16.12",
+        "Num.16.3"
+      ]
+    },
+    {
+      "sense": "concerning / about",
+      "evidence": [
+        "Gen.12.17",
+        "Gen.20.3"
+      ]
+    },
+    {
+      "sense": "beside / by",
+      "evidence": [
+        "Gen.16.7",
+        "Gen.24.13"
+      ]
+    }
+  ],
+  "unresolved": "",
+  "occurrences": 4493,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

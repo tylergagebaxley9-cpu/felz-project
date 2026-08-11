@@ -1,0 +1,40 @@
+{
+  "root": "H0834",
+  "lemma": "אשר",
+  "confidence": "high",
+  "senses": [
+    {
+      "sense": "which / who / that",
+      "evidence": [
+        "Gen.1.7",
+        "Gen.2.2"
+      ]
+    },
+    {
+      "sense": "where",
+      "evidence": [
+        "Gen.2.11",
+        "Gen.13.3"
+      ],
+      "when": "with a place"
+    },
+    {
+      "sense": "because / since",
+      "evidence": [
+        "Gen.30.18",
+        "Gen.34.13"
+      ]
+    },
+    {
+      "sense": "when",
+      "evidence": [
+        "Gen.6.4",
+        "Deut.11.6"
+      ]
+    }
+  ],
+  "unresolved": "A relative particle with very wide range; the clause it heads is what selects the sense, and more than one often fits.",
+  "occurrences": 4440,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

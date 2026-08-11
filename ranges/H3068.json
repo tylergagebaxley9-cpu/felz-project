@@ -1,0 +1,20 @@
+{
+  "root": "H3068",
+  "lemma": "יהוה",
+  "confidence": "high",
+  "senses": [
+    {
+      "sense": "YHWH",
+      "evidence": [
+        "Gen.2.4",
+        "Exod.3.15",
+        "Deut.6.4"
+      ],
+      "note": "The proper name, four consonants. Left untranslated because it is a NAME, not a title — the same reason Moses is not rendered by its meaning. Substituting \"the LORD\" is what the reading tradition did, and it hides that a name is present. The scrolls treat it as special: 11Q5 writes it in paleo-Hebrew inside an otherwise square-script text."
+    }
+  ],
+  "unresolved": "Original vocalisation is not recoverable; the pointing in the Masoretic text belongs to a different word read in its place.",
+  "occurrences": 5522,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

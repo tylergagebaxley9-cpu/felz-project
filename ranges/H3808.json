@@ -1,0 +1,34 @@
+{
+  "root": "H3808",
+  "lemma": "לא",
+  "confidence": "high",
+  "senses": [
+    {
+      "sense": "not",
+      "evidence": [
+        "Gen.2.5",
+        "Gen.3.4"
+      ]
+    },
+    {
+      "sense": "no",
+      "evidence": [
+        "Gen.2.20",
+        "Gen.19.2"
+      ]
+    },
+    {
+      "sense": "never / shall not",
+      "evidence": [
+        "Gen.9.11",
+        "Exod.20.13"
+      ],
+      "when": "with imperfect, expressing absolute prohibition",
+      "note": "Exod 20:13 — the commandments use לא + imperfect, which is a permanent prohibition rather than a single negative command."
+    }
+  ],
+  "unresolved": "",
+  "occurrences": 3967,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

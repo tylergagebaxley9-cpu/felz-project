@@ -1,0 +1,41 @@
+{
+  "root": "H3605",
+  "lemma": "כל",
+  "confidence": "high",
+  "senses": [
+    {
+      "sense": "all",
+      "evidence": [
+        "Gen.1.29",
+        "Gen.2.2"
+      ]
+    },
+    {
+      "sense": "every / each",
+      "evidence": [
+        "Gen.1.21",
+        "Gen.2.5"
+      ],
+      "when": "bound to a singular noun"
+    },
+    {
+      "sense": "the whole of",
+      "evidence": [
+        "Gen.2.11",
+        "Gen.9.19"
+      ]
+    },
+    {
+      "sense": "any",
+      "evidence": [
+        "Gen.3.1",
+        "Gen.4.15"
+      ],
+      "when": "in a negated clause"
+    }
+  ],
+  "unresolved": "",
+  "occurrences": 4242,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

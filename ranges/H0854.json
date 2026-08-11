@@ -1,0 +1,26 @@
+{
+  "root": "H0854",
+  "lemma": "את",
+  "confidence": "high",
+  "senses": [
+    {
+      "sense": "with / together with",
+      "evidence": [
+        "Gen.4.1",
+        "Gen.5.22"
+      ],
+      "note": "The PREPOSITION. Written identically to the direct-object marker H0853 and constantly confused with it. Separated here because they are two words, not two senses of one."
+    },
+    {
+      "sense": "beside / in the presence of",
+      "evidence": [
+        "Gen.6.13",
+        "Gen.19.33"
+      ]
+    }
+  ],
+  "unresolved": "Where a clause admits either H0853 or H0854, both readings stand — the consonants alone cannot decide.",
+  "occurrences": 787,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

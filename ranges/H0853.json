@@ -1,0 +1,21 @@
+{
+  "root": "H0853",
+  "lemma": "את",
+  "confidence": "high",
+  "senses": [
+    {
+      "sense": "(marks the definite direct object — not rendered)",
+      "evidence": [
+        "Gen.1.1",
+        "Gen.1.4",
+        "Exod.20.8"
+      ],
+      "when": "before a definite noun that is the object of a verb",
+      "note": "Grammatical, not lexical. It shows WHICH noun receives the action. English marks this by word order, so it has no word of its own. Rendering it as \"the\" would be an error."
+    }
+  ],
+  "unresolved": "Homograph warning: את meaning \"with\" is a DIFFERENT root, H0854 (889 occurrences), recorded separately. Identical consonants, distinct words — do not merge them.",
+  "occurrences": 6782,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

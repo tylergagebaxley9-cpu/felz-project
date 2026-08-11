@@ -1,0 +1,46 @@
+{
+  "root": "H0430",
+  "lemma": "אלהים",
+  "confidence": "high",
+  "senses": [
+    {
+      "sense": "God",
+      "evidence": [
+        "Gen.1.1",
+        "Deut.4.35"
+      ],
+      "when": "governing a SINGULAR verb or adjective",
+      "note": "Morphologically plural (Ncmpa in all 55 attested forms) but takes singular agreement — Gen 1:1 has plural אלהים with singular ברא. The grammar, not theology, is what selects this sense."
+    },
+    {
+      "sense": "gods",
+      "evidence": [
+        "Exod.20.3",
+        "Ps.82.1",
+        "Ps.82.6"
+      ],
+      "when": "plural agreement, or a plural modifier such as אחרים",
+      "note": "Same word. Exod 20:3 has אלהים אחרים — a plural adjective, so a plural sense."
+    },
+    {
+      "sense": "divine beings / the divine council",
+      "evidence": [
+        "Ps.82.1",
+        "Ps.82.6"
+      ],
+      "note": "Ps 82:1 has אלהים standing in an assembly and being judged BY אלהים — the same word in both roles inside one verse, so one of the two cannot be the singular God."
+    },
+    {
+      "sense": "judges / rulers",
+      "evidence": [
+        "Exod.21.6",
+        "Exod.22.8"
+      ],
+      "note": "A live reading in judicial contexts. STATED, NOT PREFERRED: for Ps 82 the grammar does not settle between this and the divine-council sense, so both are carried."
+    }
+  ],
+  "unresolved": "Ps 82 cannot be resolved on grammar alone between \"gods\", \"divine beings\" and \"judges\". All three stand.",
+  "occurrences": 2246,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

@@ -1,0 +1,39 @@
+{
+  "root": "H0413",
+  "lemma": "אל",
+  "confidence": "high",
+  "senses": [
+    {
+      "sense": "to / toward",
+      "evidence": [
+        "Gen.2.19",
+        "Gen.3.9"
+      ]
+    },
+    {
+      "sense": "into",
+      "evidence": [
+        "Gen.6.18",
+        "Gen.7.1"
+      ]
+    },
+    {
+      "sense": "against",
+      "evidence": [
+        "Gen.4.8",
+        "Num.32.14"
+      ]
+    },
+    {
+      "sense": "concerning",
+      "evidence": [
+        "1Sam.4.19",
+        "Jer.40.16"
+      ]
+    }
+  ],
+  "unresolved": "Overlaps heavily with על; the two are interchanged in places, and the manuscripts themselves differ on which is written.",
+  "occurrences": 4205,
+  "method": "corpus-distribution",
+  "derived_on": "2026-08-11"
+}

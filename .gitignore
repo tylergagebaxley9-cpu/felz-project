@@ -14,3 +14,6 @@ __pycache__/
 *.pyc
 docs/walled-fetch/
 tools/.gloss_index.json
+
+# regenerable caches — rebuilt by ./tools/corpus.py --build in ~11s
+tools/.corpus_index.json
