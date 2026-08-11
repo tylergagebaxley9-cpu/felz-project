@@ -97,6 +97,36 @@ No single manuscript reads this way. Each is a committee's or editor's judgement
 
 ---
 
+## What THIS PROJECT produced — labelled the same way
+
+The four labels above cover the texts we obtained. They are useless if the files
+we *made* go unlabelled, because those are the ones a reader is most likely to
+mistake for a source. Same rule, applied to our own output.
+
+| Output | Label | Editorial layer | What it actually is |
+|---|---|---|---|
+| `translations/*.md`, `STUDY-BOOK.md` | **OURS** | **ours** | This project's own translation, made from ORIGINAL-class sources via `analyze.py`. No published translation consulted. Judge it as you would any translator's work. |
+| `tools/analyze.py` output | **ANALYSIS** | Strong's (1890) for root ID only | Consonants, parse codes, root identification, witness readings. Emits **no English gloss** — structurally cannot. This is what the translations were made from. |
+| `tools/allwitness.py`, `diverge.py`, `dssmap.py` output | **REPORT** | ours, in selection only | Regenerated from disk each run. Quotes sources verbatim; adds no wording. |
+| `tools/gloss.py` output, `.gloss_index.json` | ⚠️ **DERIVED — OTHER TRANSLATORS' ENGLISH** | **other translators'** | Every English word it prints was chosen by a STEPBible/TAHOT glosser, aggregated across 214,133 glossed words. A survey of decisions already made. **The basis of nothing in this project.** Kept because seeing the tradition's choices is worth having — but it is their work, not ours, and not the Hebrew. |
+| `HIGHLIGHTS.md`, `EXCLUDED-BOOKS.md`, `docs/RESEARCH-*.md` | **OURS** | ours | Our findings and research. Each claim ships with the command that regenerates it. |
+
+> [!warning] The one to watch
+> `gloss.py` and `analyze.py` look like siblings and are not. One shows you what
+> other people decided a word means; the other shows you the grammatical facts and
+> makes you decide. Building a translation on the first would make it a revision of
+> other translators' work while calling itself a translation of the Hebrew. That is
+> exactly the failure this whole labelling scheme exists to prevent, and it is the
+> easiest one to commit by accident — the file sits in the same directory.
+
+> [!note] Post-1820 dependency, disclosed
+> Root identification uses **Strong's numbering (1890)**, which is past the
+> "after 1820, assume inaccurate" line applied everywhere else here. Root ID is much
+> closer to fact than interpretation, so it is judged acceptable — but it is the one
+> post-1820 work the translations lean on, and it is named rather than buried.
+
+---
+
 ## How to read a disagreement
 
 When two texts differ, the labels tell you what kind of disagreement it is:

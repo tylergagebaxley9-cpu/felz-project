@@ -147,7 +147,20 @@ def main():
         return
 
     ranges = d['ranges']
-    print(f'\n{"="*76}\n  {book} {ch}:{vs} — every meaning each word carries\n{"="*76}\n')
+    print(f'\n{"="*76}\n  {book} {ch}:{vs} — every meaning each word carries\n{"="*76}')
+    print(f"""
+  ┌{'─'*72}┐
+  │ DERIVED — OTHER TRANSLATORS' ENGLISH.  Not this project's translation. │
+  └{'─'*72}┘
+  The renderings below are collected from STEPBible TAHOT (CC BY, Tyndale
+  House Cambridge) and counted across the glossed Hebrew OT. They record how
+  OTHER translators have rendered each root. That is evidence about the
+  translation tradition — it is not a translation of the Hebrew, and nothing
+  in STUDY-BOOK.md is built on this output.
+
+  For translation work use ./tools/analyze.py, which emits no English gloss.
+  Provenance labels: PROVENANCE.md
+""")
 
     plain, per_word = [], []
     for w in words:
@@ -218,10 +231,14 @@ def main():
         print('  each is a genuine alternative sense — not a different tense or person.')
         print('  A published translation prints one and shows you none of the others.')
     print(f"""
-  The FIRST meaning between asterisks is the one this passage uses.
-  The rest are how the same root is rendered elsewhere in the Hebrew Bible,
-  ordered by how often. Counts come from {d['words']:,} glossed words —
-  this is what the text attests, not what a dictionary permits.
+  The FIRST meaning between asterisks is the one THIS PASSAGE'S GLOSSER chose.
+  The rest are how other glossers rendered the same root elsewhere in the
+  Hebrew Bible, ordered by how often. Counts come from {d['words']:,} glossed
+  words — so this is what the translation tradition attests, not what a
+  dictionary permits, and not what the Hebrew necessarily means.
+
+  Every line above is somebody's English. Treat it as a survey of decisions
+  already made, and make your own from ./tools/analyze.py.
 """)
 
 
