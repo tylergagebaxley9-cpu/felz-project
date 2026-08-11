@@ -177,6 +177,18 @@ even though they sit in the same files as the parse codes we do use — those gl
 are other translators' work, and building on them would make this a revision of
 their translation rather than a translation of the source.
 
+That restriction is enforced by the tooling, not merely promised here.
+`tools/analyze.py`, which the translations were made from, **cannot emit an English
+gloss at all** — it outputs consonants, parse codes, root identification and the
+witness readings, and nothing else. A translator working from it has nothing to copy.
+
+For completeness, because a reader will find it: `tools/gloss.py` in this repo
+*does* read those STEPBible glosses. It reports how often each English rendering has
+been used for a given root across all 214,133 glossed words of the Hebrew Old
+Testament. That is a tool for **seeing other translators' decisions**, and it is the
+basis of nothing in this book. The distinction is between surveying how a root has
+been rendered and adopting a rendering; only the first happened here.
+
 ## Scale, stated plainly
 
 The Hebrew Old Testament is 306,785 words. The Greek New Testament is 137,779.
