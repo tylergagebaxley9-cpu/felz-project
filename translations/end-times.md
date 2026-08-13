@@ -19,7 +19,8 @@ notice, because there is no variant to point at. The only way to see it is to
 look at where else the same word is used, and let the corpus answer.
 
 Every count below was produced from the corpus on disk (306,785 Hebrew words,
-23,213 verses; SBLGNT for the Greek), not from a lexicon and not from memory.
+23,213 verses; SBLGNT + MorphGNT for the Greek), not from a lexicon and not
+from memory.
 
 ---
 
@@ -28,8 +29,8 @@ Every count below was produced from the corpus on disk (306,785 Hebrew words,
 ### The word, and how often
 
 **אַחֲרִית** occurs **61 times** in the Hebrew Bible. **Thirteen** of those form
-the phrase בְּאַחֲרִית הַיָּמִים, which English almost always renders *"in the
-last days"* or *"in the latter days"*:
+the phrase בְּאַחֲרִית הַיָּמִים, commonly rendered *"in the last days"* or
+*"in the latter days"*:
 
 > Gen 49:1 · Num 24:14 · Deut 4:30 · Deut 31:29 · Isa 2:2 · Jer 23:20 ·
 > Jer 30:24 · Jer 48:47 · Jer 49:39 · Ezek 38:16 · Dan 10:14 · Hos 3:5 · Mic 4:1
@@ -85,8 +86,8 @@ ordinary future history.
 ### The control: Deuteronomy 11:12 — identical grammar, calendar meaning
 
 This is the strongest single piece of evidence in the chapter, because the
-**grammar is exactly the same** and no translator has ever read it
-apocalyptically:
+**word and the construction are the same** while the referent is plainly a
+calendar year:
 
 > **מֵרֵשִׁית הַשָּׁנָה וְעַד אַחֲרִית שָׁנָה**
 > `אחרית` `HNcfsc` — noun, common fem sing **construct** — the same form as
@@ -130,9 +131,16 @@ end of history.
 >
 > *"to give you an after-part and a hope"*
 
-This verse is on coffee mugs. It is universally rendered **"a future and a
-hope."** It is the same noun as Isaiah 2:2's "latter days," differing only in
-that it is absolute rather than construct.
+It is the same noun as Isaiah 2:2's "latter days" — and it is familiar in
+English as **"a future and a hope."**
+
+> 🛑 **An outside claim, and this project cannot check it.** Statements in this
+> chapter about how English versions *render* a word — "commonly rendered the
+> last days," "familiar as a future and a hope" — are from the author's general
+> knowledge. **This corpus holds no English translation to verify them against,
+> deliberately** (see `PROVENANCE.md`). They are offered as orientation for the
+> reader, and **no argument here rests on them.** Everything load-bearing is the
+> Hebrew and Greek, which is on disk and checkable.
 
 ⚠️ **A caution about the parse codes, carried over from `genesis-1.md`.** The
 morphology tags read `Ncfsc` (construct) in the thirteen phrase occurrences and
@@ -183,10 +191,13 @@ it does at all.
 
 **τῆς σῆς παρουσίας** · article + possessive adj. 2sg + noun, gen. sing. fem.,
 παρουσία
-> From πάρειμι, *to be present, be at hand* (παρά + εἰμί). The noun names
-> **presence** or **arrival** — in ordinary Koine it is the standard word for
-> the official visit of a ruler to a city. Range: *presence · arrival ·
-> coming · advent.* **"of your arrival/presence"**
+> From πάρειμι, *to be present, be at hand* (παρά + εἰμί) — a morphological
+> fact, checkable in the form. Range: *presence · arrival · coming · advent.*
+> **"of your arrival/presence"**
+> 🛑 **Outside claim, not supported from this corpus:** it is often said that
+> παρουσία was the standard Hellenistic term for the ceremonial visit of a
+> ruler to a city. That rests on inscriptions and papyri **this project does not
+> hold**, so it is named here and **not used as evidence for anything below.**
 
 **καὶ συντελείας** · noun, gen. sing. fem., συντέλεια
 > From **σύν** (*together, with*) + **τέλος** (*end, completion, goal*). The
@@ -210,11 +221,15 @@ I checked the verse token by token. **No form of κόσμος occurs in Matthew 
 The Greek for *world* was available — it occurs **185 times** in the NT — and it
 is not what stands here.
 
-> **A note on counting.** The counts in this chapter are of the **noun forms
-> only**. A naive stem search over-counts badly: searching `αιων-` catches both
-> the noun **αἰών** (121×) and the separate adjective **αἰώνιος** (69×);
-> searching `γενε-` catches γενεά alongside γίνομαι, γένεσις and γενεαλογία.
-> Every figure here was recomputed against an explicit list of inflected forms.
+> **A note on counting.** Every Greek figure in this chapter is a **lemma
+> count from MorphGNT** (`greek-nt/morphgnt`), which tags the whole SBLGNT by
+> dictionary headword. Two earlier methods failed and are worth recording:
+> a naive stem search (`αιων-` also catches the separate adjective **αἰώνιος**,
+> 69×; `γενε-` catches γίνομαι, γένεσις and γενεαλογία), and then a hand-built
+> list of inflected forms, which still under-counted because SBLGNT attaches
+> **editorial sigla** (⸀ ⸂ ⸃) to tokens. **Count by lemma, not by shape.**
+> Lemma counts: **αἰών 122 · αἰώνιος 69 · γενεά 43 · κόσμος 185 ·
+> συντέλεια 6 · παρουσία 24 · χρόνος 53 · καιρός 85.**
 
 ⚠️ The adjective **αἰώνιος** — 69 occurrences, usually rendered *eternal* or
 *everlasting* — is built on this same noun. Whether it means *eternal* or
@@ -250,22 +265,41 @@ coming one**. That pattern only works for an *age*:
 
 There is one κόσμος. There are two αἰῶνες, and the texts move between them.
 
-### συντέλεια — all eight occurrences in the NT
+### ⭐⭐ συντέλεια — all six occurrences, and what every one is bound to
 
-The word is rare. Every occurrence:
+The noun is rare, and the pattern is total:
 
-| | |
-|---|---|
-| **Matt 13:39** | συντέλεια τοῦ αἰῶνος — the parable of the weeds |
-| **Matt 13:40** | ἐν τῇ συντελείᾳ τοῦ αἰῶνος |
-| **Matt 13:49** | ἐν τῇ συντελείᾳ τοῦ αἰῶνος |
-| **Matt 24:3** | συντελείας τοῦ αἰῶνος — the question above |
-| ⭐ **Matt 28:20** | ἕως τῆς συντελείας τοῦ αἰῶνος |
-| **Mark 13:4** | συντελεῖσθαι (verb) — *when are these things to be completed* |
-| **Acts 21:27** | συντελεῖσθαι (verb) — of **seven days** being completed |
-| ⭐ **Heb 9:26** | ἐπὶ συντελείᾳ τῶν αἰώνων |
+| | | bound to αἰών? |
+|---|---|---|
+| **Matt 13:39** | συντέλεια **αἰῶνός** — ⚠️ *anarthrous*, unlike the rest | ✅ |
+| **Matt 13:40** | ἐν τῇ συντελείᾳ τοῦ αἰῶνος | ✅ |
+| **Matt 13:49** | ἐν τῇ συντελείᾳ τοῦ αἰῶνος | ✅ |
+| **Matt 24:3** | συντελείας τοῦ αἰῶνος — the question above | ✅ |
+| ⭐ **Matt 28:20** | ἕως τῆς συντελείας τοῦ αἰῶνος | ✅ |
+| ⭐ **Heb 9:26** | ἐπὶ συντελείᾳ τῶν αἰώνων | ✅ |
 
-Two of these are controls that translation practice quietly concedes:
+🛑 **Every occurrence of the noun is a completion of an AGE. There is no such
+phrase as συντέλεια τοῦ κόσμου anywhere in the New Testament.** Heb 9:26 does
+contain κόσμος, but in the other half of the sentence and doing the other job —
+*ἀπὸ καταβολῆς **κόσμου*** (from the founding of the world) against *ἐπὶ
+συντελείᾳ τῶν **αἰώνων*** (at the completion of the ages). The one verse where
+both words appear keeps them apart.
+
+### The verb συντελέω — six more, and none of them cosmic
+
+The related verb occurs six times, and its plainest uses show the word has no
+apocalyptic weight of its own:
+
+- **Luke 4:2** — συντελεσθεισῶν, of the **forty days** being completed
+- **Acts 21:27** — συντελεῖσθαι, of the **seven days** being completed
+- Mark 13:4 · Luke 4:13 · Rom 9:28 · Heb 8:8
+
+⚠️ An earlier draft of this chapter counted eight "occurrences of συντέλεια" by
+folding Mark 13:4 and Acts 21:27 — which are the **verb** — into the noun's
+list. Noun and verb are counted separately here.
+
+Two of the noun's occurrences are controls that translation practice quietly
+concedes:
 
 ⭐ **Matthew 28:20** — *"I am with you all the days, ἕως τῆς συντελείας τοῦ
 αἰῶνος."* The **identical phrase** as 24:3. No translation renders this one as
@@ -301,7 +335,7 @@ Luke 21:32  ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ παρέλθῃ �
 negation Greek has. *will certainly not pass away*
 
 **ἡ γενεὰ αὕτη** · article + noun, nom. sing. fem., γενεά + demonstrative.
-> **43 occurrences in the NT** (noun forms only — see the counting note above).
+> **43 occurrences in the NT** (MorphGNT lemma count — see the counting note above).
 > The corpus shows three distinct uses, and the form here selects none of them:
 > 1. **A generation as a countable link in a genealogy** — Matt 1:17,
 >    γενεαὶ δεκατέσσαρες, *fourteen generations.*
@@ -382,9 +416,13 @@ withholding a date; he is declining the whole category.
 - Any position on when, whether, or what. The texts decline to say, and this
   chapter declines on the same grounds.
 
-> **Method note.** Word forms, parse codes and root identifications come from
-> `./tools/analyze.py` (Hebrew) and the SBLGNT XML (Greek); counts come from
-> `tools/.corpus_index.json` and a token scan of the Greek text. `gloss.py` was
+> **Method note.** Hebrew word forms, parse codes and root identifications come
+> from `./tools/analyze.py` over morphhb; Hebrew counts from
+> `tools/.corpus_index.json`. **Greek parse codes and all Greek counts come from
+> MorphGNT** (`greek-nt/morphgnt`), which tags the SBLGNT morphologically — the
+> Greek equivalent of morphhb. An earlier draft carried parse codes written from
+> the author's own knowledge; MorphGNT confirmed each of them, but they are now
+> machine-sourced rather than asserted. `gloss.py` was
 > not consulted — see `PROVENANCE.md`. Where a semantic range is given for a
 > Greek word it is demonstrated from **usage in this corpus**, with verses
 > cited, rather than asserted from a lexicon.
