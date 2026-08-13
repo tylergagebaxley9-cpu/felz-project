@@ -43,6 +43,9 @@ ORDER = [
      'The logos, and the μονογενὴς θεός variant checked in the manuscripts.'),
     ('eusebius-HE-3.25.md', 'Eusebius, Church History III.25', 'Greek',
      'The earliest surviving sorting of which books counted. Four categories, not two.'),
+    ('end-times.md', 'When — אַחֲרִית הַיָּמִים · συντέλεια τοῦ αἰῶνος', 'Hebrew and Greek',
+     'No manuscript disagrees here. The drift is entirely in the English: אחרית is the '
+     'word for the end of a year, and κόσμος is not in Matthew 24:3.'),
 ]
 
 FRONT = """# ORIGINAL BIBLE STUDIES
