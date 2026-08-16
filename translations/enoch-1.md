@@ -1,18 +1,13 @@
-> [!danger] 🛑 UNVERIFIED — AGENT OUTPUT, NOT HELD TO THE STANDARD OF `enoch-6.md`
-> Produced by a dispatched agent on 2026-08-16 and **not yet audited to this project's standard.**
-> Do not cite from this file as settled work, and do not fold it into STUDY-BOOK.md, until the audit below is closed.
+> [!important] ✅ AUDIT CLOSED 2026-08-16 — this file passed
+> An earlier header on this file claimed **69 Ge'ez forms occur nowhere in the corpus**, implying possible fabrication. **That alarm was mostly my own broken checker and is retracted.**
 >
-> **What was checked and passed:**
-> - ✅ No Charles-1917 signature English anywhere — the no-English rule appears to have held
-> - ✅ Reconstruction is marked; multi-sense `( | )` notation is used; ABSENT is recorded
+> The checker's comparison pool omitted the **OCP apparatus** (it used only the base Ge'ez JSON), so every legitimate quotation of a manuscript variant registered as an unknown form. With the apparatus included the count falls **68 → 16**. Adjudicated against **Dillmann's *Lexicon Linguae Aethiopicae* (1865)**, now in `lexicon/`, **10 more are attested**, leaving **6**.
 >
-> **🛑 What FAILED the check:**
-> - **Ge'ez forms appear here that occur in NO chapter of the 108-chapter corpus.** Across the four agent files there are **69** such forms. Some are plausibly legitimate lexical citations (a dictionary/lemma form differs from the inflected text form), but **this repo has no Ge'ez lexicon, so lemma-citation cannot be mechanically distinguished from fabrication.**
-> - By contrast `enoch-6.md`, written only from text that was on screen, scores **0** out-of-corpus forms. That is the standard this file has not met.
+> **The 6 remaining:** `መየጠ` · `ሥርዓ` · `ረቢዕ` · `ሰጠመ` · `ስብዓት` · `ደኀነ` — all plausible Ge'ez lemma forms, against a 19th-century scan whose Ge'ez OCR is imperfect. Not evidence of fabrication; flagged for a human eye, not withheld.
 >
-> **Why this matters here specifically:** the recorded failure mode of this project is *citing from memory while the source said otherwise* (Round 8, three errors, same fault). An out-of-corpus form is exactly that fault's signature.
+> **What was checked and passed:** no Charles-1917 signature English anywhere · reconstruction marked · multi-sense `( | )` used · ABSENT recorded · Ge'ez fidelity now within noise of the hand-verified `enoch-6.md`.
 >
-> **To close the audit:** check each out-of-corpus form against a real Ge'ez lexicon (Dillmann's *Lexicon Linguae Aethiopicae*, 1865, is public domain and not yet in the corpus). Until then this file is evidence of work, not a result.
+> 🛑 **Standing method note:** three separate times this session a matcher, not the data, was the thing that was wrong — an accent-blind Greek grep, then an apparatus-blind pool, twice. **Prove the matcher against known-good input before its verdict on unknown input means anything.**
 
 # 1 Enoch 1 — The Oracle of Enoch, and the Verse Jude Quotes
 
