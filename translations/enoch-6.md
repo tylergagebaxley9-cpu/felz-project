@@ -82,17 +82,21 @@ No two witnesses agree. This is the least stable verse in the chapter.
 
 ### ⭐⭐⭐ The other names are weather and sky — and only the Aramaic shows it
 
-The Aramaic leaders, read as Semitic compounds, are a coherent set:
+The Aramaic leaders, read as Semitic compounds, are a coherent set. **Verified letter-by-letter against 4Q201/4Q204; the "on parchment" column is not decorative** — three of these are partly editorial reconstruction and must not be cited as if they were ink:
 
-| Aramaic | Element | Means |
-|---|---|---|
-| **כוכבאל** Kokab-el | כוכב | **star** of God |
-| **ברקאל** Baraq-el | ברק | **lightning** of God |
-| **מטראל** Maṭar-el | מטר | **rain** of God |
-| **עננאל** Anan-el | ענן | **cloud** of God |
-| **שמשיאל** Shamshi-el | שמש | **sun** of God |
-| **שהריאל** Sahari-el | שהר | **moon** of God |
-| **רעמאל** Raam-el | רעם | **thunder** of God |
+| Aramaic | Element | Means | As it survives | Status |
+|---|---|---|---|---|
+| **ברקאל** Baraq-el | ברק | **lightning** of God | `ברקאל` | ✅ full ink |
+| **מטר אל** Maṭar-el | מטר | **rain** of God | `מטר אל` | ✅ full ink (**two words**) |
+| **עננאל** Anan-el | ענן | **cloud** of God | `עננאל` | ✅ full ink |
+| **שהריאל** Sahari-el | שהר | **moon** of God | `שהריאל` | ✅ full ink |
+| **כוכבאל** Kokab-el | כוכב | **star** of God | `כוכׄבא[ל` | ⚠️ final ל reconstructed |
+| **שמשיאל** Shamshi-el | שמש | **sun** of God | `שמשי[אל` | ⚠️ `אל` reconstructed |
+| **רעמ אל** Raam-el | רעם | **thunder** of God | `רעמׄ א[ל` | ⚠️ final ל reconstructed |
+
+⭐ **The finding survives even if you delete every reconstructed letter.** Lightning, rain, cloud and moon are four intact meteorological names on surviving parchment — enough to establish the semantic field on their own. The three bracketed ones corroborate a pattern already visible without them; they do not carry it.
+
+⚠️ `מטר אל` and `רעמׄ א[ל` are written with a **space** in the scroll — two words, not a fused compound. Noted because it bears on whether these were felt as names or as descriptions.
 
 🛑 In Gizeh these have become `Κιμβρά, Σαμμανή, Ἀρεαρώς, Χωχαριήλ, Ἀνανθνά, Ῥακειήλ` — meaningless. The Ge'ez likewise: `አኪቢኤል, ጣሚኤል, ዘቄቤ, አራዝያል`.
 
@@ -191,7 +195,8 @@ Syncellus does the same in Greek letter-numerals: `αʹ Σεμιαζάς … κ�
 **Witnesses:**
 - ⭐⭐ **Gizeh is ABSENT for this entire verse.** The Greek survives **only through Syncellus**, who alone carries `ἐν ταῖς ἡμέραις **Ἰάρεδ**` — the days of Jared. Without Syncellus, the Greek tradition would not preserve the name at all.
 - Aramaic 4Q201 `] ביומי ירד ע֯ל` and `] די ימ֯ו ואח֯ר֯[מו …ב]ה֯`.
-- ⚠️ The Ge'ez base text as printed **lacks "in the days of Jared"**, which both the Aramaic and Syncellus have. Ge'ez has `ውስተ፡ አርዲስ` — "onto **Ardis**" — a place-name where the others have a date. `አርዲስ` and `Ἰάρεδ`/`ירד` are plausibly the same consonants read differently. **Both readings are given; neither is preferred.**
+- ⚠️ The Ge'ez base text **lacks "in the days of Jared"** — verified, no form of the name occurs in the verse — which both the Aramaic (`ביומי ירד`) and Syncellus (`ἐν ταῖς ἡμέραις Ἰάρεδ`) have. Ge'ez instead reads `ውስተ፡ አርዲስ` — "onto **Ardis**" — a **place** where the others have a **date**. **Both readings are given; neither is preferred.**
+  > 🛑 **RETRACTED from the first draft of this file:** I wrote that `አርዲስ` and `Ἰάρεδ`/`ירד` were "plausibly the same consonants read differently." They are not. ʾ-R-D-S against Y-R-D — a different initial consonant and an extra final sibilant. Two shared letters is not a consonantal identity, and asserting one would have manufactured a link between the readings that the text does not support. The divergence stands unexplained, which is the honest state of it.
 - Mountain name: Ge'ez ኤርሞን / ms `p` አርሞን; Syncellus `Ἑρμονιεὶμ` at first mention, `Ἑρμώμ` at second — the Greek itself is unstable.
 - The number is written out in the base text (`ክልኤተ፡ ምእተ`) but as a numeral `፪፻` in ms `p`.
 
@@ -214,6 +219,24 @@ Syncellus does the same in Greek letter-numerals: `αʹ Σεμιαζάς … κ�
 **Witnesses:** ⭐ Here the traditions converge. Aramaic 4Q201 `] אלין אנון רבנין ורב[נ]יא עס֯[ר]תא` — "these are the chiefs, and the chiefs **of tens**"; Greek Gizeh `οὗτοι εἰσιν ἀρχαὶ αὐτῶν οἱ (ἐπὶ) δέκα` — "these are their chiefs, those **over ten**". Both carry a decimal command structure. **The Ge'ez has lost the "of tens"** and reads only "chiefs of the two hundred angels."
 
 ---
+
+## Verification pass — what was checked, and what it changed
+
+Every load-bearing claim above was re-checked against the XML and the Ge'ez JSON rather than against my reading of them.
+
+| Claim | Result |
+|---|---|
+| Gizeh absent for all of 6:6 | ✅ 0 Gizeh readings; Syncellus is the sole Greek witness |
+| `οἱ ἐγρήγοροι` in Syncellus only at 6:2 | ✅ confirmed, `[Syncellus]` alone |
+| `μέχρις οὗ ἂν τελέσωμεν αὐτὴν` in both Greek witnesses, absent from Ge'ez | ✅ confirmed, `[Gizeh Syncellus]` |
+| Ge'ez 6:6 has no form of "Jared" | ✅ confirmed; reads `አርዲስ` |
+| Seven meteorological names in the Aramaic | ⚠️ **all seven present, but three partly reconstructed** — table corrected above |
+| `አርዲስ` ≈ `ירד` consonantally | 🛑 **FALSE — retracted**, see 6:6 |
+
+> [!warning] Method lesson — an accent-blind grep silently found nothing
+> The first verification run reported **zero** hits for `ἐγρήγοροι` and `μέχρις` and would have read as "claim unsupported." The cause was searching unaccented Greek (`γρηγορ`) against accented text (`γρήγορ`); the strings never had a chance to match. Fixed by NFD-normalising and stripping combining marks before comparison.
+>
+> **A search that cannot match is indistinguishable from a claim that is false.** Same family as the Round 5 book-name mismatch that silently skipped Isaiah and Exodus: the output looked complete both times. Any future check against this corpus must normalise before it compares, and a null result should be treated as *suspect* until the matcher is proven against a known-present string.
 
 ## What this chapter shows about the book
 
