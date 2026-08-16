@@ -58,6 +58,40 @@ APPARATUS = ROOT / "pseudepigrapha/Online-Critical-Pseudepigrapha/static/docs/1E
 # Ge'ez word separator (U+1361 ETHIOPIC WORDSPACE) and full stop (U+1362).
 GEEZ_PUNCT = "፡።​"
 
+# 🛑 The apparatus puts MODERN EDITORS' CONJECTURES in the same `mss` attribute
+# as manuscript sigla, with nothing marking the difference. These 14 are used in
+# readings but are never declared as <ms>. Printing them beside 4Q201 or Gizeh
+# would present an editor's guess as surviving evidence -- and one of them is
+# CHARLES, whose English this whole tool exists to keep out.
+#
+# Same lesson as translations/revelation-3.md: an apparatus of EDITIONS is not
+# an apparatus of MANUSCRIPTS. Verified by diffing <ms abbrev> against every
+# siglum used in a reading; see tools/enochscan.py --unique.
+CONJECTURE = {
+    "Charles",      # R. H. Charles
+    "Dillman",      # August Dillmann, Ge'ez ed. 1851
+    "Dindorf",      # K. W. Dindorf, Syncellus ed.
+    "Goar",         # Jacques Goar, Syncellus ed. 1729
+    "Swete",        # H. B. Swete
+    "Lods",         # Adolphe Lods
+    "Black",        # Matthew Black
+    "Bonner",       # Campbell Bonner
+    "Kenyon",       # Frederic Kenyon
+    "F-R",          # Flemming-Radermacher
+    "Gizeh*",       # editorial sub-designations
+    "Syncellus2",
+    "TertullianB",
+    "Ε",
+}
+
+
+def classify(sigla):
+    """Split a reading's sigla into (manuscripts, conjectures)."""
+    parts = [s for s in (sigla or "").split() if s]
+    ms = [s for s in parts if s not in CONJECTURE]
+    cj = [s for s in parts if s in CONJECTURE]
+    return ms, cj
+
 
 # ── Ge'ez base text ──────────────────────────────────────────────────────────
 
@@ -137,7 +171,15 @@ def show_verse(ref, geez, app, versions):
             print(f"  {title:<18} ABSENT — version exists, does not attest this verse")
             continue
         for _, _, sigla, text in rows:
-            print(f"  {title:<18} [{sigla or '?'}] {text}")
+            ms, cj = classify(sigla)
+            if ms:
+                tag = " ".join(ms)
+                extra = f"  ⚠️ +conjecture: {' '.join(cj)}" if cj else ""
+                print(f"  {title:<18} [{tag}] {text}{extra}")
+            else:
+                # No manuscript at all -- this reading is an editor's guess.
+                print(f"  {title:<18} 🛑 CONJECTURE ONLY [{' '.join(cj) or '?'}] "
+                      f"— not manuscript evidence: {text}")
     if not versions:
         print("  (apparatus not checked out)")
 
