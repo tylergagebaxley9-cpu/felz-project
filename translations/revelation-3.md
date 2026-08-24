@@ -1,6 +1,6 @@
-# Revelation 3:2–9
+# Revelation 3:2–12
 
-*Greek. The end of the letter to Sardis and the opening of the letter to
+*Greek. The end of the letter to Sardis and the whole of the letter to
 Philadelphia — two letters, not one, and the seam falls inside this range.*
 
 Translated from the Greek directly. No English translation was consulted or
@@ -20,10 +20,17 @@ adapted.
   used only to see *where* he knew there was a decision, never as the authority
   on what the manuscripts say.
 - **The actual manuscripts**, read from disk with `tools/cntr_read.py` against
-  Rev 3:2–9:
+  Rev 3:2–12:
   - **01 Sinaiticus** (c. 330–360 CE) — extant, complete for this passage
   - **02 Alexandrinus** (c. 400–440 CE) — extant, complete
   - **04 Ephraemi Rescriptus** (5th c. CE) — extant, complete
+  - **P115** — **enters at v. 10 and not before.** Partial in v. 10 (begins
+    mid-verse at πειράσαι), complete in v. 11, breaks off inside v. 12 after
+    ἐξέλθῃ ἔτι.
+- The printed **RP** (Robinson–Pierpont Byzantine) and **KJTR** (the Textus
+  Receptus underlying the KJV), from
+  `papyri/cntr-transcriptions/critical texts/` — read to locate where the
+  *printed* traditions diverge, never as authorities on the manuscripts.
 - My own knowledge of Koine Greek for lexical range.
 
 **Extant but silent here — stated so the absence is not read as agreement:**
@@ -33,12 +40,23 @@ adapted.
 - **05 Bezae** likewise contains **no Revelation**.
 - **P47**, the great Revelation papyrus (3rd c.), begins at **Rev 9:10** and
   runs to 17:2 — it does not reach this passage.
-- **P115** begins at **Rev 3:10**, one verse past the end of this range.
 - **0169** begins at **Rev 3:19**.
 
-So for these eight verses the oldest ink available anywhere on this disk is
+So for **vv. 2–9** the oldest ink available anywhere on this disk is
 **Sinaiticus, c. 330–360 CE** — roughly 250 years after composition, and there
 is nothing older to check it against.
+
+> [!note] The witness base changes mid-passage
+> At **v. 10 the floor drops by roughly a century**: P115 begins exactly there.
+> It is conventionally dated to the **3rd century**, which would make it the
+> oldest ink on this disk for vv. 10–12 — but **that date is not carried in the
+> CNTR files themselves**. It is external knowledge, stated as such, and not
+> verifiable from anything in this repo. What *is* verifiable here is that P115
+> exists for these three verses and for none of the seven before them.
+>
+> So "the manuscripts" in this file means **three** witnesses in vv. 2–9 and
+> **four** in vv. 10–12. The arithmetic of agreement is not the same on both
+> sides of that line.
 
 **Not used**: KJV, any modern English version, any interlinear's English column,
 `tools/gloss.py`, or any lexicon's gloss list. The semantic ranges below are
@@ -97,6 +115,21 @@ Adversary — of those saying themselves to be (Judeans | Jews) **and they are
 not**, but they are lying — look, I will make them so that they will come and
 bow down (prostrate themselves) in the sight of your feet, and they will know
 that I loved you.
+
+**3:10** — Because (that | since) you kept (guarded | observed) the word of my
+(remaining-under | endurance | patient waiting), I also will keep (guard) you
+**out of** the hour of the (testing | trial | temptation) which is about to come
+upon the whole (inhabited world | settled earth | empire), to (test | try |
+tempt) those dwelling upon the (earth | land).
+
+**3:11** — I am coming (quickly | soon | suddenly). Keep gripping (hold fast to)
+what you have, so that no one takes your (wreath | garland | victor's crown).
+
+**3:12** — The one (conquering | prevailing) — I will make him a pillar
+(column) in the (sanctuary | inner shrine) of my God, and he will certainly not
+go outside any longer; and I will write upon him the name of my God, and the
+name of the city of my God — the new Jerusalem, the one coming down out of the
+(sky | heaven) from my God — and my new name.
 
 ---
 
@@ -612,6 +645,288 @@ manuscripts on disk have it.
 
 ---
 
+### v. 10 — ὅτι ἐτήρησας τὸν λόγον τῆς ὑπομονῆς μου
+
+**ὅτι** · conjunction.
+> Range: *because · that · since* — and in some constructions simply the marker
+> that opens quoted speech. Here it is either **causal** ("because you kept") or
+> **declarative** ("[I know] that you kept"), continuing v. 8's Οἶδα. The Greek
+> does not settle it and the translation above leaves both standing.
+>
+> ⚠️ **02 Alexandrinus does not read ὅτι at all. It reads καί** — "**and** you
+> kept the word." That turns the clause from a *reason* into one more item in
+> the list of commendations begun in v. 8. **Not in the apparatus**, which is
+> silent at v. 10 entirely. 01, 04, RP and KJTR all read ὅτι.
+
+**ἐτήρησας** · τηρέω, aorist active indicative, 2nd sing.
+> Range: *watch over · guard · keep under observation · preserve · hold to ·
+> observe (a command).* The root sense is **custodial watching**, not obedience;
+> obedience is what it comes to mean once the object is a command. Aorist:
+> stated as accomplished fact, not as a habit.
+>
+> 🛑 **04 Ephraemi does not read this word.** It reads **ΕΠΗΡΑϹ / ἐπῆρας** —
+> itself a well-formed Greek verb: ἐπαίρω, aorist active 2nd sing., "**you
+> lifted up · you raised · you exalted**." Two accounts are possible and this
+> file does not choose:
+> 1. A **copying slip** for ἐτήρησας — the two words share their opening and
+>    closing letters and differ in the middle, the classic shape of one.
+> 2. A **real variant**: "you lifted up the word of my endurance."
+>
+> **Not in the apparatus.** Note that 04 nonetheless reads τηρήσω later in the
+> same verse, so whatever happened here happened to this word alone — the scribe
+> did not carry it through.
+
+**τὸν λόγον τῆς ὑπομονῆς μου** · λόγος acc. sing. + ὑπομονή gen. sing. + μου.
+> **ὑπομονή** · ὑπό ("under") + μένω ("remain, stay"). The literal sense is
+> **remaining under** — staying put beneath a weight rather than getting out
+> from under it. Range: *endurance · steadfastness · patient waiting ·
+> perseverance.* English "patience" is too passive and "perseverance" too
+> active; the word is about **not moving**.
+>
+> **The genitive is unresolved and it matters.** τῆς ὑπομονῆς μου can be:
+> - *the word **about** my endurance* (objective)
+> - *the word **that comes from** my endurance* (subjective / source)
+> - *my **enduring** word* (attributive — the Semitic-style genitive Revelation
+>   uses freely)
+>
+> Greek marks none of these. Every English version picks one silently.
+
+**κἀγώ σε τηρήσω ἐκ τῆς ὥρας τοῦ πειρασμοῦ**
+> **κἀγώ** — crasis of καὶ ἐγώ, "**I too / I also**." Emphatic, and the
+> reciprocity is deliberate: *you* kept, *I too* will keep. **The same verb
+> τηρέω stands on both sides**, and the translation above holds it to one
+> English word for that reason.
+>
+> 🛑 **Sinaiticus has no verb here at all.** 01 reads **κἀγώ σε ἐκ τῆς ὥρας** —
+> τηρήσω simply absent, leaving the sentence without a predicate. Almost
+> certainly mechanical (the eye skipping from σε onward), but it is what the
+> parchment says and **the apparatus does not record it**. 02, 04, RP and KJTR
+> all have τηρήσω; P115 begins later in the verse and cannot testify.
+>
+> ⚠️ **τηρήσω ἐκ — the preposition is ἐκ, not ἀπό.** ἐκ is *out of · from
+> within*; ἀπό is *away from · off*. A great deal of modern argument about the
+> timing of deliverance is built on which of the two stands here, in both
+> directions. What is on the page: **ἐκ, unanimously — all four witnesses and
+> both printed traditions.** What ἐκ *implies* about being kept outside the hour
+> versus preserved through it, **the preposition does not say**; τηρέω + ἐκ is
+> too rare to establish an idiom and this file will not manufacture one.
+> Rendered "out of" above because that is what ἐκ is.
+>
+> **ὥρα** — *hour · a twelfth of daylight · a season · the right moment · a
+> short definite span.* Not necessarily sixty minutes.
+
+**τοῦ πειρασμοῦ … πειράσαι** · πειρασμός gen. sing. + πειράζω, aorist infinitive.
+> **The verse puns and English cannot keep it.** Both are the same root πειρα-
+> ("attempt, try") and both carry the whole range: *test · trial · proving ·
+> attempt · enticement to wrong.* Greek has **one** word where English splits
+> into "test" (neutral, establishing quality) and "tempt" (hostile, inducing
+> failure). Nothing in either form chooses. The options are stacked above
+> precisely because a reader who takes "temptation" for the noun and "test" for
+> the verb — or the reverse — has invented a distinction the Greek does not draw.
+
+**τῆς μελλούσης ἔρχεσθαι ἐπὶ τῆς οἰκουμένης ὅλης**
+> μέλλω present participle gen. sing. fem. + ἔρχομαι present infinitive: *which
+> is about to · on the point of · destined to come.* The participle is feminine
+> and agrees with **ὥρας**, not with πειρασμοῦ — it is the *hour* that is about
+> to come.
+>
+> **οἰκουμένη** — a present passive participle of οἰκέω ("dwell") used as a
+> noun: literally **the being-inhabited [land]**. Range: *the inhabited world ·
+> the settled earth · the civilised world · (in ordinary Greek and Roman usage)
+> the empire.* It is not a word for the planet. ὅλης — "whole, entire."
+
+**τοὺς κατοικοῦντας ἐπὶ τῆς γῆς** · κατοικέω, present participle acc. pl.
+> κατά + οἰκέω — *settle down · dwell permanently · inhabit.* The κατα- prefix
+> is the difference between residing and merely staying. **γῆ**: *earth · land ·
+> ground · soil · a country.* Whether this is the globe or a territory is not
+> decidable from the noun.
+>
+> ⚠️ P115, entering mid-verse at πειράσαι, carries a **dittography** here —
+> τούς written twice, the first struck, visible in the transcription as
+> `τουσ {} τουσ`. A copying slip with no bearing on sense, recorded because it
+> is the first thing this witness does on arriving in the passage.
+
+---
+
+### v. 11 — ἔρχομαι ταχύ· κράτει ὃ ἔχεις
+
+> 🛑 **This is where the KJV's "Behold" comes from, and it is in no manuscript
+> on this disk.**
+> **KJTR reads Ἰδού, ἔρχομαι ταχύ.** SBLGNT, RP, and **all four manuscripts —
+> 01, 02, 04 and P115 — read simply ἔρχομαι ταχύ, with no ἰδού.** Four
+> witnesses against, none for. This is not even a case where the Byzantine and
+> Alexandrian traditions split: **RP agrees with the majuscules against the
+> Textus Receptus.** The apparatus does not list it, because the apparatus
+> collates WH / Treg / NA28 / RP — and all four of *those* omit it, so from the
+> apparatus's point of view there is nothing to report. The reading has to be
+> found by opening the TR itself.
+>
+> Compare Rev 22:7 and 22:12, where ἰδού **is** in the text. A scribe
+> harmonising v. 11 to those is the obvious explanation. It is still an
+> explanation, not a demonstration.
+
+**ἔρχομαι** · ἔρχομαι, present **middle** indicative, 1st sing.
+> Present tense, not future. Greek uses the present both for an action already
+> under way and for one imminent and certain; "I am coming" holds both where
+> "I will come" narrows it. Nothing in the form dates the arrival.
+
+**ταχύ** · adverb, from ταχύς.
+> Range: *quickly · swiftly · without delay · soon · suddenly.* **Two different
+> claims live in this one word** and Greek does not separate them: *speed of
+> travel once begun* (quickly) versus *shortness of the interval before it
+> begins* (soon). Both are printed above for that reason.
+
+**κράτει** · κρατέω, present active **imperative**, 2nd sing.
+> From κράτος (*strength, might, dominion*). Range: *take hold of · grip · seize
+> · hold fast · master · rule over.* The physical sense is the base one — a hand
+> closing on something. **Present imperative: continuous** — *keep gripping*,
+> not *grip once*. All four manuscripts read it (01 spells it κρατι, an itacism).
+
+**ὃ ἔχεις** · relative pronoun acc. sing. **neuter** + ἔχω present 2nd sing.
+> "**what** you have." Neuter — so the antecedent is not the wreath (masc.), not
+> the word (masc.), not the door (fem.). It is left unstated.
+
+**ἵνα μηδεὶς λάβῃ τὸν στέφανόν σου** · ἵνα + λαμβάνω, aorist subjunctive 3rd sing.
+> Regular Greek here — ἵνα with the subjunctive, unlike v. 9's ἵνα + future
+> indicative. λαμβάνω: *take · receive · seize · get hold of.* The verb does not
+> specify theft; it specifies **transfer of possession**.
+>
+> **στέφανος** · from στέφω, "encircle, wreathe." This is the **woven wreath** —
+> the athlete's victory garland, the banqueter's crown of leaves, the civic
+> honour-crown. It is **not** the royal diadem.
+>
+> ⚠️ **Revelation itself proves it keeps the two apart.** διάδημα, the actual
+> royal band, occurs **3 times** in the book (12:3, 13:1, 19:12); στέφανος
+> occurs **8 times**; the author never confuses them. Counted directly in
+> `87-Re-morphgnt.txt`. So English "crown" imports a monarchy the word does not
+> carry, which is why "wreath / garland" leads the options above.
+>
+> **All four manuscripts and both printed editions agree on this verse
+> word-for-word** apart from Sinaiticus's itacisms (κρατι, εχισ, μηδισ) and its
+> overline abbreviation of τόν. **It is the most stable verse in the range** —
+> and the one verse where the KJV adds a word.
+
+---
+
+### v. 12 — ὁ νικῶν ποιήσω αὐτὸν στῦλον ἐν τῷ ναῷ τοῦ θεοῦ μου
+
+**ὁ νικῶν** · νικάω, present active participle, **nominative** sing. masc.
+> 🛑 **A hanging nominative.** The participle is nominative — grammatically the
+> subject — but the sentence's verb is ποιήσω, *first* person ("I will make"),
+> and the one conquering is picked up again as **αὐτόν, accusative**. The
+> opening phrase has no syntactic connection to what follows; it is announced,
+> then resumed by a pronoun. This is a *nominativus pendens*, and in Revelation
+> it is a habit rather than an error — compare ἵνα + future indicative at v. 9.
+> **All four witnesses read it this way. Nobody corrected it.** The em-dash above
+> marks the break; smoothing it to "to the one who conquers I will grant" is a
+> repair, not a rendering.
+>
+> νικάω range: *conquer · prevail · be victorious · win a lawsuit · overcome.*
+> Same verb as v. 5.
+
+**ποιήσω αὐτὸν στῦλον** · ποιέω future 1st sing. + αὐτός acc. + στῦλος acc.
+> A double accusative: *make X [into] Y.*
+>
+> 🛑 **Sinaiticus reads ποιήσω αὐτῷ — dative, not accusative.** Not an itacism;
+> -ῳ and -ον are confusable neither by sound nor by sight. On 01 the sense shifts
+> from "**I will make him** a pillar" to "**I will make for him** a pillar" — the
+> person is no longer the pillar, the pillar is a thing given to him. 02, 04,
+> P115, RP and KJTR all read αὐτόν. **Not in the apparatus.**
+>
+> **στῦλος** — *pillar · column · supporting post.* Architectural and
+> load-bearing; the word is about **holding a structure up**, not about ornament
+> or permanence in the abstract.
+
+**ἐν τῷ ναῷ τοῦ θεοῦ μου**
+> ⚠️ **01 omits ἐν**, reading a bare dative τῷ ναῷ. The sense is unaffected — a
+> locative dative does the same work — but it is one more place where Sinaiticus
+> stands alone and the apparatus is silent.
+>
+> **ναός** · **the inner sanctuary**, the dwelling-chamber itself — not the
+> temple complex. Greek distinguishes it from **ἱερόν**, the whole precinct with
+> its courts and colonnades.
+>
+> ⚠️ **Revelation uses ναός 16 times and ἱερόν 0 times** — counted in
+> `87-Re-morphgnt.txt`; the count is exactly zero. The book never once speaks of
+> the temple *grounds*. English "temple" flattens a distinction the author keeps
+> without exception across the whole book, which is why "sanctuary / inner
+> shrine" leads above.
+
+**καὶ ἔξω οὐ μὴ ἐξέλθῃ ἔτι** · ἔξω + οὐ μή + ἐξέρχομαι aorist subj. + ἔτι.
+> **οὐ μή + aorist subjunctive** is the strongest negation Greek has — an
+> emphatic denial that the thing will *ever* occur. "Certainly not" above is the
+> weakest possible English for it.
+>
+> The construction is redundant on purpose: **ἔξω** ("outside") +
+> **ἐξ**-έρχομαι ("go **out**") — *outside he will not go out*. The doubling is
+> in the Greek and is kept.
+>
+> ⚠️ **01 omits ἔτι** ("any longer · still · yet"). With ἔτι the promise is that
+> the going-out stops; without it, that it never happens at all. 02, 04, P115,
+> RP and KJTR have it. **Not in the apparatus.** P115 breaks off immediately
+> after this word — ἐξέλθῃ ἔτι is the last thing it says before the leaf ends.
+
+**καὶ γράψω ἐπ' αὐτὸν τὸ ὄνομα τοῦ θεοῦ μου**
+> γράφω future 1st sing. — the ordinary word for writing, with no cultic or
+> branding sense of its own. ἐπί + accusative: *upon · onto.*
+>
+> ⚠️ **04 Ephraemi omits ἐπ' αὐτόν**, reading simply καὶ γράψω τὸ ὄνομα — "and I
+> will write the name," with no statement of what it is written *on*. 01, 02, RP
+> and KJTR have it; P115 has already broken off. **Not in the apparatus.**
+
+**τῆς καινῆς Ἰερουσαλήμ** · καινός gen. sing. fem. + indeclinable place-name.
+> **καινός, not νέος.** Greek has both words for "new" and they are not
+> synonyms: **νέος** is new **in time** (recent, young); **καινός** is new **in
+> kind** (fresh, unprecedented, of a different sort). καινός stands here and
+> again at the verse's last word. English has one word and the distinction does
+> not survive.
+>
+> ⚠️ **Orthography, not variant**: 01 and 04 spell it **κενῆς**, an αι/ε
+> itacism — but **κενός is itself a real Greek word meaning *empty***, so the
+> spelling collapses two distinct words into one written form. Context settles
+> it. The collapse is still worth seeing, because it is exactly the mechanism by
+> which real variants are born. 04 does the same at the end of the verse,
+> writing τὸ κενόν for τὸ καινόν.
+>
+> ⚠️ **The nomen sacrum for Jerusalem is contracted differently by different
+> scribes**: 01 writes **ΙΗΛΜ**; 02 and 04 write **ΙΛΗΜ**. Same word, two
+> conventions. Neither is a textual variant; together they are evidence that the
+> abbreviation system was not uniform.
+
+**ἡ καταβαίνουσα ἐκ τοῦ οὐρανοῦ**
+> καταβαίνω present active participle, **nominative** sing. fem., with the
+> article ἡ.
+>
+> 🛑 **The second solecism in the verse — and this is the one the apparatus does
+> carry.** The participle is **nominative**, but the noun it describes —
+> Ἰερουσαλήμ, governed by τῆς καινῆς — is **genitive**. The agreement simply
+> fails. Same grammatical habit as ὁ νικῶν at the verse's opening: Revelation
+> repeatedly lets a nominative float free of its case-frame.
+>
+> **RP repairs it**, reading **ἣ καταβαίνει** — relative pronoun with a finite
+> verb, "which comes down," which is grammatical.
+> `SBLGNT/data/sblgntapp/text/Rev.txt` at Rev 3:12 records exactly this and
+> nothing else: *καταβαίνουσα WH Treg NA28 ] καταβαίνει RP*. **It is the only
+> entry the apparatus has for all three verses.**
+>
+> ⚠️ **KJTR sides with the majuscules here**, keeping ἡ καταβαίνουσα. So the
+> Textus Receptus preserves the harder reading in v. 12 while adding a word in
+> v. 11 — a useful corrective to treating any printed tradition as uniformly
+> "smoothed" or uniformly "expanded."
+>
+> **οὐρανός** — *sky · the heavens · the region above.* Singular here. The word
+> covers the physical sky and the divine dwelling without distinguishing them;
+> Greek readers had no separate term for either. ⚠️ 02 and 04 write it as a
+> nomen sacrum (ΟΥΝΟΥ); **01 writes it out in full** — a small sign that the
+> class of words treated as sacred was still fluid.
+
+**καὶ τὸ ὄνομά μου τὸ καινόν**
+> The article repeated after the noun (τὸ ὄνομά μου **τὸ** καινόν) — attributive
+> position, which makes καινόν emphatic rather than incidental: *my name, the
+> new one.* All witnesses agree apart from 04's κενόν spelling, above.
+
+---
+
 # Variants — the whole range, in one place
 
 | Verse | SBLGNT prints | 01 Sinaiticus | 02 Alexandrinus | 04 Ephraemi | In apparatus? |
@@ -634,11 +949,39 @@ manuscripts on disk have it.
 | 9 | ἥξουσιν / προσκυνήσουσιν (fut.) | = | = | = | yes (RP subj.) |
 | 9 | **γνῶσιν** (3 pl.) | **γνώσῃ** (2 sg.) | γνῶσιν | γνῶσιν | 🛑 **no** |
 | 9 | ἐγώ | = | = | = | yes (RP omits) |
+| 10 | **ὅτι** ἐτήρησας | ὅτι | **καί** | ὅτι | 🛑 **no** |
+| 10 | **ἐτήρησας** | = | = | **ἐπῆρας** (ἐπαίρω) | 🛑 **no** |
+| 10 | σε **τηρήσω** ἐκ | **omits τηρήσω** | τηρήσω | τηρήσω | 🛑 **no** |
+| 10 | **ἐκ** τῆς ὥρας | = | = | = | no — all agree |
+| 11 | ἔρχομαι ταχύ (no ἰδού) | = | = | = | 🛑 **no** (KJTR **+ Ἰδού**) |
+| 11 | κράτει ὃ ἔχεις … στέφανον | = | = | = | no — all agree |
+| 12 | ποιήσω **αὐτόν** | **αὐτῷ** (dat.) | αὐτόν | αὐτόν | 🛑 **no** |
+| 12 | **ἐν** τῷ ναῷ | **omits ἐν** | ἐν | ἐν | 🛑 no |
+| 12 | ἐξέλθῃ **ἔτι** | **omits ἔτι** | ἔτι | ἔτι | 🛑 no |
+| 12 | γράψω **ἐπ' αὐτόν** | ἐπ' αὐτόν | ἐπ' αὐτόν | **omits** | 🛑 **no** |
+| 12 | ἡ **καταβαίνουσα** | = | = | = | ✅ **yes** (RP ἣ καταβαίνει) |
 
-**Eight disagreements among the three manuscripts are not in the printed
-apparatus at all.** Three of them change the sense: v. 3's condition (repent vs
-stay awake), v. 9's opening verb (perfect vs present), and v. 9's closing verb
-(you will know vs they will know).
+**P115** (vv. 10–12 only) agrees with 02/04 against 01 at every point where it is
+legible: it has τηρήσω-side text intact from πειράσαι on, ἔρχομαι ταχύ with no
+ἰδού, αὐτόν accusative, ἐν τῷ ναῷ, and ἔτι — then breaks off. Its only
+peculiarities are mechanical: a struck dittograph τοὺς τοὺς in v. 10 and ναοῦ
+corrected to ναῷ in v. 12.
+
+**Sixteen disagreements among the manuscripts are not in the printed apparatus at
+all**, and across the three added verses **the apparatus has exactly one entry**
+(καταβαίνουσα at v. 12) for eleven observable differences. Four of the new ones
+change the sense: v. 10's opening conjunction (because vs and), v. 10's first
+verb (kept vs lifted up), v. 10's missing τηρήσω in 01, and v. 12's αὐτῷ vs
+αὐτόν (a pillar *given to* him vs him *being* the pillar).
+
+> [!important] The v. 11 case is the sharpest one in the file
+> At v. 11 **four manuscripts and RP all agree**, and **KJTR alone adds Ἰδού** —
+> which is the KJV's "Behold." An apparatus that collates only printed critical
+> editions will never show this, because WH, Treg, NA28 and RP *all* omit the
+> word: there is no disagreement *among editions* to record. The addition is
+> visible only by opening the Textus Receptus and the manuscripts side by side.
+> **A word can be in the most-read English Bible in the world and have no
+> support in any witness on this disk, and no apparatus will tell you.**
 
 > [!important] What this means about the printed text
 > This is not a claim that SBLGNT is careless — its apparatus is explicitly a
@@ -653,15 +996,30 @@ stay awake), v. 9's opening verb (perfect vs present), and v. 9's closing verb
 
 # What this passage cannot tell us
 
-- **There is no witness here older than the 4th century.** P47 begins at 9:10;
-  P115 at 3:10 — one verse too late. Whatever happened to this text in its first
-  250 years is not recoverable from anything on this disk.
-- **Where 01, 02 and 04 disagree, there is no fourth vote.** With Vaticanus and
-  Bezae both lacking Revelation entirely, this range has the thinnest witness
-  base of any passage translated in this project so far. Two-against-one is the
-  *most* that can ever be assembled here, and two-against-one among three
-  manuscripts is a weak argument, not a strong one. Compare Isaiah 53:11, where
-  independent convergence across traditions made a real case.
+- **In vv. 2–9 there is no witness older than the 4th century.** P47 begins at
+  9:10; P115 at 3:10. Whatever happened to that text in its first 250 years is
+  not recoverable from anything on this disk. **In vv. 10–12 P115 lowers the
+  floor by roughly a century — but only there**, and its date is not on disk
+  either (see the note at the top).
+- **Where 01, 02 and 04 disagree in vv. 2–9, there is no fourth vote.** With
+  Vaticanus and Bezae both lacking Revelation entirely, that range has the
+  thinnest witness base of any passage translated in this project so far.
+  Two-against-one is the *most* that can ever be assembled there, and
+  two-against-one among three manuscripts is a weak argument, not a strong one.
+  Compare Isaiah 53:11, where independent convergence across traditions made a
+  real case. **vv. 10–12 are marginally better off** — P115 gives a genuine
+  third vote against Sinaiticus's several singular readings — but it is
+  fragmentary and stops inside v. 12.
+- **ἐκ at v. 10 does not decide the question that is asked of it.** The
+  preposition is stable across every witness; what it *implies* about being kept
+  outside a trial versus preserved through one is an argument about idiom, and
+  the idiom is not established by this verse or by the frequency of τηρέω + ἐκ in
+  the corpus. Both readings survive the grammar, and this file does not choose.
+- **The two solecisms in v. 12 are not evidence of a bad copyist.** They are
+  uncorrected in all four witnesses, which means they are what the text *is*.
+  Whether they reflect a Semitic-language substrate, deliberate style, or
+  imperfect Greek is a question about the author, and nothing in the manuscripts
+  answers it.
 - **The grammar of v. 9 does not identify anyone.** It says a claim is made and
   denied. Who is making it, on what grounds, and what the denial rests on are
   not in the Greek, and this file does not supply them.
@@ -678,15 +1036,46 @@ stay awake), v. 9's opening verb (perfect vs present), and v. 9's closing verb
 ## Provenance of this file
 
 **OURS** — our own translation and analysis. Sources: SBLGNT (**EDITED**, 2010),
-MorphGNT tagging (**ANALYSIS**), CNTR transcriptions of GA 01, 02, 04
+MorphGNT tagging (**ANALYSIS**), CNTR transcriptions of GA 01, 02, 04 and P115
 (**ORIGINAL** — diplomatic transcriptions of manuscripts, not photographs; we
-hold **no manuscript images**). No English translation, interlinear, or gloss
-file was consulted. Regenerate the manuscript readings with:
+hold **no manuscript images**), and the CNTR files for the printed **RP** and
+**KJTR** (**EDITED** — printed editions, used only to locate divergence). No
+English translation, interlinear, or gloss file was consulted. Regenerate the
+manuscript readings with:
 
 ```
-./tools/cntr_read.py 01 66 3 2 9
-./tools/cntr_read.py 02 66 3 2 9
-./tools/cntr_read.py 04 66 3 2 9
-awk '$1>=270302 && $1<=270309' greek-nt/morphgnt/87-Re-morphgnt.txt
-awk '/^3:2 /,/^3:10 /' greek-nt/SBLGNT/data/sblgntapp/text/Rev.txt
+./tools/cntr_read.py 01 66 3 2 12
+./tools/cntr_read.py 02 66 3 2 12
+./tools/cntr_read.py 04 66 3 2 12
+./tools/cntr_read.py P115 66 3 10 12          # enters at v.10, breaks off in v.12
+grep -E '^66003(01[012])' 'papyri/cntr-transcriptions/critical texts/RP.txt'
+grep -E '^66003(01[012])' 'papyri/cntr-transcriptions/critical texts/KJTR.txt'
+awk '$1>=270302 && $1<=270312' greek-nt/morphgnt/87-Re-morphgnt.txt
+sed -n '/^Revelation 3:2$/,/^Revelation 3:14$/p' \
+    greek-nt/SBLGNT/data/sblgntapp/text/Rev.txt
 ```
+
+> [!warning] The apparatus command in this file was wrong until 2026-08-21
+> The earlier version read `awk '/^3:2 /,/^3:10 /' … Rev.txt` and **it did not
+> do what it claimed**. In `sblgntapp`, only the **first entry of a chapter**
+> carries a `C:V` prefix (`3:2 ἔμελλον…`); every later entry in that chapter is
+> keyed by **bare verse number** (`3 ἥξω…`, `9 διδῶ…`, `12 καταβαίνουσα…`). So
+> the closing pattern `/^3:10 /` never matched anything, the awk range ran from
+> line 107 to end-of-file, and the command silently returned **864 lines — the
+> rest of the book** — instead of the eight verses it named. It never errored.
+>
+> The lesson is the file's own: **a reproduction command that cannot fail is not
+> a reproduction command.** The replacement above anchors on the
+> `Revelation C:V` header lines and returns 28 lines. Re-check it by counting.
+
+**Counts cited in this file, and how to re-check them:**
+
+```
+grep -c ' διάδημα$' greek-nt/morphgnt/87-Re-morphgnt.txt   # 3
+grep -c ' στέφανος$' greek-nt/morphgnt/87-Re-morphgnt.txt  # 8
+grep -c ' ναός$'     greek-nt/morphgnt/87-Re-morphgnt.txt  # 16
+grep -c ' ἱερόν$'    greek-nt/morphgnt/87-Re-morphgnt.txt  # 0
+```
+
+**Extended 2026-08-21** from 3:2–9 to 3:2–12. The three added verses complete the
+letter to Philadelphia; the earlier range ended mid-letter.
