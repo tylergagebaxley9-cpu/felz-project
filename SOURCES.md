@@ -9,8 +9,8 @@ Everything below is linked with its **licence stated**, so you can decide what t
 ## Quick start
 
 ```bash
-git clone https://github.com/tylergagebaxley9-cpu/felz-project.git
-cd felz-project
+git clone https://github.com/tylergagebaxley9-cpu/bible-research.git
+cd bible-research
 ./fetch.sh                    # 27 git sources, pinned to exact commits in corpus.lock
 python3 tools/pull_texts.py   # 246 archive.org text layers (~730 MB)
 python3 tools/pull_targums.py # 35 targum books via the Sefaria API
@@ -27,6 +27,67 @@ Then any finding in `HIGHLIGHTS.md` is reproducible:
 
 Disk: ~9.5 GB for everything. The **text-only tier is under 1 GB** and carries every
 finding in `HIGHLIGHTS.md` — see "Minimal set" at the bottom.
+
+---
+
+## Secondary literature — the hexagram / Star of David question
+
+Cited in `docs/RESEARCH-star-of-david.md` and `translations/star-and-synagogue.md`
+Part II. **NOT OURS** — none of it is a text in this corpus, and none of it was read
+in full. Listed so the chain is auditable.
+
+> 🛑 **Everything here postdates the after-1820 line.** It answers *what a symbol
+> looked like and when it acquired meaning* — a question the corpus cannot settle —
+> and must never be mixed with regenerated findings.
+
+### Public domain — fetchable
+
+| Source | Licence | Link |
+|---|---|---|
+| **Agrippa, *De occulta philosophia libri tres*, Köln 1533** — Book II has the planetary magic squares. **Saturn = 3×3, not a hexagram.** | **Public domain** (1533) | https://archive.org/details/DeOccultaPhilosophiaLoc1533 · https://archive.org/details/DeOccultaPhilosophiaJungCollection1533 · https://archive.org/details/McGillLibrary-osl_henrici-cornelii-agrippae_folioA279o1533-19978 |
+| Agrippa Bk. II, English transcription (Esoteric Archives) | Transcription of a public-domain text | https://www.esotericarchives.com/agrippa/agrippa2.htm |
+
+> ⚠️ **The Agrippa claim is the one most damaging to the popular Amos→hexagram
+> argument, and it is currently sourced from practitioner blogs, not from this text.**
+> The 1533 scans above are free. **Check Book II directly before the claim is relied
+> on.** This is the highest-value unfinished verification in the file.
+
+### Copyrighted — linked, not redistributed
+
+| Source | Licence | Link |
+|---|---|---|
+| **Scholem, "The Curious History of the Six-Pointed Star,"** *Commentary* 8/3 (Sept 1949): 243–251 | © Commentary | https://www.commentary.org/articles/gershom-scholem/the-curious-history-of-the-six-pointed-starhow-the-magen-david-became-the-jewish-symbol/ 🛑 **403 — not read** |
+| **Scholem, *Kabbalah* (1974), 362–368** — the Sidon seal | © | — |
+| **Scholem, "The Star of David: History of a Symbol,"** in *The Messianic Idea in Judaism* (1971) | © Schocken | — |
+| **Oegema, *The History of the Shield of David: The Birth of a Symbol*** (Peter Lang, 1996), ISBN 3-631-30192-8 | © Peter Lang | https://research.rug.nl/en/publications/recensie-van-gs-oegema-the-history-of-the-shield-of-david-the-birth-of-a-symbol-frankfurt-am-main-1996 |
+| Britannica, "Star of David" | © | https://www.britannica.com/topic/Star-of-David 🛑 **403 — not read** |
+
+### Institutional and press summaries of Scholem
+
+| Source | Class | Link |
+|---|---|---|
+| National Library of Israel | Institutional | https://blog.nli.org.il/en/star-of-david/ |
+| Ynet | Press | https://www.ynetnews.com/articles/0,7340,L-3709939,00.html |
+| Moment Magazine | Press | https://momentmag.com/the-star-of-david-between-judaism-and-zionism/ |
+
+### Tertiary — where weaker claims came from, recorded so they are not mistaken for scholarship
+
+| Source | Class | What it carried |
+|---|---|---|
+| https://www.mayimachronim.com/secrets-of-the-star-of-david/ | Popular blog | ⚠️ **The Sidon seal / Joshua ben Asayahu / *Kabbalah* 362–368 attribution.** The single most load-bearing item, on a tertiary source. **Verify against Scholem.** |
+| http://furtherlight.blogspot.com/2009/11/agrippas-magic-squares-part-1.html | Practitioner blog | Agrippa Saturn 3×3 |
+| https://www.learnreligions.com/planetary-magical-squares-4123077 | Tertiary | Saturn 3/9/15/45 |
+| http://ananael.blogspot.com/2011/03/planetary-magick.html | Practitioner blog | Golden Dawn hexagram = seven planets |
+| https://occult-world.com/seal-of-solomon/ | Occult wiki | "hexagram = Saturn talisman" |
+| https://mandalashop-online.com/en/blog/meaning-of-the-seal-of-solomon-hexagram-n72 | **Commercial retailer** | same |
+| https://www.sabbath.org/index.cfm/fuseaction/Audio.details/ID/3951/Six-Pointed-Occult-Symbol.htm | **Religious polemic** | same |
+| https://themegasaeon.substack.com/p/the-secrets-of-saturn | Substack | same |
+
+> 🛑 **The four rows above marked "same" are the entire located sourcing for
+> "the hexagram is Saturn's talisman in Kabbalistic sources."** A retailer, an occult
+> wiki, a sermon site, a Substack. **No scholarly source. No primary text.** The claim
+> is marked UNSOURCED in `docs/RESEARCH-star-of-david.md` rather than dropped, so the
+> gap stays visible.
 
 ---
 
